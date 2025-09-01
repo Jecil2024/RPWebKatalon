@@ -1,10 +1,12 @@
 import com.kms.katalon.core.annotation.AfterTestCase
 import com.kms.katalon.core.annotation.AfterTestSuite
+import com.kms.katalon.core.annotation.BeforeTestSuite
 import com.kms.katalon.core.context.TestCaseContext
 import com.kms.katalon.core.context.TestSuiteContext
 import groovy.json.JsonOutput
 import java.net.HttpURLConnection
 import java.net.URL
+import helper.EnvLoader
 
 class SlackListener {
 
@@ -14,8 +16,21 @@ class SlackListener {
     static int error = 0
     static int skipped = 0
 
-    // Replace with your Slack Incoming Webhook URL
-    static String webhookUrl = "https://hooks.slack.com/services/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"
+    static String webhookUrl = null
+
+    @BeforeTestSuite
+    def beforeTestSuite(TestSuiteContext testSuiteContext) {
+        Map<String, String> env = EnvLoader.loadEnv()
+        webhookUrl = env["SLACK_WEBHOOK_URL"]
+
+        if (!webhookUrl) {
+            println "⚠️ Missing SLACK_WEBHOOK_URL in .env file!"
+            return
+        }
+
+        String message = "🚀 Test Suite Started: " + testSuiteContext.getTestSuiteId()
+        sendToSlack(message)
+    }
 
     @AfterTestCase
     def countResults(TestCaseContext testCaseContext) {
@@ -38,10 +53,15 @@ class SlackListener {
 
     @AfterTestSuite
     def notifySlack(TestSuiteContext suiteContext) {
+        if (!webhookUrl) {
+            println "⚠️ Slack Webhook not configured, skipping notification."
+            return
+        }
+
         try {
             String suiteName = suiteContext.getTestSuiteId()
 
-            String message = """*Summary execution result of test suite:* ${suiteName}
+            String message = """*📊 Summary execution result of test suite:* ${suiteName}
 • Total test cases: ${total}
 • ✅ Passed: ${passed}
 • ❌ Failed: ${failed}

@@ -27,3 +27,6 @@ adbkey.pub
 
 # Node modules (if used)
 node_modules/
+
+# Environment variables
+.env
