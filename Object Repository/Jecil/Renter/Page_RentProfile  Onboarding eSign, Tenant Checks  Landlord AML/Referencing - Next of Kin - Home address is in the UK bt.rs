@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Referencing - Next of Kin - Home address is in the UK bt</name>
+   <tag></tag>
+   <elementGuidId>cc142475-363a-4939-94b7-ece2d3b5f40a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#p_uk_address > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='show_uk_address(this);']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9e76a2eb-6fbe-426e-a899-d2267e976290</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>3639f0f6-17e0-4349-ae84-0098c6d6a738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>show_uk_address(this);</value>
+      <webElementGuid>1b7d0075-c6d9-4688-8a9f-8499615eaee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Home address is in the UK</value>
+      <webElementGuid>52d2f102-6135-48a3-aa00-76271c5ea96e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p_uk_address&quot;)/a[1]</value>
+      <webElementGuid>84b11edd-244f-49f1-9151-ba251f05c315</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='show_uk_address(this);']</value>
+      <webElementGuid>7370e331-ddc3-47f2-bf64-7bb65a3e2155</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//p[@id='p_uk_address']/a</value>
+      <webElementGuid>c0ca1827-c379-477f-ac91-be9b33a8388e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Home address is in the UK')]</value>
+      <webElementGuid>1d1caa18-def0-4cd5-923e-4d201490f913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next of Kin'])[1]/following::a[2]</value>
+      <webElementGuid>b5e40cd7-d423-4820-ab34-f78913892a26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[2]/following::a[2]</value>
+      <webElementGuid>565b430d-c5ae-49e9-8199-d75aa7c2d392</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[2]</value>
+      <webElementGuid>e76e2a8c-376f-433c-a0cf-4aeef64f2755</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::a[3]</value>
+      <webElementGuid>1a8019aa-2b5a-476e-85d6-15d0a9ed2fe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Home address is in the UK']/parent::*</value>
+      <webElementGuid>e2cead4a-defc-4a7d-a9a7-68d64457069b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>3e4c1282-5b45-4dc3-a4a3-cf1f4e6ac5da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/p/a</value>
+      <webElementGuid>8423fcf4-7f75-4bd2-a206-fb3c5bfb6cee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Home address is in the UK' or . = 'Home address is in the UK')]</value>
+      <webElementGuid>d5240dbd-712a-440f-9567-50f5adfc1732</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

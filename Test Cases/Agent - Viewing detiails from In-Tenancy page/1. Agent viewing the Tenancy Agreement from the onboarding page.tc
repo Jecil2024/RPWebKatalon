@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Agent viewing the Tenancy Agreement from the onboarding page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0492a9d0-a70d-4d59-805b-c117e8d463f8</testCaseGuid>
+</TestCaseEntity>

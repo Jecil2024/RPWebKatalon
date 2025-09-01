@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Signed_TenancyAgreement</name>
+   <tag></tag>
+   <elementGuidId>a59af1b1-7ef1-4f94-902b-d693a0a05ec2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sectioncenter.progresssectiontext > span > a.progresssectiontext</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick=&quot;show_sign('a5a2afc7e4a2a05d9642664e2f2ae9048aa21d9d558c6b8221d99e8b2796578ce3ab4719e55675510935cae040ef62','13/11/2024, 08:12:52')&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2ad9afd9-6631-47a4-b2f9-b6d0278941dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>progresssectiontext</value>
+      <webElementGuid>ec41488b-d96c-4681-ad51-6afb04f1dc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>237871bf-124e-4a8a-912a-df3224532429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>show_sign('a5a2afc7e4a2a05d9642664e2f2ae9048aa21d9d558c6b8221d99e8b2796578ce3ab4719e55675510935cae040ef62','13/11/2024, 08:12:52')</value>
+      <webElementGuid>acc1ad7e-0451-4e90-bd4d-cef020f19794</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Signed</value>
+      <webElementGuid>541f1c11-2606-407c-a8a8-74147ff47753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;requeststab&quot;)/div[@class=&quot;tab-content&quot;]/div[@id=&quot;checkstablecontainer&quot;]/span[1]/div[@id=&quot;checkstablecontainer&quot;]/div[@id=&quot;checkstable&quot;]/table[@id=&quot;checkstabletable&quot;]/tbody[1]/tr[2]/td[6]/p[@class=&quot;sectioncenter progresssectiontext&quot;]/span[1]/a[@class=&quot;progresssectiontext&quot;]</value>
+      <webElementGuid>a58a63e1-cf66-4324-9444-9552783271a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick=&quot;show_sign('a5a2afc7e4a2a05d9642664e2f2ae9048aa21d9d558c6b8221d99e8b2796578ce3ab4719e55675510935cae040ef62','13/11/2024, 08:12:52')&quot;]</value>
+      <webElementGuid>6317a108-666d-4bab-9111-da7c4af52814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='checkstabletable']/tbody/tr[2]/td[6]/p/span/a</value>
+      <webElementGuid>a119dac4-a0cc-435f-924d-c7c3361c3873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Signed')]</value>
+      <webElementGuid>7131d528-be3a-44a1-9b89-5193de2e8721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View'])[1]/following::a[1]</value>
+      <webElementGuid>94e250f2-9f1a-49c1-a791-1526ff4161c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agreed'])[2]/following::a[3]</value>
+      <webElementGuid>9e76ad5c-7c08-410c-9070-aba18efa6215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[1]/preceding::a[3]</value>
+      <webElementGuid>17b7ba84-990a-4358-aec4-f9584cc62ed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update'])[1]/preceding::a[3]</value>
+      <webElementGuid>ac3aa452-1d20-4d16-99c5-a4b1d14917bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Signed']/parent::*</value>
+      <webElementGuid>d881060d-0eff-4f68-b2a2-d79a6c6a4481</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>763638c0-5acd-4a5b-ba38-20cd220edb0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/p/span/a</value>
+      <webElementGuid>95da2ec4-b696-4981-ade8-942e2945a9e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Signed' or . = 'Signed')]</value>
+      <webElementGuid>4f63f974-7cee-4df2-aa52-5f7c27824687</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

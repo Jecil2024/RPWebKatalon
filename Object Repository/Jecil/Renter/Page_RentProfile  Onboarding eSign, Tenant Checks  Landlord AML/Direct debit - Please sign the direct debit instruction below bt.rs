@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Direct debit - Please sign the direct debit instruction below bt</name>
+   <tag></tag>
+   <elementGuidId>09f2f024-db98-437a-867a-a4ebf3ca07b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>font</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='scroll_to_sign_agreement']/font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>688fc7c4-19b8-43ed-b05a-45c27c813819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Please sign the direct debit instruction below</value>
+      <webElementGuid>f0b4c490-e24f-43a4-a7e4-af05a4294e62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scroll_to_sign_agreement&quot;)/font[1]</value>
+      <webElementGuid>a58bbd8d-41ef-46e1-a322-1c424551d61d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='scroll_to_sign_agreement']/font</value>
+      <webElementGuid>2e5285f5-a6fa-40aa-a76a-2e84e2f2335d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture3'])[1]/following::font[1]</value>
+      <webElementGuid>7f46066c-829e-4394-8cb5-2550b7afe909</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for signing the direct debit instruction'])[1]/following::font[1]</value>
+      <webElementGuid>451aab18-df81-42b4-a132-85f2a4fafe83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INTERPRETATION'])[1]/preceding::font[1]</value>
+      <webElementGuid>ae69104b-2d2a-4274-b0a5-0e5269c914d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LICENCE TO PARK'])[1]/preceding::font[1]</value>
+      <webElementGuid>7688d6e4-9184-4e46-9c27-a29d02ce2836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please sign the direct debit instruction below']/parent::*</value>
+      <webElementGuid>3034ecb1-5105-4725-92a8-8b04ec55fec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font</value>
+      <webElementGuid>c9dc598f-6363-4ddb-a18f-4f0256f18e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = ' Please sign the direct debit instruction below' or . = ' Please sign the direct debit instruction below')]</value>
+      <webElementGuid>9786c3e4-706e-43a5-94ef-c3bd268e4a30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

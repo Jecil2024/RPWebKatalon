@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - I have Frontier Worker permit bt</name>
+   <tag></tag>
+   <elementGuidId>2c01d555-fac1-43a9-a239-1727ea8bd81c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='frontier_worker_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#frontier_worker_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55170783-372f-41b7-a4be-712a846af3fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>d05838b5-d4f9-4160-a36d-fd2fd8e625b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>frontier_worker_btn</value>
+      <webElementGuid>291ef8be-4255-453d-b271-58a92306a573</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have Frontier Worker permit</value>
+      <webElementGuid>fcf2ccfe-92b0-4c55-a01b-5dff387818d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frontier_worker_btn&quot;)</value>
+      <webElementGuid>63fcfc86-1ec9-4dd9-bc56-b8c7dcdb85b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='frontier_worker_btn']</value>
+      <webElementGuid>a5d5a9db-bec6-4ded-ae0b-3a4dbb23e5f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div[5]</value>
+      <webElementGuid>4820ec6a-d814-4306-8abe-ad9fce5b8653</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have a pending visa application with the UK government'])[1]/following::div[1]</value>
+      <webElementGuid>dec9261f-f654-4692-8b19-8db44e04f331</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Settled (or Pre-Settled) Status in the UK'])[1]/following::div[2]</value>
+      <webElementGuid>d0d3dd6b-c6f9-42d8-a1d7-5cec0bc2c86f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have other accepted documentation for Right to Rent'])[1]/preceding::div[1]</value>
+      <webElementGuid>77e07598-10f9-4c93-9d68-a214c5d0f518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have Frontier Worker permit']/parent::*</value>
+      <webElementGuid>94e61829-e1d1-4fb9-9792-18b38c345e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]</value>
+      <webElementGuid>1d5fed06-541b-4ea7-8d83-1da7e63a13e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'frontier_worker_btn' and (text() = 'I have Frontier Worker permit' or . = 'I have Frontier Worker permit')]</value>
+      <webElementGuid>1a779e68-a7c6-4195-bcff-542a213a4455</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

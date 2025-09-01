@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>47. Agent - Car Parking - process of checking whether the search bar functions correctly when searching for a tenant, building or bay number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>49f823ef-4ead-4abf-a852-7143a1f42ce2</testCaseGuid>
+</TestCaseEntity>

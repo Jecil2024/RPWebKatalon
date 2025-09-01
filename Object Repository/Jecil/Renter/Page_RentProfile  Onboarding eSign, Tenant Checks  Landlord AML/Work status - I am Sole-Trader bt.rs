@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Work status - I am Sole-Trader bt</name>
+   <tag></tag>
+   <elementGuidId>2652739e-5341-41f6-b23f-d8c9d1a3cd69</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='changeValueSoletrader()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ffae0040-324d-4a44-80ec-28af35eab026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block</value>
+      <webElementGuid>3c1dc09a-d02a-4640-88fd-149bbd552667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeValueSoletrader()</value>
+      <webElementGuid>dacaf736-21b0-42cc-a520-6934499f2bb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I am a Sole-Trader</value>
+      <webElementGuid>29008d20-079e-4b97-b9da-757fe96fc97c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selfemployedbtns&quot;)/div[@class=&quot;btn btn-default btn-lg btn-block&quot;]</value>
+      <webElementGuid>a08e3cc8-6af2-4159-816c-0ed0cea6d2c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='changeValueSoletrader()']</value>
+      <webElementGuid>2491798d-a92e-4a5a-98c7-e6fe7f769e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selfemployedbtns']/div[3]</value>
+      <webElementGuid>4b6425a5-4657-4563-81b3-b18e61a4a3af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am a Director of a LTD Company'])[1]/following::div[1]</value>
+      <webElementGuid>6b8001cb-367a-453b-8448-e1e6327f1d43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Employed'])[1]/following::div[2]</value>
+      <webElementGuid>16f79a3b-48e2-4e89-bd53-d6ba293f8091</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am a Partner of an LLP Company'])[1]/preceding::div[1]</value>
+      <webElementGuid>57549a8e-eaa0-464c-bf10-554a527b9da3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back a step'])[1]/preceding::div[2]</value>
+      <webElementGuid>0f7d53a6-9862-4e39-a35e-150d7cbbcc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I am a Sole-Trader']/parent::*</value>
+      <webElementGuid>6b289b0e-b24c-454f-9e12-798d3febe39f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div[3]</value>
+      <webElementGuid>2da8eeac-0dec-46f3-8168-1ae7878d4dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'I am a Sole-Trader' or . = 'I am a Sole-Trader')]</value>
+      <webElementGuid>6e2707c5-0e82-4d55-80b9-aa1b6f8b02b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

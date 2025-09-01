@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Menu - Login bt</name>
+   <tag></tag>
+   <elementGuidId>10e386a5-2c17-45cd-965e-4f4b0b8e0840</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav.navbar-nav.navbar-right.cardlarge.hidden-sm.hidden-xs</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-section']/div/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bbfdfb62-e08d-4aad-8dc9-3a2a4e4957f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav navbar-nav navbar-right cardlarge hidden-sm hidden-xs</value>
+      <webElementGuid>c22940df-0612-4020-85bd-a9e745beae73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        LOGIN
+      </value>
+      <webElementGuid>bda0c4c6-9bd3-4a2b-9365-be961917d9f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-section&quot;)/div[@class=&quot;container-fluid&quot;]/a[@class=&quot;hidden-sm hidden-xs&quot;]/div[@class=&quot;nav navbar-nav navbar-right cardlarge hidden-sm hidden-xs&quot;]</value>
+      <webElementGuid>e779d08a-f071-4018-8806-454dba0032d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-section']/div/a/div</value>
+      <webElementGuid>7850c48d-68d8-480c-948a-0c70c8debc54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::div[3]</value>
+      <webElementGuid>15d050fe-c689-40b7-a82a-a653226575d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT'])[1]/following::div[5]</value>
+      <webElementGuid>52818e35-fb5a-4309-8384-e075a9c25f2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Nav'])[2]/preceding::div[4]</value>
+      <webElementGuid>d7981bb9-9609-44ab-964d-679722e05720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RENTER SIGNUP'])[1]/preceding::div[5]</value>
+      <webElementGuid>fa22326a-fb2e-4d80-91b4-8ea1e470c104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div</value>
+      <webElementGuid>e79433af-4b73-4b77-8708-580904283d3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+        LOGIN
+      ' or . = '
+        LOGIN
+      ')]</value>
+      <webElementGuid>37e41df1-5b56-4f48-ac76-91307e292a6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

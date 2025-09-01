@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>61. Agent - Viewing the Policy Wording on Rent Guarantee page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94cee09e-2c4b-4db6-9a55-de3ba6c277a2</testCaseGuid>
+</TestCaseEntity>

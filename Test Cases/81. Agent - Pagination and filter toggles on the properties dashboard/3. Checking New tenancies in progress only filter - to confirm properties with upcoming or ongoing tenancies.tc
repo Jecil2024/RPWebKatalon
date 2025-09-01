@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Checking New tenancies in progress only filter - to confirm properties with upcoming or ongoing tenancies</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a6e0b692-b2e7-4d46-ad73-d542ca62eb37</testCaseGuid>
+</TestCaseEntity>

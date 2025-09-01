@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Landlord AML - Owner is Business</name>
+   <tag></tag>
+   <elementGuidId>dfdbe7ca-ea93-4389-816f-69d7953da986</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='new_aml']/div[3]/div/div/ul/li[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>377057e0-54db-439c-8cdb-c40f95a57c6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#ownerbusiness</value>
+      <webElementGuid>9d91b84f-f487-4ef4-ba5f-b4045a2375dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>ownerbusiness</value>
+      <webElementGuid>22a79dfc-bfd3-440f-ba7e-c2ad818c583c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>1d537a52-71bb-40f0-bdef-670ea062e260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>7070dd9a-0d6b-4ebf-a838-18b3b2c387a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Owner is Business</value>
+      <webElementGuid>3c80ceaa-36f8-4fb5-825f-fbfc9d2051e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_aml&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[2]/span[1]</value>
+      <webElementGuid>2db9690e-46ed-410b-94d0-7eb987ea38d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_aml']/div[3]/div/div/ul/li[2]/span</value>
+      <webElementGuid>9e313b97-abf4-42b6-938f-a88711bcfc71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner is individual'])[1]/following::span[1]</value>
+      <webElementGuid>f4c97176-6914-45d6-8e82-3125290883a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Landlord AML'])[1]/following::span[2]</value>
+      <webElementGuid>b1b8862e-bab7-4664-b16a-d66e9b73a5a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::span[1]</value>
+      <webElementGuid>899496c9-efb1-4c0a-a318-6d50379acb69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::span[3]</value>
+      <webElementGuid>2b1db6f4-8813-400f-8ff1-0fba2e7b3692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Owner is Business']/parent::*</value>
+      <webElementGuid>5f76cb84-bf77-43a5-963d-6747effb38e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span</value>
+      <webElementGuid>8d400fc8-303b-4d87-9ca6-7fa78e368f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@href = '#ownerbusiness' and (text() = 'Owner is Business' or . = 'Owner is Business')]</value>
+      <webElementGuid>3357c577-8964-4dba-9a7d-dfd44a41693c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

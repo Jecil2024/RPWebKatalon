@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Work status - I am retired bt</name>
+   <tag></tag>
+   <elementGuidId>da0a6b2b-b241-4c66-a6be-2981e6d90d8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='changeValueRetired()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de787444-2658-4d3f-9e08-9cee23e5d7fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>32fc0b95-698a-4411-b9fb-e5cfadb2a490</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeValueRetired()</value>
+      <webElementGuid>014c6c33-2969-4e5f-a33b-3eb76a2a124e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I am retired</value>
+      <webElementGuid>a742da99-26c8-4518-976b-29d95756dbc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;employmentbtns&quot;)/div[@class=&quot;btn btn-default btn-lg btn-block button_mobile&quot;]</value>
+      <webElementGuid>067a422b-e8be-43dc-acfc-8ab53179cc7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='changeValueRetired()']</value>
+      <webElementGuid>fa2c332c-4bf1-447d-8e1f-50eb735719de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div[6]</value>
+      <webElementGuid>8df6f49d-80f9-4c82-b0f5-f99876017734</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am currently unemployed'])[1]/following::div[1]</value>
+      <webElementGuid>35d29770-5b54-4475-a225-c82feedb8c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am a student'])[1]/following::div[2]</value>
+      <webElementGuid>7b757ce0-7112-4872-9544-cf3e9a75a650</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have sufficient savings'])[1]/preceding::div[1]</value>
+      <webElementGuid>2ba727e2-d91f-4044-91db-4afb780e051e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back to myRentProfile'])[1]/preceding::div[2]</value>
+      <webElementGuid>44616d8a-c125-49dc-aa2d-dd73b9786c6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I am retired']/parent::*</value>
+      <webElementGuid>6289b5c7-7ea4-4729-9745-de3c8dd2b7bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[6]</value>
+      <webElementGuid>221fafd0-19a0-438d-b45f-b9b5310d512c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'I am retired' or . = 'I am retired')]</value>
+      <webElementGuid>39e69eb2-ad03-4e5a-99d2-39593a7c1565</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

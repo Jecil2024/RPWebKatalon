@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Currently in live once the tenancy starts and the Car Parking is issued but not completed by the renter it crashes the app.</description>
+   <name>28. As an agent I would like to be able to access In Tenancy page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46d5e9d7-921b-40f0-8caa-4f7d7ab478ba</testCaseGuid>
+</TestCaseEntity>

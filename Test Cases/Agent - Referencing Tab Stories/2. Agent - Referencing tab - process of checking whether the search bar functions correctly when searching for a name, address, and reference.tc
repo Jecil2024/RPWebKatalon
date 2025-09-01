@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Agent - Referencing tab - process of checking whether the search bar functions correctly when searching for a name, address, and reference</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a65cd761-a9a3-4ce0-b06b-f7e9f81b0c1a</testCaseGuid>
+</TestCaseEntity>

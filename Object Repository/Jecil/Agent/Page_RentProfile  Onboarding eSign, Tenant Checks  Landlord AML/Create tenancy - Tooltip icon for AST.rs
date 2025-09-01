@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip icon for AST</name>
+   <tag></tag>
+   <elementGuidId>2c43d1cc-0006-4072-8d03-0f703599a5a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='new_invite']/table[2]/tbody/tr[2]/td[2]/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-question-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>25f80730-f620-4e87-9109-3706feb66139</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-question-circle</value>
+      <webElementGuid>cd8da7e7-3272-498e-874c-d9423c9c34a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>039a07a8-d221-4183-a20b-16dc74fd2434</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;branchaddresscostdiv&quot;)/form[@id=&quot;new_invite&quot;]/table[@class=&quot;addtenancyblockcontainer&quot;]/tbody[1]/tr[2]/td[2]/div[@class=&quot;clause_example_popup&quot;]/a[1]/i[@class=&quot;fa fa-question-circle&quot;]</value>
+      <webElementGuid>def41081-a644-42fd-aa12-bd01250cc096</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_invite']/table[2]/tbody/tr[2]/td[2]/div/a/i</value>
+      <webElementGuid>0ed8713d-0743-4d6d-b4e4-9e29c61f908d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/a/i</value>
+      <webElementGuid>9b0b3ca7-bea3-4e31-ac0a-850cd9e38171</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Direct Debit - Start bt</name>
+   <tag></tag>
+   <elementGuidId>1875638d-ff2e-4d6a-b7c1-f55eb0eccf25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-green.btn-lg > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='addon_2']/span/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c89b35bc-4851-414c-8032-5be1e94a047c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start</value>
+      <webElementGuid>4012951b-0555-4c0c-9464-6d1656a36181</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;addon_2&quot;)/span[1]/a[@class=&quot;btn btn-green btn-lg&quot;]/span[1]</value>
+      <webElementGuid>3f6bb432-79a7-4fa4-9761-407da3962693</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='addon_2']/span/a/span</value>
+      <webElementGuid>a734bfea-b502-4ae8-9aa3-8754f798e418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[2]/following::span[2]</value>
+      <webElementGuid>6b8063e9-5f11-43fc-a78b-1ba187e81550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::span[1]</value>
+      <webElementGuid>d9f19ad7-4f24-4cbe-90d5-486db526b0c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/preceding::span[1]</value>
+      <webElementGuid>580d5948-856e-4e32-9534-26b20adbd1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start']/parent::*</value>
+      <webElementGuid>c8007768-034d-465b-b9b9-f0ce3b0a2824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span/a/span</value>
+      <webElementGuid>01ff8515-d4a6-4ed4-873e-7c603b3d472b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start' or . = 'Start')]</value>
+      <webElementGuid>79e6ed25-f804-442e-bb2f-03642947b322</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

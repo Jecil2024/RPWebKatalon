@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Properties-Onboarding - Search icon</name>
+   <tag></tag>
+   <elementGuidId>8379eebe-3a3d-4221-8977-189b395d3aff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>form > button[name=&quot;button&quot;] > i.fa.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='requeststab2']/div/div/form/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>04de1b55-41ba-45a8-be89-b9aef6fc32e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>e1328718-9274-4dbb-88ba-07e827c4a7f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;requeststab2&quot;)/div[@class=&quot;tab-content&quot;]/div[@class=&quot;agentdashboardcheckscontainer&quot;]/form[1]/button[@class=&quot;btn btn-darkgrey btn-lg btn-block&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>ed355af3-db09-4d71-b46e-d4dde8c8363a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='requeststab2']/div/div/form/button/i</value>
+      <webElementGuid>0fca0eab-f7a8-4dd1-a221-cba23e18cb3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button/i</value>
+      <webElementGuid>93f3c698-8a1a-4135-854b-5e85ce49c04d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

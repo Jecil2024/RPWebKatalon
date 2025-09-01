@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip icon for Contact name</name>
+   <tag></tag>
+   <elementGuidId>3c61bb43-a7b8-4870-a56e-878494b8e85c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='company_let_div']/div[2]/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-sm-6 > div > div.clause_example_popup > a > i.fa.fa-question-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>0da40187-8fe6-4930-8898-21d97ea769b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-question-circle</value>
+      <webElementGuid>2f3331e5-388b-4985-9ad5-a1df681eae30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>7054b489-9b85-4375-87ca-43e7bd7ce8a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;company_let_div&quot;)/div[@class=&quot;col-sm-6&quot;]/div[1]/div[@class=&quot;clause_example_popup&quot;]/a[1]/i[@class=&quot;fa fa-question-circle&quot;]</value>
+      <webElementGuid>24f3716e-ee45-4e09-b489-426865bc3642</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='company_let_div']/div[2]/div/div/a/i</value>
+      <webElementGuid>0de217bf-7409-412b-b29d-845fb7f8a634</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/a/i</value>
+      <webElementGuid>3ef0a20d-24a5-4265-a477-bbb296d68aaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

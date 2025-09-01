@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Agent - Ensure that the search bar functions correctly when searching name, address or ref on the AML reporting page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f2e40869-d5da-447e-bafe-2aa5d69a40ee</testCaseGuid>
+</TestCaseEntity>

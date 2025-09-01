@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Able to proceed without entering next of kin details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>99f9266c-1e23-4c14-b4f9-8247e7571e08</testCaseGuid>
+</TestCaseEntity>

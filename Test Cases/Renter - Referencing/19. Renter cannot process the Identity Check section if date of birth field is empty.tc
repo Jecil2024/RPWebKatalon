@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>19. Renter cannot process the Identity Check section if date of birth field is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6bdc7e0d-f572-4f30-aa16-682121a6bff5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>14. Guarantor viewing on tenancy agreement details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd384136-7d93-4769-a0e5-1e66370f6114</testCaseGuid>
+</TestCaseEntity>

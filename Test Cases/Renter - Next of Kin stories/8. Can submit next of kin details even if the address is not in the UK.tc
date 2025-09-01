@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8. Can submit next of kin details even if the address is not in the UK</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f29057d-1f71-4fc0-90ee-ecdbda84b4e8</testCaseGuid>
+</TestCaseEntity>

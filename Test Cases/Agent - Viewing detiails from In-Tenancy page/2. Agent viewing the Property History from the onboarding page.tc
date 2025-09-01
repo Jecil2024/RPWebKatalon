@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Agent viewing the Property History from the onboarding page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f187dfef-d2e2-4d77-bd91-ffb593c66237</testCaseGuid>
+</TestCaseEntity>

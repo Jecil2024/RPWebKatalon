@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Enquries - Archive Enquiry bt</name>
+   <tag></tag>
+   <elementGuidId>0cee2120-3b6e-485b-88d9-31cfb47fae20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='submit_archive']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#submit_archive</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>09daf899-198f-4d44-92e2-550d8bd762a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submit_archive</value>
+      <webElementGuid>345b2502-7607-41bc-a090-978856f6f9ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ARCHIVE ENQUIRY</value>
+      <webElementGuid>42902e1f-ae40-4aed-a8c8-79b90b1ba3d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit_archive&quot;)</value>
+      <webElementGuid>6d3c6147-3a63-4820-ab36-10ab93f8a842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='submit_archive']</value>
+      <webElementGuid>4f597a99-7b67-4a72-adfc-590a6cf99772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='enquiry_applicant_details']/div/div/div[2]/div/a</value>
+      <webElementGuid>57317b74-4e97-4787-88cc-589459cf0156</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'ARCHIVE ENQUIRY')]</value>
+      <webElementGuid>10ee1a9e-0477-4a56-a884-d39bb1e096ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EDIT ENQUIRY'])[1]/following::a[5]</value>
+      <webElementGuid>9c370d23-a7b4-4552-8134-d51feeadfac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add additional email address'])[1]/preceding::a[4]</value>
+      <webElementGuid>31cf9965-45d3-4bf9-a39f-2df31588a280</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add additional email address'])[2]/preceding::a[4]</value>
+      <webElementGuid>06910b16-e5b3-47dc-b942-1c5c8c85f824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ARCHIVE ENQUIRY']/parent::*</value>
+      <webElementGuid>cdb64838-200e-4012-b4c6-ede15645db4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/a</value>
+      <webElementGuid>f9f37b72-e2dc-4b0e-b745-ee9eeece0a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'submit_archive' and (text() = 'ARCHIVE ENQUIRY' or . = 'ARCHIVE ENQUIRY')]</value>
+      <webElementGuid>8586ae5e-2316-4921-b3dd-64ae371fb1a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

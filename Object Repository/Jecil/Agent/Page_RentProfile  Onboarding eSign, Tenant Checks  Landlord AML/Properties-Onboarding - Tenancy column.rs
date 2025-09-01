@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Properties-Onboarding - Tenancy column</name>
+   <tag></tag>
+   <elementGuidId>82ea1d45-9a54-47e1-9276-21310a3e2d33</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='checkstabletable_tenancies']/tbody/tr/td[5]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#checkstabletable_tenancies > tbody > tr > td:nth-of-type(5) > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>fb4c8fa1-1fd7-4f0f-af55-1edb0e548d2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TENANCY</value>
+      <webElementGuid>82bea753-f46f-427e-acfb-c215b87317c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkstabletable_tenancies&quot;)/tbody[1]/tr[1]/td[5]/p[1]</value>
+      <webElementGuid>b6b8e157-717c-4088-9b5c-e70e23f123c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='checkstabletable_tenancies']/tbody/tr/td[5]/p</value>
+      <webElementGuid>9c9d390b-2224-4c5d-b715-3a156963c718</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Listing'])[2]/following::p[5]</value>
+      <webElementGuid>3fe19a45-5fab-4558-bb0a-610aeacdbf2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='here'])[2]/following::p[5]</value>
+      <webElementGuid>72011f57-0ad5-4743-a22e-b56f5bd934d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send invite'])[1]/preceding::p[5]</value>
+      <webElementGuid>746a6d86-a979-4fde-8a8b-bf30b64f43fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Tenancy'])[2]/preceding::p[10]</value>
+      <webElementGuid>42442a47-bbb5-43bb-9737-63274d843d91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TENANCY']/parent::*</value>
+      <webElementGuid>84aced09-89f1-49c5-b87f-11daebf90168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr/td[5]/p</value>
+      <webElementGuid>b9be88af-4b38-4d9c-8aac-708f8fbd4ff7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'TENANCY' or . = 'TENANCY')]</value>
+      <webElementGuid>ab6e7b9b-e097-41f4-b16b-408b9fc05391</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

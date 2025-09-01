@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>73. Agent - Process of adding a landlord check through the AML tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a7ec5c48-4ea9-4a1e-b0ab-821a05b76968</testCaseGuid>
+</TestCaseEntity>

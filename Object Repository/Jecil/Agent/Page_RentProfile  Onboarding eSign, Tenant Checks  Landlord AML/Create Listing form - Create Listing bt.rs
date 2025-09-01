@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create Listing form - Create Listing bt</name>
+   <tag></tag>
+   <elementGuidId>4c7b95ee-a401-4ec8-af9a-52c62cfbaa62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#invitecheckvalidmobilenewrightside</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='invitecheckvalidmobilenewrightside']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b82cc54-a2b9-4df2-9fac-bd346abfc8b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>invitecheckvalidmobilenewrightside</value>
+      <webElementGuid>9d0d0049-5ba3-4620-a8c6-bada2c64c073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>document.getElementById('save_draft').value = ''; document.getElementById('published').value = ''; document.getElementById('invitecheckvalidmobilenew1').click(); return false;</value>
+      <webElementGuid>a03580fb-fd15-47cd-be47-3585ae32b807</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-lg</value>
+      <webElementGuid>baa24bde-590c-46e8-82b0-017db91d6091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Listing</value>
+      <webElementGuid>af593f26-6b15-4088-a794-2feb46951b03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;invitecheckvalidmobilenewrightside&quot;)</value>
+      <webElementGuid>938278db-e706-4894-8039-c044d1fc0157</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='invitecheckvalidmobilenewrightside']</value>
+      <webElementGuid>a67475b7-4751-4d63-8f37-e7a8bc58b833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stickytypeheader']/div[5]/div[2]</value>
+      <webElementGuid>636b43a9-b49b-4e82-8145-04976736506f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save Draft'])[1]/following::div[1]</value>
+      <webElementGuid>1cbd503b-7469-4f4a-a26a-893fb66d7087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new'])[1]/following::div[5]</value>
+      <webElementGuid>62751075-46f1-45e5-bc77-d37351853304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceed to Enquiries'])[1]/preceding::div[1]</value>
+      <webElementGuid>a2a4f07a-2686-4b61-a11d-cd5fad5e62e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proceed to Onboarding'])[1]/preceding::div[1]</value>
+      <webElementGuid>313b5cd8-5ce6-4acd-9d1e-2608e16d27d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]</value>
+      <webElementGuid>36efeda8-d6ce-450e-b0fa-f78c8e0e9d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'invitecheckvalidmobilenewrightside' and (text() = 'Create Listing' or . = 'Create Listing')]</value>
+      <webElementGuid>8ec27169-ca78-43cd-b16f-78c1c4c94bcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

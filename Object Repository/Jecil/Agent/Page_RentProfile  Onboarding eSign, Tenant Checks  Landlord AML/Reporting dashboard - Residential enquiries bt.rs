@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Reporting dashboard - Residential enquiries bt</name>
+   <tag></tag>
+   <elementGuidId>48860c5f-001d-4c0c-8a2c-b75594b87757</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='requeststab']/div/div/a/div/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2.addtenancysubtitle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>7f2f7f82-8b90-4580-9a1c-a696ea1d9a2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>addtenancysubtitle</value>
+      <webElementGuid>850d7ab5-e4be-4ea5-96f1-abc40581983b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Residential enquiries</value>
+      <webElementGuid>18814539-cca7-4a22-bf13-acac9d505715</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;requeststab&quot;)/div[@class=&quot;tab-content&quot;]/div[1]/a[1]/div[1]/h2[@class=&quot;addtenancysubtitle&quot;]</value>
+      <webElementGuid>3a9e759d-8c1b-4b6c-9f42-a083e7fe01c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='requeststab']/div/div/a/div/h2</value>
+      <webElementGuid>782762ff-cdd3-4f60-923d-8721a2ae2787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reporting dashboard'])[1]/following::h2[1]</value>
+      <webElementGuid>dbbb1614-deb7-4ed5-831f-0446e714df11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[2]/following::h2[1]</value>
+      <webElementGuid>e6b53490-3562-4d56-a6c3-b5e72a345e81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Commercial enquiries'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4da70b10-38f4-4685-b171-3f6ff4671fe4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rent arrears'])[1]/preceding::h2[2]</value>
+      <webElementGuid>147c0f08-e84e-4b0d-b24c-b511b74a7cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Residential enquiries']/parent::*</value>
+      <webElementGuid>ef13d3bb-e7ac-4378-91d7-e298ea028dc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>762de85f-eed1-434e-aff6-10a8b8bdd019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Residential enquiries' or . = 'Residential enquiries')]</value>
+      <webElementGuid>93268c5c-76d5-4447-9cde-aacbd20609f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

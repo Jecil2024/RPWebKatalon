@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7. Agent able to Cancel Tenancy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79cd833c-3289-4e22-90b1-21d2c746cd9a</testCaseGuid>
+</TestCaseEntity>

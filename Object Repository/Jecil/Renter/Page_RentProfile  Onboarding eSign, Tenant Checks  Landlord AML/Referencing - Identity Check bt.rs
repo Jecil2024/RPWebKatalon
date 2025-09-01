@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Referencing - Identity Check bt</name>
+   <tag></tag>
+   <elementGuidId>4b886f2d-9a4f-4c86-a9ee-ec6beb8b3449</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-green.btn-lg > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profileinformation']/div/div[2]/div/ul[2]/div/li/span/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4fa7bd6a-2a37-4ac6-bfdc-d3fbf6026cbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start</value>
+      <webElementGuid>19152a6d-6ac5-484c-b13e-cb7a6a9a8e7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileinformation&quot;)/div[@class=&quot;col-md-12 lgtopspacing&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;panel-body sbcmobile sbcweb&quot;]/ul[@class=&quot;nav_menu&quot;]/div[1]/li[@class=&quot;sbc_nav_sub_menu_others sbc_no_hover&quot;]/span[1]/a[@class=&quot;btn btn-green btn-lg&quot;]/span[1]</value>
+      <webElementGuid>a9a340c0-c3a0-421a-bb4c-a0d0b21f0fe8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profileinformation']/div/div[2]/div/ul[2]/div/li/span/a/span</value>
+      <webElementGuid>a23bc5c9-10a0-458a-8cbe-4be2b89f36f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please complete the referencing sections below:'])[1]/following::span[2]</value>
+      <webElementGuid>15916c6b-bb18-44ca-88d6-b50eacacd179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&amp; Recommendations'])[1]/preceding::span[1]</value>
+      <webElementGuid>921b1a24-4009-4143-9526-46ca68fca83f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start']/parent::*</value>
+      <webElementGuid>f3fde40e-1fe0-4dc7-904a-3446fddb781c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li/span/a/span</value>
+      <webElementGuid>df1e5c52-8869-4617-82e2-a9b6927ac9f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start' or . = 'Start')]</value>
+      <webElementGuid>0a10aa12-235b-4f31-aa3c-7832bd31c3fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

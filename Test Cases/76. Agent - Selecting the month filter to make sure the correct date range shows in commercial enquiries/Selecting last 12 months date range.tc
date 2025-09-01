@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Selecting last 12 months date range</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f58e27d5-4962-40b4-8cff-c6f8341f23bb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip icon for Custom Clause</name>
+   <tag></tag>
+   <elementGuidId>9a752a2f-56d2-47ff-abdd-17fc9418d16d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='custom_clauses_tr']/td/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#custom_clauses_tr > td.addtenancyblockcontainerfirsttd > div > div.clause_example_popup > a > i.fa.fa-question-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>bce062b1-7c60-4168-b0e7-77b64bba1f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-question-circle</value>
+      <webElementGuid>1cd0f07b-289c-4348-965d-372a28b18819</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>51cffa19-0704-4bd6-a9ec-5a9b855c4647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;custom_clauses_tr&quot;)/td[@class=&quot;addtenancyblockcontainerfirsttd&quot;]/div[1]/div[@class=&quot;clause_example_popup&quot;]/a[1]/i[@class=&quot;fa fa-question-circle&quot;]</value>
+      <webElementGuid>7f962aa3-1c12-4096-898e-30796733ec9a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='custom_clauses_tr']/td/div/div/a/i</value>
+      <webElementGuid>a6fd4061-61f1-44d1-8c9a-88370d21e8b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[8]/td/div/div/a/i</value>
+      <webElementGuid>19e5dcc6-0240-4130-a369-4ee29d1dbdda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

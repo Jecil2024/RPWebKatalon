@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Direct debit - TA Type signature switch</name>
+   <tag></tag>
+   <elementGuidId>821d9d5d-a2d1-455b-8acc-4fc035011ddd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.switch</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7edb6ead-397b-443d-8580-e820453ebf18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>switch</value>
+      <webElementGuid>bbbbfcf8-ceb9-4774-b966-fe463e26859a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cbp-spmenu-push&quot;]/div[3]/div[@class=&quot;maincontainer tpheightdesktop&quot;]/div[@class=&quot;col-md-12 profilepaper narrow top-shadow bottom-shadow&quot;]/div[@class=&quot;typesignaturesection&quot;]/label[1]/div[@class=&quot;switch&quot;]</value>
+      <webElementGuid>8764eeb7-e693-45a9-9502-833554ee418c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>e9eb6d5e-f45a-481a-83ba-fe54feb3ea3b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

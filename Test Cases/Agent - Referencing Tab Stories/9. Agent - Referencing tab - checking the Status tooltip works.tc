@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Agent - Referencing tab - checking the Status tooltip works</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03fd85eb-e0e5-462e-9247-ec3077233257</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>66. Agent - Ensure search bar works correctly when searching for an address, applicants on the Commercial enquiries page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cddb9771-24ed-45b5-8bfe-d2d1fcb05a89</testCaseGuid>
+</TestCaseEntity>

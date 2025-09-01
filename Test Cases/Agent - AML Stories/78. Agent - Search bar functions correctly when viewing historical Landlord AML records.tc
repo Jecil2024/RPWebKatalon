@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>78. Agent - Search bar functions correctly when viewing historical Landlord AML records</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d33df09b-ebcc-4f0a-badd-8055702a3179</testCaseGuid>
+</TestCaseEntity>

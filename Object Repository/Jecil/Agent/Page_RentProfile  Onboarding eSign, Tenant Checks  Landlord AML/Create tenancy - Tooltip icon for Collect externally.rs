@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip icon for Collect externally</name>
+   <tag></tag>
+   <elementGuidId>ca762e02-37cb-4329-845c-1645ea0766c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='collect_external_div_id']/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collect_external_div_id > a > i.fa.fa-question-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>07ac5721-8379-460c-b0b5-a5401259e253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-question-circle</value>
+      <webElementGuid>aa036651-558b-4d6c-b038-9425cc92aa41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c8b155b1-192f-4b72-8c44-e7cc40919966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collect_external_div_id&quot;)/a[1]/i[@class=&quot;fa fa-question-circle&quot;]</value>
+      <webElementGuid>4e4d32d5-9681-4aab-a1a4-86f9ff91a43b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collect_external_div_id']/a/i</value>
+      <webElementGuid>6a21538a-6d0a-4922-b1a5-6d3e0e3f0cdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr[2]/td[2]/div/a/i</value>
+      <webElementGuid>b4e064c6-9dc9-468d-ac04-b643a4083622</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

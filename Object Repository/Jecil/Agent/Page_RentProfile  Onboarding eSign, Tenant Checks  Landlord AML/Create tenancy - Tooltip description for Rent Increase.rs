@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip description for Rent Increase</name>
+   <tag></tag>
+   <elementGuidId>8f539883-067c-41a7-8af8-d5d283e31629</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='rentincrease_example_popup_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#rentincrease_example_popup_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3474171d-1305-4933-8f75-67b06b3e7501</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clause_example_popup_text show</value>
+      <webElementGuid>1033ce85-5917-48fa-b8ef-260e8f72471b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rentincrease_example_popup_id</value>
+      <webElementGuid>f07a4aeb-e3fa-441a-ad83-9b91cfca9233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The increase applies to the sooner of annual rent increase or start of rolling tenancy.</value>
+      <webElementGuid>cb44e19c-fc89-41a5-9340-0edeaa5e0658</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rentincrease_example_popup_id&quot;)</value>
+      <webElementGuid>2937d8be-a8bc-4057-baba-27ee6f4b8204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='rentincrease_example_popup_id']</value>
+      <webElementGuid>e1fa1e21-3ccb-4712-af00-f390c648b626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='increase_tr']/td/div/div/span</value>
+      <webElementGuid>0e8ef8bf-b3f8-470d-9f76-c03ea657919c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom'])[1]/following::span[5]</value>
+      <webElementGuid>dd5719b4-9930-496b-96c3-78c291001532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom rent due date'])[1]/following::span[9]</value>
+      <webElementGuid>2b5205ff-911e-4147-9869-063383c996b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annually'])[3]/preceding::span[1]</value>
+      <webElementGuid>05356f41-dfa0-4189-98ed-ec59706eaca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Start of the rolling agreement'])[1]/preceding::span[2]</value>
+      <webElementGuid>65ba0ed2-168f-48c0-b390-f9f457c89c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The increase applies to the sooner of annual rent increase or start of rolling tenancy.']/parent::*</value>
+      <webElementGuid>1331787d-17af-4bcd-9889-67a93a3ef0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/span</value>
+      <webElementGuid>01056b76-5040-4097-ac35-e27c41af0b8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'rentincrease_example_popup_id' and (text() = 'The increase applies to the sooner of annual rent increase or start of rolling tenancy.' or . = 'The increase applies to the sooner of annual rent increase or start of rolling tenancy.')]</value>
+      <webElementGuid>cf85d37b-f54e-49fa-a4d2-05c6652f52d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>65. Agent - Ensure that clicking Progress to Application to Onboarding on the Enquiries page navigates to the correct page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5ade39b1-250f-402c-ad52-efe15bc15756</testCaseGuid>
+</TestCaseEntity>

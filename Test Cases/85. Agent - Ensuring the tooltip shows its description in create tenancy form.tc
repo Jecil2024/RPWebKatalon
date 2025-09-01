@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>85. Agent - Ensuring the tooltip shows its description in create tenancy form</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>901ef0e2-3844-4761-9cad-9f155453dff3</testCaseGuid>
+</TestCaseEntity>

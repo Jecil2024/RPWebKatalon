@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Agent - Process of viewing all AML checks</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>905c918c-e37d-4a94-904c-83337ea17f36</testCaseGuid>
+</TestCaseEntity>

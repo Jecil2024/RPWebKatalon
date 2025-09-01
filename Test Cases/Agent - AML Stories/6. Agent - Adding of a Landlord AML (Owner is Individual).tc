@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6. Agent - Adding of a Landlord AML (Owner is Individual)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb5bec04-8f69-4a10-b8a8-20b140bd70f5</testCaseGuid>
+</TestCaseEntity>

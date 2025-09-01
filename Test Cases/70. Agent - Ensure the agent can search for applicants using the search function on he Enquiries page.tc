@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>70. Agent - Ensure the agent can search for applicants using the search function on he Enquiries page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc4f705b-8985-4ceb-8abd-44f88fb57747</testCaseGuid>
+</TestCaseEntity>

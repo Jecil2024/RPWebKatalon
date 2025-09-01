@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Car Parking - Search icon</name>
+   <tag></tag>
+   <elementGuidId>a4cda45d-8e00-4695-8259-b8491080cb1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-search</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='search_form']/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ffc5673b-39c3-4cea-8229-a5d16db8a929</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-search</value>
+      <webElementGuid>ca2fcdb1-0de6-454e-b8a6-485a204d8b83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;search_form&quot;)/button[@class=&quot;btn btn-darkgrey btn-lg btn-block&quot;]/i[@class=&quot;fa fa-search&quot;]</value>
+      <webElementGuid>b694f525-1b4f-48cd-9b36-38c9d20ec5bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='search_form']/button/i</value>
+      <webElementGuid>f5366055-0735-4549-8aab-b929773deca9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>362e2401-f944-46ac-b641-3a481d8359d8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

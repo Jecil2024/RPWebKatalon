@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - I have a pending visa application with the UK government bt</name>
+   <tag></tag>
+   <elementGuidId>a07ef9ea-ac08-441e-83be-0c47cc5bd8b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pending_visa_application_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#pending_visa_application_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>085ca371-9b1a-408e-9554-3d9ec1b98b88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>16360bfa-fcaa-449c-befb-19801347da06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pending_visa_application_btn</value>
+      <webElementGuid>2a653160-a9ab-422a-aeb8-165893fb52cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have a pending visa application with the UK government</value>
+      <webElementGuid>6844e4e8-28dd-4283-b45f-8f1c6f9ec097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pending_visa_application_btn&quot;)</value>
+      <webElementGuid>48b42a76-0f8a-4bb1-8d22-d7ebdd9ca48b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='pending_visa_application_btn']</value>
+      <webElementGuid>2a8edc27-89db-4a55-b659-2ab83b6fddc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div[4]</value>
+      <webElementGuid>bfc62363-175b-4305-ab7f-87756e42c22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Settled (or Pre-Settled) Status in the UK'])[1]/following::div[1]</value>
+      <webElementGuid>33cb2eae-a1a4-4ea2-9dc8-f90b6a301612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Biometric Residence card or permit'])[1]/following::div[2]</value>
+      <webElementGuid>40ede025-a48b-49dc-9435-38f821c20c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Frontier Worker permit'])[1]/preceding::div[1]</value>
+      <webElementGuid>2bdf16dd-1662-4105-8fb8-2c1ce1619665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have other accepted documentation for Right to Rent'])[1]/preceding::div[2]</value>
+      <webElementGuid>051ba5d0-4c36-4770-8d17-d432f651b040</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have a pending visa application with the UK government']/parent::*</value>
+      <webElementGuid>8027505a-a2e0-43de-9db6-07730cbd0052</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>a3bf4202-1c6c-4b6b-824f-60a1860a73a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'pending_visa_application_btn' and (text() = 'I have a pending visa application with the UK government' or . = 'I have a pending visa application with the UK government')]</value>
+      <webElementGuid>0fc393e3-8d3e-4198-b7fb-7ce47d6438ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

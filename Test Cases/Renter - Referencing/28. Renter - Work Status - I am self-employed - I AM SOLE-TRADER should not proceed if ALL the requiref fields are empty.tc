@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>28. Renter - Work Status - I am self-employed - I AM SOLE-TRADER should not proceed if ALL the requiref fields are empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>04d7f560-31bf-4736-9cef-b6306f2d1968</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip icon for Rent Increase</name>
+   <tag></tag>
+   <elementGuidId>264e340b-7cf6-4781-a659-689aac196af0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='increase_tr']/td/div/div/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div > div.clause_example_popup > a > i.fa.fa-question-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3ae0cb75-886a-4623-b8ad-4333abfa15bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-question-circle</value>
+      <webElementGuid>4e0bada0-8515-4476-a274-693ec5423bdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>33497d83-78fd-404e-adfd-53061c5f3811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;increase_tr&quot;)/td[@class=&quot;addtenancyblockcontainerfirsttd&quot;]/div[1]/div[@class=&quot;clause_example_popup&quot;]/a[1]/i[@class=&quot;fa fa-question-circle&quot;]</value>
+      <webElementGuid>449804b8-f4de-4aa3-82b3-ca7c6cf81be9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='increase_tr']/td/div/div/a/i</value>
+      <webElementGuid>9593e307-448d-423e-b9f9-8b860ca7cc91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/a/i</value>
+      <webElementGuid>b1e254b7-a01b-46da-b9e8-434c597ed06f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

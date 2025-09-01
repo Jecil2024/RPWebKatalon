@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>13. An agent checking on the validation of the Lead Tenant, Landlord, Guarantor field should only accept a valid email address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a76bd0ea-a597-41df-bae7-77e51c03a672</testCaseGuid>
+</TestCaseEntity>

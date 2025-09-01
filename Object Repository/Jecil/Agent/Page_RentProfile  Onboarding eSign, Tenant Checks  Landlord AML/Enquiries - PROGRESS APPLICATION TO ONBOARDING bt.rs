@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Enquiries - PROGRESS APPLICATION TO ONBOARDING bt</name>
+   <tag></tag>
+   <elementGuidId>97cdb707-af05-472f-b16e-f41fe0905496</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='progress-onboarding']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#progress-onboarding > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>477025f1-145b-42ab-bda4-63c5ab5c8c84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PROGRESS APPLICATION TO ONBOARDING</value>
+      <webElementGuid>7e7a575a-d8aa-4cf9-946a-e99898bf6006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;progress-onboarding&quot;)/p[1]</value>
+      <webElementGuid>2416ebde-a8d3-4792-b4db-c1bc493fe96a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='progress-onboarding']/p</value>
+      <webElementGuid>e9007994-2332-46d7-8874-85f2b02d294d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARCHIVE ENQUIRY'])[1]/following::p[2]</value>
+      <webElementGuid>ce00e79f-9c65-4a7a-a959-2c23b5bcf76a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add additional email address'])[1]/preceding::p[33]</value>
+      <webElementGuid>82d4d7db-cd05-47be-b033-b20182b3cacd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add additional email address'])[2]/preceding::p[33]</value>
+      <webElementGuid>a5ac566c-16e2-4b69-b039-4ed6714428ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PROGRESS APPLICATION TO ONBOARDING']/parent::*</value>
+      <webElementGuid>cac8c46b-0403-4226-ae80-c0d4ef290b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div/p</value>
+      <webElementGuid>2b23de89-70cd-40c0-a2e8-b4cff9c068f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'PROGRESS APPLICATION TO ONBOARDING' or . = 'PROGRESS APPLICATION TO ONBOARDING')]</value>
+      <webElementGuid>132ca438-2180-4d5e-ad3e-5697b32f09b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

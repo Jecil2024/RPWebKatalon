@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>43. Agent - Edit the end date to ensure that it is editable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c62844be-8846-4164-ad50-a76f0da519b8</testCaseGuid>
+</TestCaseEntity>

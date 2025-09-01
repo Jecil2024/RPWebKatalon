@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Selecting last 6 months date range</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e601e150-b27e-4be3-830b-173a2d9f225a</testCaseGuid>
+</TestCaseEntity>

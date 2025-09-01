@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>11. Preventing tenancy submission if Consent for Tenant is not toggled on even if required fields are filled</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>93068e2f-d1ee-40ea-9541-8f5b5839e0f7</testCaseGuid>
+</TestCaseEntity>

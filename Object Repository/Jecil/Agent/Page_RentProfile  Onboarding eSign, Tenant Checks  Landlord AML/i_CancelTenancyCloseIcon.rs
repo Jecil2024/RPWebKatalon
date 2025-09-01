@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_CancelTenancyCloseIcon</name>
+   <tag></tag>
+   <elementGuidId>48513410-8d53-4051-8f39-3017b4edd166</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.hover_bkgr_fricc3_close > i.fa.fa-times</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[9]/div/p/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9c72f7b1-ff11-4a06-a644-e109bbaeea81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>d547517a-240b-47b0-98a7-73d2d41cc59c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>81790df5-0b22-430e-90fa-5812ca712a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cbp-spmenu-push&quot;]/div[3]/div[@class=&quot;hover_bkgr_fricc3&quot;]/div[1]/p[@class=&quot;hover_bkgr_fricc3_close&quot;]/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>6e4b9807-8045-4a2a-92b3-890a3872f44e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/p/i</value>
+      <webElementGuid>c57245e2-c62e-4a00-809c-8096fa4b105a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

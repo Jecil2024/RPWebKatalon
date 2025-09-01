@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>16. Agent preventing the submission of Tenancy Renewal submission when toggle is off</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61d3c792-ce76-40bf-807e-a4b8ab748dd3</testCaseGuid>
+</TestCaseEntity>

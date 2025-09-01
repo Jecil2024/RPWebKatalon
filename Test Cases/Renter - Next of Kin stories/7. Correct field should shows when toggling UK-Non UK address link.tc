@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>7. Correct field should shows when toggling UK-Non UK address link</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0e494fb8-2078-4250-ab1c-1c7ec4e7c967</testCaseGuid>
+</TestCaseEntity>

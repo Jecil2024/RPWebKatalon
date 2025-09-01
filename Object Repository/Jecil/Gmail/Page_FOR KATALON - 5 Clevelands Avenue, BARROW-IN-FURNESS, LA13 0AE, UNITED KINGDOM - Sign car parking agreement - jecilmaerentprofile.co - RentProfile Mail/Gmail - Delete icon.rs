@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Gmail - Delete icon</name>
+   <tag></tag>
+   <elementGuidId>d7047e13-dfa3-4cf5-b17f-83ff75e5980d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.T-I.J-J5-Ji.nX.T-I-ax7.T-I-Js-Gs.mA.T-I-JW.T-I-JO.T-I-Zf-aw2 > div.asa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id=':4']/div[2]/div/div/div[2]/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9de8ba2f-2d20-47f8-a9e4-05092c3a3fc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>asa</value>
+      <webElementGuid>932f104d-d4b8-4982-a137-a85d2f93a48d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:4&quot;)/div[@class=&quot;G-atb D E&quot;]/div[@class=&quot;iH bzn&quot;]/div[@class=&quot;G-tF&quot;]/div[@class=&quot;G-Ni G-aE J-J5-Ji&quot;]/div[@class=&quot;T-I J-J5-Ji nX T-I-ax7 T-I-Js-Gs mA T-I-JW T-I-JO T-I-Zf-aw2&quot;]/div[@class=&quot;asa&quot;]</value>
+      <webElementGuid>3c020b92-db81-4bae-8714-8da5727cff18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':4']/div[2]/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>55fb9c5d-a436-45e3-b6cf-ccef2991cefb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Conversations'])[1]/preceding::div[33]</value>
+      <webElementGuid>44a07478-1097-4de3-a1a6-861592a8aa3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>c88e2c15-d6c6-46b8-af56-d74841649070</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

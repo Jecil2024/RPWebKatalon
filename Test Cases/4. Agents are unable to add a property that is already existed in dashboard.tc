@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Agents are unable to add a property that is already existed in dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>44848ed7-fe44-407f-9ff9-14e5639449c3</testCaseGuid>
+</TestCaseEntity>

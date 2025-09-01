@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8. Agent - Referencing tab - Check the pagination works correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fe5afeda-79d1-450c-8997-84c5627d2c4e</testCaseGuid>
+</TestCaseEntity>

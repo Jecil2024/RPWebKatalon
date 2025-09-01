@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Referencing tab - Select Branch dropdown</name>
+   <tag></tag>
+   <elementGuidId>587111c2-a343-4b2a-9a01-7138aa7d40a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#invite_branch_id</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='invite_branch_id']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>d0646d8b-2523-4a9d-80d8-cee9d99ab487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control form-control-lg</value>
+      <webElementGuid>e1c7a265-103f-4485-9f5f-03867ab6b216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>include_blank</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6bf2be90-ff12-4310-8499-a68cf66fdff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onchange</name>
+      <type>Main</type>
+      <value>branchSelected()</value>
+      <webElementGuid>434e7bc4-e82f-4c05-82af-c8aa05bc9e31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>invite[branch_id]</value>
+      <webElementGuid>406f3092-a851-4d42-80d3-b5f4e211065e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>invite_branch_id</value>
+      <webElementGuid>0117cee6-9dfa-42c4-a01f-fe9b37ccb198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Branch
+Islington
+Highbury
+Camden
+Test2
+Test3
+Test1</value>
+      <webElementGuid>de468e52-ce4c-43fc-89eb-efd0505e18c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;invite_branch_id&quot;)</value>
+      <webElementGuid>ee325342-6cfd-4b28-8add-f49fef053e34</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='invite_branch_id']</value>
+      <webElementGuid>f5851aee-adf3-4c6b-9259-5fa7b70dce6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_invite']/div/select</value>
+      <webElementGuid>df3304ca-eb83-4e5b-b280-c8a7aa583e29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add referencing'])[1]/following::select[1]</value>
+      <webElementGuid>020e8f4c-3b97-45d3-b1b3-ad4e43be3a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rent Guarantee'])[1]/following::select[1]</value>
+      <webElementGuid>424fd5f0-5be0-4308-9754-e9bff66843d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly'])[1]/preceding::select[1]</value>
+      <webElementGuid>ac6db8d1-3e5b-4d54-9a6c-a0b1a01d9c6d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weekly'])[1]/preceding::select[1]</value>
+      <webElementGuid>db11e2b4-bc68-48ed-a741-5019b5b23b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>73770f1e-5d6e-4dc8-81b8-e942ef106a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'invite[branch_id]' and @id = 'invite_branch_id' and (text() = 'Select Branch
+Islington
+Highbury
+Camden
+Test2
+Test3
+Test1' or . = 'Select Branch
+Islington
+Highbury
+Camden
+Test2
+Test3
+Test1')]</value>
+      <webElementGuid>275a157e-ede7-416b-8688-20c3c8e1abb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

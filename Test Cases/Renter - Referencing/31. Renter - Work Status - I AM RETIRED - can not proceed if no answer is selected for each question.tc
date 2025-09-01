@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>31. Renter - Work Status - I AM RETIRED - can not proceed if no answer is selected for each question</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0997ee45-489f-4443-9052-6f7ab4fb99ea</testCaseGuid>
+</TestCaseEntity>

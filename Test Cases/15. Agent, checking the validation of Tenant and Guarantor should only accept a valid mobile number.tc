@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>15. Agent, checking the validation of Tenant and Guarantor should only accept a valid mobile number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7611add-b831-4db9-ace3-93566bcc51fd</testCaseGuid>
+</TestCaseEntity>

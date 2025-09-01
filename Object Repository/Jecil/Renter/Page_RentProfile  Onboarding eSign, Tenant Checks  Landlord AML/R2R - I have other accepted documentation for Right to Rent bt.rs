@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - I have other accepted documentation for Right to Rent bt</name>
+   <tag></tag>
+   <elementGuidId>6772d021-4b56-4d8a-a8d9-2108102796a1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='other_documentation_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#other_documentation_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4f9280b-63b2-45fc-b0d8-e7587fd67dbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>629f5e7f-081a-407c-8e10-696c8db91441</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>other_documentation_btn</value>
+      <webElementGuid>def3da9a-a164-457b-9db2-56067816c700</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have other accepted documentation for Right to Rent</value>
+      <webElementGuid>a82c28e8-0a8b-40ec-a803-ed63daf14a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;other_documentation_btn&quot;)</value>
+      <webElementGuid>ef82bb73-1eb1-401a-aeda-b0aed81870f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='other_documentation_btn']</value>
+      <webElementGuid>3e27a902-9fbb-48fe-a8de-bbd1bd634c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div[6]</value>
+      <webElementGuid>7edc3995-119c-49c2-b5e2-1c33d33f2fdd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Frontier Worker permit'])[1]/following::div[1]</value>
+      <webElementGuid>fe264009-4715-48ed-bd6d-265adf3dc41e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have a pending visa application with the UK government'])[1]/following::div[2]</value>
+      <webElementGuid>ed3a7317-005a-459b-a0dc-47ba11a73e5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back to myRentProfile'])[1]/preceding::div[2]</value>
+      <webElementGuid>797be394-69db-4a01-8579-9d02b1c362fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have other accepted documentation for Right to Rent']/parent::*</value>
+      <webElementGuid>b8f443a8-f245-458a-a624-7560ccec4a78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>9512fa02-feb7-4ee0-8d8b-7ccc97f91292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'other_documentation_btn' and (text() = 'I have other accepted documentation for Right to Rent' or . = 'I have other accepted documentation for Right to Rent')]</value>
+      <webElementGuid>9f332b16-1a91-4b14-8388-376bad98840a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

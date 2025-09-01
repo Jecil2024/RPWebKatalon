@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Successful submission of next of kin details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cf6c03bf-dfd2-4357-b371-aae3a6167282</testCaseGuid>
+</TestCaseEntity>

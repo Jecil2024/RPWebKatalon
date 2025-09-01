@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Renters - Unresponsive Template</name>
+   <tag></tag>
+   <elementGuidId>126008ad-e13a-4d4d-af4d-c488c72b88eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='collection_selection']/div/div[2]/ul/li[14]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.scope.unresponsive_template > a.table_tools_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b80eff75-8fb5-4fe1-8b1a-2e65bc844d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shelpeak/admin/renters?scope=unresponsive_template</value>
+      <webElementGuid>6f13a612-a949-4ffc-b617-70d3fb242c74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table_tools_button</value>
+      <webElementGuid>7daafcb4-eeb3-4a42-b191-e5596184c9a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unresponsive Template</value>
+      <webElementGuid>bcf77938-ae40-4cf2-8bdc-f74baf24d9fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collection_selection&quot;)/div[@class=&quot;table_tools&quot;]/div[@class=&quot;scopes&quot;]/ul[@class=&quot;table_tools_segmented_control scope-default-group&quot;]/li[@class=&quot;scope unresponsive_template&quot;]/a[@class=&quot;table_tools_button&quot;]</value>
+      <webElementGuid>41eed270-ec20-4b82-b7a7-66045a118995</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='collection_selection']/div/div[2]/ul/li[14]/a</value>
+      <webElementGuid>12510a84-af1b-4fa6-9762-ec1f9793779f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Unresponsive Template')]</value>
+      <webElementGuid>11f27963-f529-43ef-bb81-43f8678ab3d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Processed'])[1]/following::a[1]</value>
+      <webElementGuid>93264a54-b5cf-4b69-8910-d9ece13b0a6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Random Signups'])[1]/following::a[2]</value>
+      <webElementGuid>09334923-ceff-49dc-a61b-f31778561183</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permitted Occupier Processing'])[1]/preceding::a[1]</value>
+      <webElementGuid>3e61cc4c-0d7d-484b-9dc2-b41b861c31b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permitted Occupier Complete'])[1]/preceding::a[2]</value>
+      <webElementGuid>f731ae9f-784b-473e-b565-4b829481bc0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unresponsive Template']/parent::*</value>
+      <webElementGuid>31910c95-7277-40b5-bcc5-c694efe588ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/shelpeak/admin/renters?scope=unresponsive_template')]</value>
+      <webElementGuid>7b67336a-0a39-4397-bcfe-000c84cc4626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[14]/a</value>
+      <webElementGuid>e61710b6-3b6f-4123-8902-1368142973de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shelpeak/admin/renters?scope=unresponsive_template' and (text() = 'Unresponsive Template' or . = 'Unresponsive Template')]</value>
+      <webElementGuid>f2e39868-b958-4afa-82e5-6a1156f1f38c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

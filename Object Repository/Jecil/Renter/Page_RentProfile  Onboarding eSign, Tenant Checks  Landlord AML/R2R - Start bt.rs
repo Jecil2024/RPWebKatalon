@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - Start bt</name>
+   <tag></tag>
+   <elementGuidId>3ac011de-f005-4b7d-a985-d58fcbe9bc0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profileinformation']/div/div[2]/div/ul[2]/div/li[4]/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-green.btn-lg > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>29a1301c-7822-4513-8675-d529139d557a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start</value>
+      <webElementGuid>2397488c-ed0d-4033-963c-fb0ca5474474</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileinformation&quot;)/div[@class=&quot;col-md-12 lgtopspacing&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;panel-body sbcmobile sbcweb&quot;]/ul[@class=&quot;nav_menu&quot;]/div[1]/li[@class=&quot;sbc_nav_sub_menu_others sbc_no_hover&quot;]/span[1]/a[@class=&quot;btn btn-green btn-lg&quot;]/span[1]</value>
+      <webElementGuid>b30af1fd-2d09-4bf3-9fdd-6d1abfe8d170</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profileinformation']/div/div[2]/div/ul[2]/div/li[4]/span/a/span</value>
+      <webElementGuid>4c0bcdcc-233a-4b05-9d25-1cba3228ecf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work status &amp;'])[1]/following::span[2]</value>
+      <webElementGuid>b9500e94-f856-415b-970c-7ef6b20e2a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pets:'])[1]/preceding::span[1]</value>
+      <webElementGuid>6efd8f24-8bbc-462f-9f6c-5d4dd1494aa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dependents:'])[1]/preceding::span[2]</value>
+      <webElementGuid>c9ceb392-b6a6-4b56-a0d0-01d57c0ef73c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Start']/parent::*</value>
+      <webElementGuid>f8acae63-1d95-46e1-a098-75479769ed78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/span/a/span</value>
+      <webElementGuid>4b2ae437-d337-4f46-972c-696753c75185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Start' or . = 'Start')]</value>
+      <webElementGuid>dea76919-2a31-4b78-8f10-70827081728c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

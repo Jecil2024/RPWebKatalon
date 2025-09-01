@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>45. Agent - Rent Guarantee - process of checking whether the search bar functions correctly when searching for an address or policy number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4e85d0f7-21c6-42c3-b11e-74dbd299a02e</testCaseGuid>
+</TestCaseEntity>

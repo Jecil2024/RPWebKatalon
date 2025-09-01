@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Enquiries - Edit Enquiry</name>
+   <tag></tag>
+   <elementGuidId>59bb343b-1f73-493c-a7d9-defddf72761e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='enquiry_applicant_details']/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-6 > div > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2371f4f3-2976-44bc-be63-41d009f24bb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/agent/enquiries/applicant?enquiry_applicant=2238</value>
+      <webElementGuid>59038bf6-7119-418d-aed9-76d980724ca7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>EDIT ENQUIRY</value>
+      <webElementGuid>f9ee1858-771d-4dee-b935-4f18d7c49467</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;enquiry_applicant_details&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-5&quot;]/div[@class=&quot;col-md-6&quot;]/div[1]/a[1]</value>
+      <webElementGuid>ce64ca37-83ff-4a9a-a818-f1133bc70c25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='enquiry_applicant_details']/div/div/div/div/a</value>
+      <webElementGuid>0512d873-48a4-4add-a1d6-0b4ef3e04c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'EDIT ENQUIRY')]</value>
+      <webElementGuid>7b74a195-c46e-4fe0-b0f8-22034da41ebb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated info'])[1]/following::a[1]</value>
+      <webElementGuid>a3b88d77-4f47-4c2a-870c-89727bd05110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jecilmae Testing'])[1]/following::a[1]</value>
+      <webElementGuid>719ca7b0-77c5-4f29-b4c7-cefc296f5ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ARCHIVE ENQUIRY'])[1]/preceding::a[5]</value>
+      <webElementGuid>f01e7cb0-e56c-41c7-a8a3-4d60e6c695e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='EDIT ENQUIRY']/parent::*</value>
+      <webElementGuid>d5a12ae2-a11a-427e-affc-d83fd9ac8d47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/agent/enquiries/applicant?enquiry_applicant=2238')]</value>
+      <webElementGuid>eed9922d-1ce6-4d2f-bc31-c0f7c69063f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/a</value>
+      <webElementGuid>0e270b9d-deb3-4d71-9514-9b9c40b63e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/agent/enquiries/applicant?enquiry_applicant=2238' and (text() = 'EDIT ENQUIRY' or . = 'EDIT ENQUIRY')]</value>
+      <webElementGuid>d03eeae6-5028-429a-8436-b2678bcae5d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

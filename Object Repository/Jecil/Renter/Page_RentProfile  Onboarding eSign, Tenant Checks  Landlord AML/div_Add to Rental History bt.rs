@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add to Rental History bt</name>
+   <tag></tag>
+   <elementGuidId>a4bcf5a5-4235-4084-ad2c-011eb1a1bdda</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='reviewcheckvalid']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#reviewcheckvalid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7b6c1990-7275-4b58-9633-661f80e8e6a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>reviewcheckvalid</value>
+      <webElementGuid>75c2ffd9-8f7c-425d-b33f-616389631311</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-green btn-lg</value>
+      <webElementGuid>3296d9c3-6d9e-4a3d-aa30-3f62ef43abe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add to Rental History</value>
+      <webElementGuid>024c5d07-a1de-4443-afa1-f53c57342502</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reviewcheckvalid&quot;)</value>
+      <webElementGuid>0331da5f-c348-49e7-bcf0-49a13573637e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='reviewcheckvalid']</value>
+      <webElementGuid>e9dcf065-9266-40d7-bd47-b45f545afa52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab3']/div[14]</value>
+      <webElementGuid>3787542b-3776-4e77-be6a-5f48262887c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/following::div[1]</value>
+      <webElementGuid>4f33937b-1ef9-4ed6-b036-3fe4703c8d5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[2]/following::div[1]</value>
+      <webElementGuid>eb9a64f2-fc5b-47a6-9f8b-2051e170514c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have no prior rental history'])[1]/preceding::div[1]</value>
+      <webElementGuid>674e4501-9876-4272-8338-c6c73c86843f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back to myRentProfile'])[1]/preceding::div[2]</value>
+      <webElementGuid>9e428815-4ed2-420d-b3cf-28ecfe4c8f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add to Rental History']/parent::*</value>
+      <webElementGuid>adfae7b6-f969-4f7a-9a6a-5a89df76c835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]</value>
+      <webElementGuid>4aead3b0-5e33-405b-89ad-d13343fc4011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'reviewcheckvalid' and (text() = 'Add to Rental History' or . = 'Add to Rental History')]</value>
+      <webElementGuid>0f512c96-b93c-4598-bff7-b5c8012e8cd0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

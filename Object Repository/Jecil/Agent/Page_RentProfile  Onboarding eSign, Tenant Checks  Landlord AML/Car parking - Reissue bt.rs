@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Car parking - Reissue bt</name>
+   <tag></tag>
+   <elementGuidId>8670f73c-0e95-4332-b89a-2489314081dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Reissue')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8bcca9ed-af99-40aa-82db-4aa22de62f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/agent/issue_addon?tenancyid=0526069d272bf660379afdcd9b71f91e9f2511e98f085abd375c9e0f03b2&amp;reissue=true</value>
+      <webElementGuid>d9f6b9c9-6508-4690-a8ec-462e8ac6fc37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reissue</value>
+      <webElementGuid>9e71c2b6-bd7d-4fd1-8fd4-5f2b1a1ac7b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cbp-spmenu-push&quot;]/div[3]/div[@class=&quot;maincontainer&quot;]/div[@class=&quot;col-md-12 lgtopspacing rpcontentholder&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;table&quot;]/table[@class=&quot;tenancyblockcontainer&quot;]/tbody[1]/tr[3]/td[@class=&quot;linerighttableblock&quot;]/div[3]/a[1]</value>
+      <webElementGuid>9499d19c-d417-4771-bcd6-c923322ae4fd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Reissue')]</value>
+      <webElementGuid>580deee9-f448-41f0-be3c-b2c257f61170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View mandate'])[1]/following::a[1]</value>
+      <webElementGuid>8fae0428-5ccc-4632-9b75-4be57ed9d07c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[7]/following::a[2]</value>
+      <webElementGuid>70ae3b89-074a-4e17-9bc0-de26c333ad58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[8]/preceding::a[1]</value>
+      <webElementGuid>ac180faf-bc11-4a59-b5d9-fc6016149364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::a[1]</value>
+      <webElementGuid>77399286-76f9-41e2-8972-2227e750a0e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reissue']/parent::*</value>
+      <webElementGuid>08881314-ce96-4a0d-9e9a-8632fd75e374</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/agent/issue_addon?tenancyid=0526069d272bf660379afdcd9b71f91e9f2511e98f085abd375c9e0f03b2&amp;reissue=true')]</value>
+      <webElementGuid>fa3fab13-5afb-4116-94b3-ce04372daf2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>50e44701-6712-4ca9-a620-7be35cfbb553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/agent/issue_addon?tenancyid=0526069d272bf660379afdcd9b71f91e9f2511e98f085abd375c9e0f03b2&amp;reissue=true' and (text() = 'Reissue' or . = 'Reissue')]</value>
+      <webElementGuid>afdb7b1c-2728-4751-bef0-75cbb3594758</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

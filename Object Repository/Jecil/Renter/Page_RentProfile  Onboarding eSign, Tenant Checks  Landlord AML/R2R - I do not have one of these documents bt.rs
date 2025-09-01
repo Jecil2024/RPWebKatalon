@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - I do not have one of these documents bt</name>
+   <tag></tag>
+   <elementGuidId>c4ed01fd-7943-4b70-86e5-cd9aefc6f438</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='edit_right_to_rent_alert_10014']/div/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>abfc4688-ed0b-491b-b1aa-a75d1ecd28b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/renter/right_to_rent_doc_one</value>
+      <webElementGuid>293543cd-04d7-49bc-8b63-537a9a827b8e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I do not have one of these documents</value>
+      <webElementGuid>372b3cb0-361d-442f-a19f-bf644c6c14f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;edit_right_to_rent_alert_10014&quot;)/div[1]/p[2]/a[1]</value>
+      <webElementGuid>7adedf51-b0de-4671-9df3-12714679338d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_right_to_rent_alert_10014']/div/p[2]/a</value>
+      <webElementGuid>231c9239-abee-4eb3-ad09-3ad11c9522ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'I do not have one of these documents')]</value>
+      <webElementGuid>07f20007-f1d6-49f3-9716-67b2369c612c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Back Document'])[1]/following::a[1]</value>
+      <webElementGuid>f2e3f127-f21d-4eba-9b1b-f9ff23c8d7e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Front'])[1]/following::a[2]</value>
+      <webElementGuid>ebafe2d3-c5f3-4ec7-a2d2-dcc9edea3218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Right to Rent'])[1]/preceding::a[1]</value>
+      <webElementGuid>db000805-6d04-4ce5-9deb-59fa407f64a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back to myRentProfile'])[1]/preceding::a[1]</value>
+      <webElementGuid>1c1b0041-32ee-4416-8e5d-b81507d7202a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I do not have one of these documents']/parent::*</value>
+      <webElementGuid>d5df8f9d-1ff8-4677-aa58-adfc05759306</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/renter/right_to_rent_doc_one')]</value>
+      <webElementGuid>a4a3d458-231f-45c2-b768-726e17de639c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>3b51d970-3494-4607-a312-08747c62c446</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/renter/right_to_rent_doc_one' and (text() = 'I do not have one of these documents' or . = 'I do not have one of these documents')]</value>
+      <webElementGuid>330deb36-bdf0-4ba4-bda1-84c500d455cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

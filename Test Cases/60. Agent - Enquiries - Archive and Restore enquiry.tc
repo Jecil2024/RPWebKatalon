@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>60. Agent - Enquiries - Archive and Restore enquiry</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>75827e84-25d3-4d3e-afca-40695f2eb39f</testCaseGuid>
+</TestCaseEntity>

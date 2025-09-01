@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AML tab - Select branch dropdown</name>
+   <tag></tag>
+   <elementGuidId>3b29b6f0-eae4-4acf-a5cc-812c1904e9cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='branch_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#branch_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>660b2f83-4c89-49e2-af2f-b56a74415ca4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>branch_id</value>
+      <webElementGuid>0472a433-7e24-4d93-8b4c-64d2ba84f861</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control input-lg</value>
+      <webElementGuid>ee651f08-a295-41ee-8c99-4ab2e0dc665b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>include_blank</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>bb20b472-7c58-4880-8ade-3904e03799df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicant_aml_check[branch_id]</value>
+      <webElementGuid>e4ee64c4-c039-470c-a5df-1506601ec0f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Branch
+Highbury
+Camden
+Test2
+Test3
+Test1
+Islington</value>
+      <webElementGuid>4a4bd667-6875-4812-87bf-dc5087de0b93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;branch_id&quot;)</value>
+      <webElementGuid>57a6a0cb-dcda-40e8-916f-fefe1f580d2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='branch_id']</value>
+      <webElementGuid>d5826aa9-620c-4933-9bb7-e3aaa7a8bcf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_applicant_aml_check']/div/div/select</value>
+      <webElementGuid>0e0c57a1-26c0-4d72-9f1f-3e4da22de709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The file must be a .csv or .xlsx file. Maximum file size is 25MB'])[1]/following::select[1]</value>
+      <webElementGuid>d334a888-c334-403a-bd29-755c0177925d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::select[1]</value>
+      <webElementGuid>9b8b6cc8-ca42-4ad5-a367-22061279bfa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner is individual'])[1]/preceding::select[2]</value>
+      <webElementGuid>0cfb66cd-ce7d-4f5d-a28b-1dfe330364ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner is Business'])[1]/preceding::select[2]</value>
+      <webElementGuid>3b463ad0-9e99-4210-8a9f-b64ac528d38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e3e0a45a-1692-4323-825d-a9b69c730372</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'branch_id' and @name = 'applicant_aml_check[branch_id]' and (text() = 'Select Branch
+Highbury
+Camden
+Test2
+Test3
+Test1
+Islington' or . = 'Select Branch
+Highbury
+Camden
+Test2
+Test3
+Test1
+Islington')]</value>
+      <webElementGuid>a38f1d99-ad29-4db5-982c-3e6baeb14db9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>64. Agent - Ensure that agents can manually add applicants on the enquiries page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9bea720d-b442-4e78-8cd1-e4c32fda782b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Work status - I am a student bt</name>
+   <tag></tag>
+   <elementGuidId>fce3114f-76d9-4efb-bfdb-675da341249b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='submitStudent()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95345d21-e0b6-4469-bc60-b3c6d32f0aff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>d4c8fdd4-19ca-49c8-a9aa-efb8f840d93d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>submitStudent()</value>
+      <webElementGuid>5c117b9b-7695-4a89-96b2-22c282f85956</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I am a student</value>
+      <webElementGuid>cafdabf0-8452-45b3-924b-9971a6637308</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;employmentbtns&quot;)/div[@class=&quot;btn btn-default btn-lg btn-block button_mobile&quot;]</value>
+      <webElementGuid>3e58f19c-2d3d-4838-8df8-da0aca466691</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='submitStudent()']</value>
+      <webElementGuid>1cef9150-e2e0-4c46-a0f3-d209741a1ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div[4]</value>
+      <webElementGuid>822bcfe9-6968-434d-9e07-3cc4a8e5a894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am self employed'])[1]/following::div[1]</value>
+      <webElementGuid>0075968d-18dd-49c6-acae-69ee78e3d06d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am employed'])[1]/following::div[2]</value>
+      <webElementGuid>a2bcd051-e0d6-4832-9cbc-d9403e331a41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am currently unemployed'])[1]/preceding::div[1]</value>
+      <webElementGuid>d5bf79c4-62bc-4d86-ae8e-1b829e832224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am retired'])[1]/preceding::div[2]</value>
+      <webElementGuid>f9b21a8b-4b1b-4e3d-8d46-15376eb11c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I am a student']/parent::*</value>
+      <webElementGuid>59c98745-2c1b-41b8-8482-75ef882c86bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]</value>
+      <webElementGuid>29a0e267-2518-42fc-9796-e7212041770b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'I am a student' or . = 'I am a student')]</value>
+      <webElementGuid>d4500c11-9685-4fe3-a038-b5400d2d70a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

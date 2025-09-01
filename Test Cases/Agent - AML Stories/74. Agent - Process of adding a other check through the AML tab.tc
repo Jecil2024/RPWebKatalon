@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>74. Agent - Process of adding a other check through the AML tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b3ac7d3-4422-421d-be23-7970b93ff816</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+# Katalon Studio specific
+bin/
+Libs/
+.settings/
+Reports/
+tmp/
+output/
+.cache/
+.classpath
+.project
+
+# Logs & temp files
+*.log
+*.tmp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Android-related
+adbkey
+adbkey.pub
+
+# Node modules (if used)
+node_modules/

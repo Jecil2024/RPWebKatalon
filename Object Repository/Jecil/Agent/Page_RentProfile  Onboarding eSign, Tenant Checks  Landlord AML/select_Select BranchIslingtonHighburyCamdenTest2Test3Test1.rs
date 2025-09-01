@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select BranchIslingtonHighburyCamdenTest2Test3Test1</name>
+   <tag></tag>
+   <elementGuidId>b88c69f5-433b-4aef-b089-ca52f3783b73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='invite_branch_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#invite_branch_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>0fdbd388-97f2-4c2e-9585-96575c524c47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control form-control-lg</value>
+      <webElementGuid>52b7723d-504f-42d6-9b25-cf1269587ae8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>include_blank</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>ea645fb7-08fa-4146-9d75-9ba02b9acd6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>invite[branch_id]</value>
+      <webElementGuid>15258494-4458-492d-84ac-26b464f4057e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>invite_branch_id</value>
+      <webElementGuid>4fe38341-9715-41db-8a4a-b86da77937c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Branch
+Islington
+Highbury
+Camden
+Test2
+Test3
+Test1</value>
+      <webElementGuid>237fce43-ab42-445b-b901-ee92798a8403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;invite_branch_id&quot;)</value>
+      <webElementGuid>89f3196a-5d33-4291-88e2-bdd619e96b0d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='invite_branch_id']</value>
+      <webElementGuid>4e5dbceb-f7b9-4265-a0f8-0b6298b01ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_invite']/select</value>
+      <webElementGuid>25b2c1b7-9b8c-4f43-92b3-c13bc5eb0f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add property'])[1]/following::select[1]</value>
+      <webElementGuid>9bb2bb82-197c-4dd1-b932-b2a317ac0294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Next →'])[1]/following::select[1]</value>
+      <webElementGuid>f0284245-3c5b-4e77-b99a-0fb3b0c92ef9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add property'])[2]/preceding::select[1]</value>
+      <webElementGuid>8ce32cf0-f22e-43fb-935f-cf1fadd294f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='here'])[1]/preceding::select[1]</value>
+      <webElementGuid>a5f1b5bd-3edd-47c5-83a7-01a545c15f65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>2a0d043a-286c-464c-aaa0-d6dd14692465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'invite[branch_id]' and @id = 'invite_branch_id' and (text() = 'Select Branch
+Islington
+Highbury
+Camden
+Test2
+Test3
+Test1' or . = 'Select Branch
+Islington
+Highbury
+Camden
+Test2
+Test3
+Test1')]</value>
+      <webElementGuid>9d38f2fb-717a-4907-a52f-bb242fcc1d6b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

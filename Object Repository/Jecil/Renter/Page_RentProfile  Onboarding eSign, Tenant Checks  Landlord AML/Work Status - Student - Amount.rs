@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Work Status - Student - Amount</name>
+   <tag></tag>
+   <elementGuidId>f0fc151f-1ffb-426d-bb0c-ec98a7305bd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#additional_income_amount</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='additional_income_amount']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9a87d6d3-8a52-42b9-b231-836a736f801b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>additional_income_amount</value>
+      <webElementGuid>07d76c59-9584-442f-b2a3-202e18e47cbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control input-lg</value>
+      <webElementGuid>5b9026fb-32d8-4722-836e-5d90e09093a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Annual earnings (£)</value>
+      <webElementGuid>bd9dc920-5ff2-48d0-b34e-911268a3a2ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>renter[additional_income_amount]</value>
+      <webElementGuid>7fc5603b-7a1d-47d2-a4fc-08a229fbde2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amount (£)
+£1,000
+£1,500
+£2,000
+£2,500
+£3,000
+£3,500
+£4,000
+£4,500
+£5,000
+£5,500
+£6,000
+£6,500
+£7,000
+£7,500
+£8,000
+£8,500
+£9,000
+£9,500
+£10,000
+£10,500
+£11,000
+£11,500
+£12,000
+£12,500
+£13,000
+£13,500
+£14,000
+£14,500
+£15,000
+£15,500
+£16,000
+£16,500
+£17,000
+£17,500
+£18,000
+£18,500
+£19,000
+£19,500
+£20,000
+£20,500
+£21,000
+£21,500
+£22,000
+£22,500
+£23,000
+£23,500
+£24,000
+£24,500
+£25,000
+£25,500
+£26,000
+£26,500
+£27,000
+£27,500
+£28,000
+£28,500
+£29,000
+£29,500
+£30,000
+£30,500
+£31,000
+£31,500
+£32,000
+£32,500
+£33,000
+£33,500
+£34,000
+£34,500
+£35,000
+£35,500
+£36,000
+£36,500
+£37,000
+£37,500
+£38,000
+£38,500
+£39,000
+£39,500
+£40,000
+£40,500
+£41,000
+£41,500
+£42,000
+£42,500
+£43,000
+£43,500
+£44,000
+£44,500
+£45,000
+£45,500
+£46,000
+£46,500
+£47,000
+£47,500
+£48,000
+£48,500
+£49,000
+£49,500
+£50,000
+£51,000
+£52,000
+£53,000
+£54,000
+£55,000
+£56,000
+£57,000
+£58,000
+£59,000
+£60,000
+£61,000
+£62,000
+£63,000
+£64,000
+£65,000
+£66,000
+£67,000
+£68,000
+£69,000
+£70,000
+£71,000
+£72,000
+£73,000
+£74,000
+£75,000
+£76,000
+£77,000
+£78,000
+£79,000
+£80,000
+£81,000
+£82,000
+£83,000
+£84,000
+£85,000
+£86,000
+£87,000
+£88,000
+£89,000
+£90,000
+£91,000
+£92,000
+£93,000
+£94,000
+£95,000
+£96,000
+£97,000
+£98,000
+£99,000
+£100,000
+£110,000
+£120,000
+£130,000
+£140,000
+£150,000
+£160,000
+£170,000
+£180,000
+£190,000
+£200,000
+£210,000
+£220,000
+£230,000
+£240,000
+£250,000
+£260,000
+£270,000
+£280,000
+£290,000
+£300,000+</value>
+      <webElementGuid>3e448a17-1fce-4b88-88af-56130b96f2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;additional_income_amount&quot;)</value>
+      <webElementGuid>0fc410b2-0ad5-46b1-a0f0-9442d5f4ecb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='additional_income_amount']</value>
+      <webElementGuid>afd21fe3-2ccc-4264-9df4-ded9fae51b97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_renter_9955']/select</value>
+      <webElementGuid>3b93ecb4-2da8-451e-b6e5-0618abd48aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Income'])[1]/following::select[1]</value>
+      <webElementGuid>fb6ec1ec-bea5-4449-b8f3-43367db07197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[2]/following::select[1]</value>
+      <webElementGuid>5b98e27b-9c96-4d8a-b4bc-293464471336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Renter'])[1]/preceding::select[1]</value>
+      <webElementGuid>58192a83-e202-4301-84c6-1f4ab2bd4c7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::select[1]</value>
+      <webElementGuid>aaad499b-005b-4902-b0be-baa7f9c602da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>80d7bc5f-6706-4884-9d7b-90d5b9a40b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'additional_income_amount' and @placeholder = 'Annual earnings (£)' and @name = 'renter[additional_income_amount]' and (text() = 'Amount (£)
+£1,000
+£1,500
+£2,000
+£2,500
+£3,000
+£3,500
+£4,000
+£4,500
+£5,000
+£5,500
+£6,000
+£6,500
+£7,000
+£7,500
+£8,000
+£8,500
+£9,000
+£9,500
+£10,000
+£10,500
+£11,000
+£11,500
+£12,000
+£12,500
+£13,000
+£13,500
+£14,000
+£14,500
+£15,000
+£15,500
+£16,000
+£16,500
+£17,000
+£17,500
+£18,000
+£18,500
+£19,000
+£19,500
+£20,000
+£20,500
+£21,000
+£21,500
+£22,000
+£22,500
+£23,000
+£23,500
+£24,000
+£24,500
+£25,000
+£25,500
+£26,000
+£26,500
+£27,000
+£27,500
+£28,000
+£28,500
+£29,000
+£29,500
+£30,000
+£30,500
+£31,000
+£31,500
+£32,000
+£32,500
+£33,000
+£33,500
+£34,000
+£34,500
+£35,000
+£35,500
+£36,000
+£36,500
+£37,000
+£37,500
+£38,000
+£38,500
+£39,000
+£39,500
+£40,000
+£40,500
+£41,000
+£41,500
+£42,000
+£42,500
+£43,000
+£43,500
+£44,000
+£44,500
+£45,000
+£45,500
+£46,000
+£46,500
+£47,000
+£47,500
+£48,000
+£48,500
+£49,000
+£49,500
+£50,000
+£51,000
+£52,000
+£53,000
+£54,000
+£55,000
+£56,000
+£57,000
+£58,000
+£59,000
+£60,000
+£61,000
+£62,000
+£63,000
+£64,000
+£65,000
+£66,000
+£67,000
+£68,000
+£69,000
+£70,000
+£71,000
+£72,000
+£73,000
+£74,000
+£75,000
+£76,000
+£77,000
+£78,000
+£79,000
+£80,000
+£81,000
+£82,000
+£83,000
+£84,000
+£85,000
+£86,000
+£87,000
+£88,000
+£89,000
+£90,000
+£91,000
+£92,000
+£93,000
+£94,000
+£95,000
+£96,000
+£97,000
+£98,000
+£99,000
+£100,000
+£110,000
+£120,000
+£130,000
+£140,000
+£150,000
+£160,000
+£170,000
+£180,000
+£190,000
+£200,000
+£210,000
+£220,000
+£230,000
+£240,000
+£250,000
+£260,000
+£270,000
+£280,000
+£290,000
+£300,000+' or . = 'Amount (£)
+£1,000
+£1,500
+£2,000
+£2,500
+£3,000
+£3,500
+£4,000
+£4,500
+£5,000
+£5,500
+£6,000
+£6,500
+£7,000
+£7,500
+£8,000
+£8,500
+£9,000
+£9,500
+£10,000
+£10,500
+£11,000
+£11,500
+£12,000
+£12,500
+£13,000
+£13,500
+£14,000
+£14,500
+£15,000
+£15,500
+£16,000
+£16,500
+£17,000
+£17,500
+£18,000
+£18,500
+£19,000
+£19,500
+£20,000
+£20,500
+£21,000
+£21,500
+£22,000
+£22,500
+£23,000
+£23,500
+£24,000
+£24,500
+£25,000
+£25,500
+£26,000
+£26,500
+£27,000
+£27,500
+£28,000
+£28,500
+£29,000
+£29,500
+£30,000
+£30,500
+£31,000
+£31,500
+£32,000
+£32,500
+£33,000
+£33,500
+£34,000
+£34,500
+£35,000
+£35,500
+£36,000
+£36,500
+£37,000
+£37,500
+£38,000
+£38,500
+£39,000
+£39,500
+£40,000
+£40,500
+£41,000
+£41,500
+£42,000
+£42,500
+£43,000
+£43,500
+£44,000
+£44,500
+£45,000
+£45,500
+£46,000
+£46,500
+£47,000
+£47,500
+£48,000
+£48,500
+£49,000
+£49,500
+£50,000
+£51,000
+£52,000
+£53,000
+£54,000
+£55,000
+£56,000
+£57,000
+£58,000
+£59,000
+£60,000
+£61,000
+£62,000
+£63,000
+£64,000
+£65,000
+£66,000
+£67,000
+£68,000
+£69,000
+£70,000
+£71,000
+£72,000
+£73,000
+£74,000
+£75,000
+£76,000
+£77,000
+£78,000
+£79,000
+£80,000
+£81,000
+£82,000
+£83,000
+£84,000
+£85,000
+£86,000
+£87,000
+£88,000
+£89,000
+£90,000
+£91,000
+£92,000
+£93,000
+£94,000
+£95,000
+£96,000
+£97,000
+£98,000
+£99,000
+£100,000
+£110,000
+£120,000
+£130,000
+£140,000
+£150,000
+£160,000
+£170,000
+£180,000
+£190,000
+£200,000
+£210,000
+£220,000
+£230,000
+£240,000
+£250,000
+£260,000
+£270,000
+£280,000
+£290,000
+£300,000+')]</value>
+      <webElementGuid>5642f42e-6678-4101-b81b-db9fe42014e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>23. Renter cannot process the Rental History and Recommendations section if RENTAL DATE field is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2200e048-f20c-4df2-83cf-4ae325300998</testCaseGuid>
+</TestCaseEntity>

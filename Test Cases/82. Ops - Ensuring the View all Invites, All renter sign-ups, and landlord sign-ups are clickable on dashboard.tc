@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>82. Ops - Ensuring the View all Invites, All renter sign-ups, and landlord sign-ups are clickable on dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>079c3215-eda9-4936-baa7-a54ebe56c83b</testCaseGuid>
+</TestCaseEntity>

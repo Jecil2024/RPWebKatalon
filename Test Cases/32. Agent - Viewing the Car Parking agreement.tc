@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>32. Agent - Viewing the Car Parking agreement</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58e326fd-e6d4-43f5-98b4-12d9dfa34824</testCaseGuid>
+</TestCaseEntity>

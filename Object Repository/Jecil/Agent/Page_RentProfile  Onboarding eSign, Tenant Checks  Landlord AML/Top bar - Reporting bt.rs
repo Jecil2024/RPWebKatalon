@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Top bar - Reporting bt</name>
+   <tag></tag>
+   <elementGuidId>82bf5d6e-3adc-4039-89b3-9ef59fb2ad88</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-section']/div/a[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b62f224c-4384-4435-b6e0-b548c373869f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REPORTING</value>
+      <webElementGuid>90f5f6b4-ffa8-4bbe-9d0d-264070b906a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-section&quot;)/div[@class=&quot;container-fluid&quot;]/a[@class=&quot;hidden-sm hidden-xs&quot;]/div[@class=&quot;nav navbar-nav navbar-right hidden-sm hidden-xs myrplinkplacement&quot;]/p[1]</value>
+      <webElementGuid>f12110c2-6d25-4ee8-961f-4cdb43f62613</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-section']/div/a[2]/div/p</value>
+      <webElementGuid>1288f305-3115-4c03-ad72-fef3ff69bf6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::p[12]</value>
+      <webElementGuid>a57cd669-bbe0-4b50-ac4f-9c2e085cc646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Nav'])[1]/following::p[12]</value>
+      <webElementGuid>496f1f38-9db9-4660-b066-2140e58107a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Nav'])[2]/preceding::p[2]</value>
+      <webElementGuid>22a10ec3-279d-48bd-82f2-ae5e26cfda84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PROPERTIES'])[2]/preceding::p[3]</value>
+      <webElementGuid>44da34a9-55cb-4ab8-a7af-b70cee7a096d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REPORTING']/parent::*</value>
+      <webElementGuid>2086bc49-4003-4506-8917-7b6fb596502c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/p</value>
+      <webElementGuid>7b78e32e-3e15-405e-896f-56ff8ee25838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'REPORTING' or . = 'REPORTING')]</value>
+      <webElementGuid>a837b3f2-def7-42bc-a88d-71cdc0a14d03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Referencing tab - Status tooltip</name>
+   <tag></tag>
+   <elementGuidId>72066a90-ef3c-4efa-8c49-c525088c5033</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='checkstabletable']/tbody/tr/td[6]/p/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.trigger_popup_fricc > i.fa.fa-question-circle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7dfd2ccc-70a5-49f9-9d73-2b27c6499a7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-question-circle</value>
+      <webElementGuid>5add5ed2-27c4-46b8-9803-30d4523106d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>db760e66-4bd3-4193-b821-f19d93d8ad6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkstabletable&quot;)/tbody[1]/tr[1]/td[6]/p[1]/a[@class=&quot;trigger_popup_fricc&quot;]/i[@class=&quot;fa fa-question-circle&quot;]</value>
+      <webElementGuid>6b6ab17c-b7ca-4cbd-aa3f-f62fff9d52c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='checkstabletable']/tbody/tr/td[6]/p/a/i</value>
+      <webElementGuid>202bfb57-52e5-4039-95a2-069d4eb4be48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a/i</value>
+      <webElementGuid>323e295d-8e9c-43af-9daa-d2d5f5c93f4e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

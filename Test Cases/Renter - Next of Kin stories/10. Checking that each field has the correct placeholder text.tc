@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10. Checking that each field has the correct placeholder text</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5892a76d-8a66-49ae-b60d-7a999b04ebe7</testCaseGuid>
+</TestCaseEntity>

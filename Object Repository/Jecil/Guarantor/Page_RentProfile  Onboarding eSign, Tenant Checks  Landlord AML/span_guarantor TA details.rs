@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_guarantor TA details</name>
+   <tag></tag>
+   <elementGuidId>b6433e8b-c40f-4117-a18a-7c2eab0a15ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='tenancy_agreement']/span/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tenancy_agreement > span > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b82440ab-32d4-475f-8b68-c373ef6d03f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View details</value>
+      <webElementGuid>7e63ba90-fec9-4fc7-b8dc-3e899de370f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tenancy_agreement&quot;)/span[1]/a[1]/span[1]</value>
+      <webElementGuid>89bc0dbd-0ad3-49a0-858e-f5f1a33ba127</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='tenancy_agreement']/span/a/span</value>
+      <webElementGuid>591ff451-2107-4577-bc61-07e303834b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work status &amp;'])[1]/following::span[2]</value>
+      <webElementGuid>459c910f-ed76-4d48-8702-26445009a2fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::span[1]</value>
+      <webElementGuid>aede3ef5-5e45-4229-a964-adc482c4b47d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/preceding::span[1]</value>
+      <webElementGuid>4be36f75-d05c-4ea9-995a-be61634b4b59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span/a/span</value>
+      <webElementGuid>ea6dbcd3-1eaa-43ce-bd96-d1c81ada4405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'View details' or . = 'View details')]</value>
+      <webElementGuid>12b858a1-688d-4002-803f-e9bf5c53a8ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>12. Rental amount should only accept numeric input</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df1856cd-a80e-4193-95df-9344e6ed0d82</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>22. Renter cannot process the Rental History and Recommendations section if RENTAL ADDRESS field is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dfec8eeb-2d05-4e4a-8a68-351495716101</testCaseGuid>
+</TestCaseEntity>

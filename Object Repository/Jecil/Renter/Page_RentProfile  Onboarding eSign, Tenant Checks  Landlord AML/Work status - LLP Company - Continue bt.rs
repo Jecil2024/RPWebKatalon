@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Work status - LLP Company - Continue bt</name>
+   <tag></tag>
+   <elementGuidId>6e0eeda1-e5e4-4fe4-b3a9-2ea366646e04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='earningsVerificationLlp()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selfemployedllp1 > div.btn.btn-darkgreen.btn-lg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa49473f-c2b9-460f-be9e-7c8349e771df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-darkgreen btn-lg</value>
+      <webElementGuid>c19bd341-92b2-441a-a342-4db945289195</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>earningsVerificationLlp()</value>
+      <webElementGuid>ae8a4fa6-f213-4774-a275-f44b29647c73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue</value>
+      <webElementGuid>bc9c1a41-b676-482c-ae25-5a4c466a56f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selfemployedllp1&quot;)/div[@class=&quot;btn btn-darkgreen btn-lg&quot;]</value>
+      <webElementGuid>09e9df83-4063-4750-8fd5-88882b208901</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='earningsVerificationLlp()']</value>
+      <webElementGuid>68b4cd11-f8e0-48de-b0fc-f856eda03b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selfemployedllp1']/div[6]</value>
+      <webElementGuid>a9d2d76e-da91-4630-af1b-125114ee7d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[8]/following::div[1]</value>
+      <webElementGuid>8a2800e9-7206-49a3-a9be-acfc8c97ba56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[8]/following::div[1]</value>
+      <webElementGuid>cc32096e-553b-42bf-8882-da89320d7dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back a step'])[5]/preceding::div[1]</value>
+      <webElementGuid>62105e4a-d2ea-43a1-8d9f-89de63592c53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Self Employed'])[1]/preceding::div[3]</value>
+      <webElementGuid>38437cc3-6505-41c7-be7c-1bcee3d19295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div[6]</value>
+      <webElementGuid>5245284d-2390-4d85-90e2-382e7ced2d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>5f91ef04-b580-4352-8192-3f9bb0b52149</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_09B7E new tenancy</name>
+   <tag></tag>
+   <elementGuidId>49a2a1d2-e562-4b58-8956-7a1af8e4e24b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='checkstabletable_tenancies']/tbody/tr[2]/td[6]/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#checkstabletable_tenancies > tbody > tr:nth-of-type(2) > td:nth-of-type(6) > p > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4aaa2f3d-3849-4d59-963c-eb2bd341634c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>add_tenancy/?prop_ref=12256</value>
+      <webElementGuid>4aec08bc-e3fc-43c1-af57-bc540a21dde6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>property_in_tenancy</value>
+      <webElementGuid>7f6351e8-872e-425f-93e2-c47eede33945</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>058154ea-6593-40ba-9d9d-6d572254bc53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Tenancy</value>
+      <webElementGuid>a4f94490-9a3d-4842-9e55-eacd23220ab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkstabletable_tenancies&quot;)/tbody[1]/tr[2]/td[6]/p[1]/a[1]</value>
+      <webElementGuid>a03f52e3-8024-4b80-b91d-0d312f5d7f4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='checkstabletable_tenancies']/tbody/tr[2]/td[6]/p/a</value>
+      <webElementGuid>75229171-4eaf-4003-b891-cf169d84000c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add Tenancy')]</value>
+      <webElementGuid>ec16d829-14e2-4b9c-ae55-6cb9c153ab70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send invite'])[1]/following::a[1]</value>
+      <webElementGuid>64454b8f-8a46-4181-aca3-a32ea98cf738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Listing'])[2]/following::a[2]</value>
+      <webElementGuid>1e26b08d-3563-4cb6-a80c-f06dde32ae88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='sfsafasdf'])[1]/preceding::a[3]</value>
+      <webElementGuid>ba68f2cf-c337-4e4f-9194-224515872604</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ends 15/11/2025'])[1]/preceding::a[3]</value>
+      <webElementGuid>a3d126e2-cebe-4421-b400-5bfac6444de3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'add_tenancy/?prop_ref=12256')]</value>
+      <webElementGuid>f933d316-e91a-426a-9fdf-0909b30576d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td[6]/p/a</value>
+      <webElementGuid>d35e109e-3c7e-4fd0-b758-fb36d565aa56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'add_tenancy/?prop_ref=12256' and (text() = 'Add Tenancy' or . = 'Add Tenancy')]</value>
+      <webElementGuid>3198b29b-b697-4a22-954a-cd52765bd4df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

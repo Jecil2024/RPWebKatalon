@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Renters - Permitted Occupier Complete</name>
+   <tag></tag>
+   <elementGuidId>1a6db790-c0c5-4da3-abd5-f6a3ee9f636a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='collection_selection']/div/div[2]/ul/li[16]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.scope.permitted_occupier_complete > a.table_tools_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c0683278-c029-4ec8-a08f-262457a02e56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shelpeak/admin/renters?scope=permitted_occupier_complete</value>
+      <webElementGuid>94299ca3-6853-43db-b613-0082f7b9998c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table_tools_button</value>
+      <webElementGuid>eea00441-5106-4b93-a3fa-dd62758b426e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Permitted Occupier Complete</value>
+      <webElementGuid>8206e572-e7a5-4c54-8d45-99a29a7745f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collection_selection&quot;)/div[@class=&quot;table_tools&quot;]/div[@class=&quot;scopes&quot;]/ul[@class=&quot;table_tools_segmented_control scope-default-group&quot;]/li[@class=&quot;scope permitted_occupier_complete&quot;]/a[@class=&quot;table_tools_button&quot;]</value>
+      <webElementGuid>2e0c5ded-7c84-46c8-ab53-f6b0e5c20b0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='collection_selection']/div/div[2]/ul/li[16]/a</value>
+      <webElementGuid>258b18c7-201a-482c-9ba5-a93869bc2aa2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Permitted Occupier Complete')]</value>
+      <webElementGuid>ab09c531-a112-4fb6-9df9-a96bceee6456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Permitted Occupier Processing'])[1]/following::a[1]</value>
+      <webElementGuid>dee5e815-ce03-4c48-9aad-4a6340c090be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unresponsive Template'])[1]/following::a[2]</value>
+      <webElementGuid>f25970c3-d9d8-4eab-80d6-8b9a9e26a611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(7)'])[1]/preceding::a[1]</value>
+      <webElementGuid>cee19dd6-f93e-4dfa-bce8-3f8e2fbf3df4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Permitted Occupier Complete']/parent::*</value>
+      <webElementGuid>4d867503-9a8e-45ef-8bea-e35adf2de952</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/shelpeak/admin/renters?scope=permitted_occupier_complete')]</value>
+      <webElementGuid>6db843bf-f21a-4109-a867-b63e27fcb8d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[16]/a</value>
+      <webElementGuid>cef64a3e-9a33-4350-8572-b0db60d4e337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shelpeak/admin/renters?scope=permitted_occupier_complete' and (text() = 'Permitted Occupier Complete' or . = 'Permitted Occupier Complete')]</value>
+      <webElementGuid>d5d4aa74-df18-45f3-b4e6-9c96f2ea26b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

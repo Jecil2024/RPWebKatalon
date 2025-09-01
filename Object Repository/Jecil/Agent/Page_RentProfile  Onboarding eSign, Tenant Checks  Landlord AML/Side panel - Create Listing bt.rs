@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Side panel - Create Listing bt</name>
+   <tag></tag>
+   <elementGuidId>f1ebcef6-e025-4ae7-9c39-d9bd3f4fff7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#confirm-add-select-flow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='confirm-add-select-flow']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>66904191-413f-4a7b-b5e4-af1902970c78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>confirm-add-select-flow</value>
+      <webElementGuid>f632ae69-2288-4126-92a5-27a1292e1a28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirm-record</value>
+      <webElementGuid>2fdae320-317c-45b8-9a76-551b51b3634d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Create Listing
+                            </value>
+      <webElementGuid>ffb69ef4-83d1-4f3d-b461-01b119b65651</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;confirm-add-select-flow&quot;)</value>
+      <webElementGuid>04d7bdba-206c-4d1e-9d44-c77b5401ff66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='confirm-add-select-flow']</value>
+      <webElementGuid>6fb8af31-ddec-436a-858a-4068b9a14575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='myModalDialog']/div/div[2]/div/div[3]/div[2]/div)[2]</value>
+      <webElementGuid>2e3a8783-e9d5-4f9a-aa36-22fe05f58af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='here'])[2]/following::div[2]</value>
+      <webElementGuid>a6eb50ce-4c76-4a44-8d67-0ee711c6add3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FOR KATALON ENQUIRIES TEST - 3 Alder Road, STURMINSTER NEWTON, DT10 1AB, UNITED KINGDOM'])[1]/following::div[46]</value>
+      <webElementGuid>6e8b9708-4c32-4c73-8bbc-5be6df5be3fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send invite'])[1]/preceding::div[1]</value>
+      <webElementGuid>c3787b86-a108-49ac-b77e-6fd3c9552a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[3]/div[2]/div</value>
+      <webElementGuid>b05e776c-286c-441b-b40e-4c1c765c45ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'confirm-add-select-flow' and (text() = '
+                                Create Listing
+                            ' or . = '
+                                Create Listing
+                            ')]</value>
+      <webElementGuid>367faa68-19a8-4398-84b3-9d11901d1423</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

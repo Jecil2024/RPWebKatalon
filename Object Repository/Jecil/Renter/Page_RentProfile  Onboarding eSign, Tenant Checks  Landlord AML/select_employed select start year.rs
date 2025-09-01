@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_employed select start year</name>
+   <tag></tag>
+   <elementGuidId>5333d776-7fc5-47db-85f7-f9508b2c328d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#renter_workplace_start_year</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='renter_workplace_start_year']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e52d0ae2-28ea-409f-b1c0-35a96da13d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control input-lg</value>
+      <webElementGuid>a4a01c33-fcca-4208-999d-85f664fc5838</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>renter[workplace_start_year]</value>
+      <webElementGuid>76cb14f7-6e60-4f98-be40-5879a913a3dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>renter_workplace_start_year</value>
+      <webElementGuid>170e2371-2593-4f49-9b1a-986a1d0283ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select start year..
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+1989
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+1980</value>
+      <webElementGuid>4f23e081-7b03-4213-9ab8-c39ad6249dec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;renter_workplace_start_year&quot;)</value>
+      <webElementGuid>aa42ba86-b7ad-4b69-9d2c-e96aa193738a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='renter_workplace_start_year']</value>
+      <webElementGuid>73a1e8c0-ef3f-48c4-aa85-2316b529191b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employment1stpart']/select[2]</value>
+      <webElementGuid>c445a34c-bb56-42fc-89a8-2a0546d9347a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Employment'])[1]/following::select[2]</value>
+      <webElementGuid>ab2cd9e8-8b11-46f2-b9d2-d8e65fa740cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back a step'])[7]/following::select[2]</value>
+      <webElementGuid>0c4a5397-b92d-4773-bd45-277a4b59db60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[10]/preceding::select[2]</value>
+      <webElementGuid>9e0f6fd5-8be2-4a9b-b3a3-b3a98f9cc79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[10]/preceding::select[2]</value>
+      <webElementGuid>72cc8e7c-0b26-404c-82ae-45106f9aecc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/select[2]</value>
+      <webElementGuid>35f6a343-0826-4cfc-8757-dc7ff14a1a12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'renter[workplace_start_year]' and @id = 'renter_workplace_start_year' and (text() = 'Select start year..
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+1989
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+1980' or . = 'Select start year..
+2024
+2023
+2022
+2021
+2020
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000
+1999
+1998
+1997
+1996
+1995
+1994
+1993
+1992
+1991
+1990
+1989
+1988
+1987
+1986
+1985
+1984
+1983
+1982
+1981
+1980')]</value>
+      <webElementGuid>334fad71-0a55-4f29-8384-2355cfbb83d0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

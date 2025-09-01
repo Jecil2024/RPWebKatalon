@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dashboard - View all renter sign ups bt</name>
+   <tag></tag>
+   <elementGuidId>9ef7470d-142a-45f2-99f0-2c4eb65abfad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main_content']/div/div[2]/div/div/strong/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4f1a767-2311-490b-a594-76c5faaef01a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shelpeak/admin/renters</value>
+      <webElementGuid>8d314ef9-359e-4a4f-8f3b-3bc9ed54a5f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all renter sign ups</value>
+      <webElementGuid>b54f1e11-cfb6-45a4-a313-682f2f3cce63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_content&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel_contents&quot;]/strong[1]/a[1]</value>
+      <webElementGuid>7022a35c-a393-402b-942e-0e36e2106949</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main_content']/div/div[2]/div/div/strong/a</value>
+      <webElementGuid>ccb577b2-d353-47c5-981b-ccb4fa075941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View all renter sign ups')]</value>
+      <webElementGuid>c2ad969e-4cba-4bea-8470-6eaf2eb3b2db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Renters'])[2]/following::a[1]</value>
+      <webElementGuid>bb7d7742-3d2e-418f-9e46-aa18443af986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 26, 2025 12:09'])[1]/following::a[1]</value>
+      <webElementGuid>d61bab9d-d1bf-4da1-a526-294a8bfbaa4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First name'])[1]/preceding::a[1]</value>
+      <webElementGuid>53f142f4-f2b0-4efe-98fa-1fba08d0714a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last name'])[1]/preceding::a[1]</value>
+      <webElementGuid>f2ccdb3e-d349-499d-be6b-8ef83674d951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View all renter sign ups']/parent::*</value>
+      <webElementGuid>a20c90db-d675-4b5c-99f1-184e2b182be3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/shelpeak/admin/renters')])[2]</value>
+      <webElementGuid>a042d257-33d6-439c-ac69-43ed007a0fe3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/strong/a</value>
+      <webElementGuid>be993674-9c10-4194-8b45-a7e44662fb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shelpeak/admin/renters' and (text() = 'View all renter sign ups' or . = 'View all renter sign ups')]</value>
+      <webElementGuid>04c7fd51-a480-445d-80a9-a6cddd05b6e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

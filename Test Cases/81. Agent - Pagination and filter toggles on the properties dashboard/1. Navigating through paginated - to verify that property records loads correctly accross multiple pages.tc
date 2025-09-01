@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Navigating through paginated - to verify that property records loads correctly accross multiple pages</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>67295706-0623-4d58-906f-18f661b4f175</testCaseGuid>
+</TestCaseEntity>

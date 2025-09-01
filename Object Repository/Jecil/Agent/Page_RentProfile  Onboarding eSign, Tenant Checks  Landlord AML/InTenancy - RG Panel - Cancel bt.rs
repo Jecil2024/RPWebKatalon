@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InTenancy - RG Panel - Cancel bt</name>
+   <tag></tag>
+   <elementGuidId>84763fee-f661-4b20-9867-0f079bb16d00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.confirmation</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Cancel')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a9faf1ef-e90a-4139-9d21-78f0c70eda62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> confirmation</value>
+      <webElementGuid>47362907-af14-4d8e-bb70-a3a79099db41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/agent/cancel_policy_from_onboarding?pagefrom=onboarding&amp;tenancyid=32542fd846a6e974e51f54ee3ca4884a253a82842241348b113b869273ba</value>
+      <webElementGuid>37fe8a11-2390-4eff-90dd-23e7caefa992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cancel</value>
+      <webElementGuid>4f775a8b-8d3d-48ce-a2da-c628e7e3c4f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cbp-spmenu-push&quot;]/div[3]/div[@class=&quot;maincontainer&quot;]/div[@class=&quot;col-md-12 lgtopspacing rpcontentholder&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;table&quot;]/table[@class=&quot;tenancyblockcontainer&quot;]/tbody[1]/tr[3]/td[@class=&quot;linerighttableblock&quot;]/p[3]/a[@class=&quot;confirmation&quot;]</value>
+      <webElementGuid>74d8f8b3-1a96-4417-bd30-bbd64413b339</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cancel')]</value>
+      <webElementGuid>b4354407-73b2-4567-a68d-d1e648a6e01b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[5]/following::a[1]</value>
+      <webElementGuid>866b7660-be3e-470c-8aaa-bcb68d5898c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View policy docs'])[1]/following::a[1]</value>
+      <webElementGuid>c7693784-19c5-4832-bded-5ef89c2492eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Rentguara...'])[1]/preceding::a[1]</value>
+      <webElementGuid>12006bff-c85e-429b-b347-651f7849d197</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gepok84195@harinv.com'])[1]/preceding::a[2]</value>
+      <webElementGuid>17f47bf3-0aac-48f9-be04-f9c7dd35df1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cancel']/parent::*</value>
+      <webElementGuid>dba7d29c-4ba5-4fa1-a9b3-4960b9e243ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/agent/cancel_policy_from_onboarding?pagefrom=onboarding&amp;tenancyid=32542fd846a6e974e51f54ee3ca4884a253a82842241348b113b869273ba')]</value>
+      <webElementGuid>f44d3ebf-035a-4c4c-80e1-9ba4d71b0ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/a[2]</value>
+      <webElementGuid>a1224aad-b9cb-4d8e-ba95-d04f76de2165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/agent/cancel_policy_from_onboarding?pagefrom=onboarding&amp;tenancyid=32542fd846a6e974e51f54ee3ca4884a253a82842241348b113b869273ba' and (text() = 'Cancel' or . = 'Cancel')]</value>
+      <webElementGuid>d8edb08f-b29d-4bae-b9ea-edc53ce169de</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

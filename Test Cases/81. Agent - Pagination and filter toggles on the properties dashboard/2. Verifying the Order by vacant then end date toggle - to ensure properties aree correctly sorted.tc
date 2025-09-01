@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. Verifying the Order by vacant then end date toggle - to ensure properties aree correctly sorted</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>850163a6-cf52-4ed6-9535-57abe89a12f5</testCaseGuid>
+</TestCaseEntity>

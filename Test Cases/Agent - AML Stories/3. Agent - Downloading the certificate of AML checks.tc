@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>3. Agent - Downloading the certificate of AML checks</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57e49c84-bbf5-4c9e-a375-2aece3d798ad</testCaseGuid>
+</TestCaseEntity>

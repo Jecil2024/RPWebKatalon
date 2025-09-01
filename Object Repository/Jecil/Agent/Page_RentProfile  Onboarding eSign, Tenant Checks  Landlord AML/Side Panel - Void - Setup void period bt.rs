@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Side Panel - Void - Setup void period bt</name>
+   <tag></tag>
+   <elementGuidId>679b9cdf-e903-4564-9343-35c947535f2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='confirm-add-select-flow']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#confirm-add-select-flow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5ba5f103-7966-41f6-9418-44cc2eb1ea9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>confirm-add-select-flow</value>
+      <webElementGuid>a6c1fca5-774b-4d18-a50c-97b8998d32dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>confirm-record set-margin</value>
+      <webElementGuid>7a6fa1de-8357-4eb3-9bb1-dbb8611547b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Setup Void Period</value>
+      <webElementGuid>a1dd156a-ae52-431c-bce7-a31f0c61e696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;confirm-add-select-flow&quot;)</value>
+      <webElementGuid>4ff6ba18-2051-4e0b-a356-0dd57b8562d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='confirm-add-select-flow']</value>
+      <webElementGuid>de7699e6-b130-4628-b6c8-a5794e88ccf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='myModalDialog']/div/div[2]/div/div[3]/div[2]/div)[2]</value>
+      <webElementGuid>74922fa2-ca03-44f7-a665-1136c11697a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='here'])[2]/following::div[2]</value>
+      <webElementGuid>9c7fceb8-69d9-4b4d-bd6c-efbffe6f72fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Tenancy'])[1]/following::div[51]</value>
+      <webElementGuid>53058523-c3e5-49ec-a282-ff8a9d21c587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send invite'])[1]/preceding::div[1]</value>
+      <webElementGuid>a27fb9cc-8321-416f-80bd-3218bfecd4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Barbers of Windermere, 8 Victoria Stre... LA23 1AB'])[2]/preceding::div[1]</value>
+      <webElementGuid>b327f1e1-2f81-4f1f-b006-dcb30d75028f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Setup Void Period']/parent::*</value>
+      <webElementGuid>e778b846-bcee-40e8-9a78-971f8d099e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[3]/div[2]/div</value>
+      <webElementGuid>4412318c-84d8-45c5-a360-18476a561f1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'confirm-add-select-flow' and (text() = 'Setup Void Period' or . = 'Setup Void Period')]</value>
+      <webElementGuid>270e5d01-9ba0-4525-af24-5ab05f5adf8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip description for NHA Individual</name>
+   <tag></tag>
+   <elementGuidId>98929c43-daa2-416d-900c-7a5c68f0aff1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='clause_example_popup_id2']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#clause_example_popup_id2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4308b444-fb24-4b66-8f82-98da5ab77804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clause_example_popup_text show</value>
+      <webElementGuid>46f3887b-6013-4132-8680-f0b84ede4ddb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>clause_example_popup_id2</value>
+      <webElementGuid>057a600e-bd5b-47f4-a828-447034186c4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            A Non-Housing Act Tenancy is typically used if the rent is over £100,000 a year, or where it is not the tenant's main home.
+          </value>
+      <webElementGuid>154a5382-0aca-4210-8d2a-6cf92ca2868b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;clause_example_popup_id2&quot;)</value>
+      <webElementGuid>1ae8bb97-24a4-4072-818e-2f6fa3b37bf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='clause_example_popup_id2']</value>
+      <webElementGuid>6d618f69-bd0b-4281-9886-dac2f288b5a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_invite']/table[2]/tbody/tr[2]/td[2]/div[2]/span</value>
+      <webElementGuid>2b73b569-e0ff-4829-87b1-7f357357ea86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NHA for individual(s)'])[1]/following::span[1]</value>
+      <webElementGuid>8bf0d81f-5893-4528-827c-d1f5243a236d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AST'])[1]/following::span[3]</value>
+      <webElementGuid>1dbce79b-4151-4ff5-a875-27b4bcac5f24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NHA for company'])[1]/preceding::span[1]</value>
+      <webElementGuid>0ac4b694-560f-4c5f-9ea1-4d525831b1fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposed move in date'])[1]/preceding::span[3]</value>
+      <webElementGuid>46a83f48-9cd0-4d36-b503-2ce99f0c973f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div[2]/span</value>
+      <webElementGuid>ed96becf-9b83-48e6-bc18-a29d788fb7e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'clause_example_popup_id2' and (text() = concat(&quot;
+            A Non-Housing Act Tenancy is typically used if the rent is over £100,000 a year, or where it is not the tenant&quot; , &quot;'&quot; , &quot;s main home.
+          &quot;) or . = concat(&quot;
+            A Non-Housing Act Tenancy is typically used if the rent is over £100,000 a year, or where it is not the tenant&quot; , &quot;'&quot; , &quot;s main home.
+          &quot;))]</value>
+      <webElementGuid>22b5f169-1e2f-42d9-a119-ab3033de721a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

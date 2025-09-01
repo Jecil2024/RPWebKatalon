@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>6. Checking validation when Home address is not in the UK is selected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0dfdd37-3d03-4cf4-ab18-602b79b62a9e</testCaseGuid>
+</TestCaseEntity>

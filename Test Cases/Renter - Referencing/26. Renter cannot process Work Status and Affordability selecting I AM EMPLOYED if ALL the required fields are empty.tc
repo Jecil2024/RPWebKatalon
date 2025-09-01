@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>26. Renter cannot process Work Status and Affordability selecting I AM EMPLOYED if ALL the required fields are empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82a54cda-ac50-43f5-99a1-ceaf792191a7</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dashboard - View all landlord sign ups bt</name>
+   <tag></tag>
+   <elementGuidId>c4d31502-212a-4f95-8345-a201f352dfeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main_content']/div/div[3]/div/div/strong/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b094fe44-7998-4bcd-a7a1-bfa658e3d3d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shelpeak/admin/landlords</value>
+      <webElementGuid>a561915f-f2a0-4d92-bd11-c61426278cf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all landlord sign ups</value>
+      <webElementGuid>a47579fa-10a8-47fd-aa68-d345cd89f720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_content&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel_contents&quot;]/strong[1]/a[1]</value>
+      <webElementGuid>9aef4e5d-a3c9-47e0-ad43-e9d094acf2d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main_content']/div/div[3]/div/div/strong/a</value>
+      <webElementGuid>e4cd8524-d542-4fc2-8fe6-8292b363bf8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View all landlord sign ups')]</value>
+      <webElementGuid>c6ea6d79-3069-44e7-b96a-6f604ebee4de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Landlords'])[2]/following::a[1]</value>
+      <webElementGuid>0326388d-9bd2-4e35-8a15-177495a03d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='June 20, 2025 16:09'])[1]/following::a[1]</value>
+      <webElementGuid>6b4a321f-1f15-4a5f-9af6-697cfde51c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surname'])[1]/preceding::a[1]</value>
+      <webElementGuid>8c05e35f-b914-4152-b51c-bdafa68fbd12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/preceding::a[1]</value>
+      <webElementGuid>15ba99b0-8145-4fd9-ae90-9bd570aa5b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View all landlord sign ups']/parent::*</value>
+      <webElementGuid>c214dccd-7157-4bbe-8e22-76d4ff2e3bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/shelpeak/admin/landlords')])[2]</value>
+      <webElementGuid>30c3ea63-a3c6-41c8-828e-0d6c83f5857b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/strong/a</value>
+      <webElementGuid>b6895222-c6ac-4bea-8cca-f1720c31bddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shelpeak/admin/landlords' and (text() = 'View all landlord sign ups' or . = 'View all landlord sign ups')]</value>
+      <webElementGuid>ffb561df-bd4a-40c4-9cb8-0ac3b894451b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

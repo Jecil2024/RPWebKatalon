@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>20. Renter cannot process the Identity Check section if address field is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa067d4e-e78f-40d8-bfdb-751dc1064c68</testCaseGuid>
+</TestCaseEntity>

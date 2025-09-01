@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Topbar - Logout</name>
+   <tag></tag>
+   <elementGuidId>c09e8c0d-1717-4ef2-ae97-c56f530b9be4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-section']/div/a/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.nav.navbar-nav.navbar-right.hidden-sm.hidden-xs > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>dac5e417-72e8-4796-a009-b3770458cdc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LOGOUT</value>
+      <webElementGuid>c377fdf4-71ab-4a79-bf98-0d76769f34d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-section&quot;)/div[@class=&quot;container-fluid&quot;]/a[@class=&quot;hidden-sm hidden-xs&quot;]/div[@class=&quot;nav navbar-nav navbar-right hidden-sm hidden-xs&quot;]/p[1]</value>
+      <webElementGuid>1767bba6-5c6f-4ff2-a192-82cf90d47d49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-section']/div/a/div/p</value>
+      <webElementGuid>839c53af-4366-41dd-a114-6d01265e4942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About'])[1]/following::p[11]</value>
+      <webElementGuid>2a8513ce-689e-4cee-9652-43422577c3c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Nav'])[1]/following::p[11]</value>
+      <webElementGuid>8bbd7241-c48c-4424-af34-894e87762b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Nav'])[2]/preceding::p[3]</value>
+      <webElementGuid>dd80b282-62fa-45f2-a34f-7ca21c698ba8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGOUT'])[2]/preceding::p[4]</value>
+      <webElementGuid>5e724eef-7c11-434e-a095-f970fcc271cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LOGOUT']/parent::*</value>
+      <webElementGuid>766ae1d5-520c-460d-a6e3-2c437b9dc037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/p</value>
+      <webElementGuid>1f6b5aab-6064-4b35-bd73-0a09c5baf01f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'LOGOUT' or . = 'LOGOUT')]</value>
+      <webElementGuid>c454fd0f-c086-4809-b490-eaa48295340b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

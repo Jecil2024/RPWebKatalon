@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Gmail - Sign Car parking Agreement bt</name>
+   <tag></tag>
+   <elementGuidId>6e01c175-1380-415b-983f-618f39a78c99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;:12j&quot;]/div[1]/div/table[1]/tbody/tr/td/p[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b2c0db5f-e85f-41b9-852f-5bb8c84907c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://covered-hill-4728.herokuapp.com/addons/agreement/show?landlord_ref=779ec9233c0a52df850ec5d2a49e1601e632b592a193227911c757a203ad&amp;addonid=7c0ec00874503cc00631fdc95415a987c343c4c3ce91a02d</value>
+      <webElementGuid>ddabfa2e-a846-44fe-9d5e-c6cf3415c50e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>f56e9520-ef3b-4ee6-8f5e-9e481990f16c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-saferedirecturl</name>
+      <type>Main</type>
+      <value>https://www.google.com/url?q=https://covered-hill-4728.herokuapp.com/addons/agreement/show?landlord_ref%3D779ec9233c0a52df850ec5d2a49e1601e632b592a193227911c757a203ad%26addonid%3D7c0ec00874503cc00631fdc95415a987c343c4c3ce91a02d&amp;source=gmail&amp;ust=1742886159686000&amp;usg=AOvVaw2VxzRUVS8KDRydIe-Z0laE</value>
+      <webElementGuid>773b6f47-ba4b-40f3-9dd1-7260974f18ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign Car parking Agreement</value>
+      <webElementGuid>dcabbe12-c787-4295-ab4b-e258398ed4a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;:20&quot;)/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/p[3]/a[1]</value>
+      <webElementGuid>15f5913d-f360-4333-b345-74f0032b405b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id=':20']/div/div/table/tbody/tr/td/p[3]/a</value>
+      <webElementGuid>cb94f6a8-1726-4b60-bb14-ecfbd6cfd4f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign Car parking Agreement')]</value>
+      <webElementGuid>d938a64d-86a5-4396-89a9-90e0475b432b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='me'])[1]/following::a[1]</value>
+      <webElementGuid>c1bd6183-01cd-438c-b134-47d507239d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='amelia'])[1]/following::a[1]</value>
+      <webElementGuid>5ba8df32-bbff-4db0-ae1d-a2e47270b742</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to rentprofile.co'])[1]/preceding::a[1]</value>
+      <webElementGuid>84047f62-46e5-4f24-8de6-343ce106d07c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Privacy Policy'])[1]/preceding::a[2]</value>
+      <webElementGuid>43f357b3-bb21-4673-b6a7-7381f3f20daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign Car parking Agreement']/parent::*</value>
+      <webElementGuid>de31e272-fb0f-4828-97ba-193de055d45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://covered-hill-4728.herokuapp.com/addons/agreement/show?landlord_ref=779ec9233c0a52df850ec5d2a49e1601e632b592a193227911c757a203ad&amp;addonid=7c0ec00874503cc00631fdc95415a987c343c4c3ce91a02d')]</value>
+      <webElementGuid>1503a7dc-dd52-43d2-af85-1f6a201885e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]/a</value>
+      <webElementGuid>e80f7963-70ab-4875-b105-45b90901bda7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://covered-hill-4728.herokuapp.com/addons/agreement/show?landlord_ref=779ec9233c0a52df850ec5d2a49e1601e632b592a193227911c757a203ad&amp;addonid=7c0ec00874503cc00631fdc95415a987c343c4c3ce91a02d' and (text() = 'Sign Car parking Agreement' or . = 'Sign Car parking Agreement')]</value>
+      <webElementGuid>f8ad6109-cd84-4fe3-a11d-fbbd85ada7b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

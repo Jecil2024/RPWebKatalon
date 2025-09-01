@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Landlord AML - Site dropdown</name>
+   <tag></tag>
+   <elementGuidId>a104b84d-c8ac-4311-b4fe-21eba5d44917</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='aml_branch_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#aml_branch_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>1587e810-73bc-4ae9-878c-7b26f18220a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control input-lg</value>
+      <webElementGuid>dbd856fb-cff5-4123-979c-1779f467e182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>include_blank</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>d636237a-7673-4434-93c9-c6ad42c955f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>aml[branch_id]</value>
+      <webElementGuid>e158cafb-f2ff-461e-8dbd-095bea57675f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>aml_branch_id</value>
+      <webElementGuid>1fbe4846-2287-4908-987f-4bedc5dd131c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Islington
+Highbury
+Camden
+Test2
+Test3
+Test1</value>
+      <webElementGuid>80345e95-9c4c-4829-b375-0c8f13de7dc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;aml_branch_id&quot;)</value>
+      <webElementGuid>4e58732b-60e4-4def-af7b-66a8a708168f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='aml_branch_id']</value>
+      <webElementGuid>8cdd196e-2395-44ab-9b28-37c5e2a9001e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_aml']/div/div/select</value>
+      <webElementGuid>b1ef98fd-7ef2-4417-a646-158b4131c323</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Landlord AML'])[1]/following::select[1]</value>
+      <webElementGuid>a1db537f-e338-4aff-b6a3-e72e6f49b0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rent Guarantee'])[1]/following::select[1]</value>
+      <webElementGuid>845fcf20-80df-4aef-8b60-28d77925a001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner is individual'])[1]/preceding::select[1]</value>
+      <webElementGuid>655b9c11-9540-4ce5-bfb5-8c03192f64ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner is Business'])[1]/preceding::select[1]</value>
+      <webElementGuid>4f07214c-a9c0-4e37-89c9-da603e593831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>ea7b7bcb-c588-42ef-8111-5c43c06d1d35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'aml[branch_id]' and @id = 'aml_branch_id' and (text() = 'Islington
+Highbury
+Camden
+Test2
+Test3
+Test1' or . = 'Islington
+Highbury
+Camden
+Test2
+Test3
+Test1')]</value>
+      <webElementGuid>2c7bfadc-fdfe-47ce-a74f-bd983987dbb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

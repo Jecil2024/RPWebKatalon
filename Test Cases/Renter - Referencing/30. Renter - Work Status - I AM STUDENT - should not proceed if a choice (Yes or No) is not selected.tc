@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>30. Renter - Work Status - I AM STUDENT - should not proceed if a choice (Yes or No) is not selected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>429ea3da-bc47-4a18-b7a1-f20b034f66c7</testCaseGuid>
+</TestCaseEntity>

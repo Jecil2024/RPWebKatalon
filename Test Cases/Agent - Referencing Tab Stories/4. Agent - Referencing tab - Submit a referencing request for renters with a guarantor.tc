@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>4. Agent - Referencing tab - Submit a referencing request for renters with a guarantor</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3b5d078b-d08f-422c-bcfb-963be69b75a8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>39. Agent - I would like to automate the process of reissuing direct debit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3ae689c-734f-4033-9ee8-6771ffc4647d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>72. Agent - Process of adding a guarantor check through the AML tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>716bbf71-e189-486b-a4f1-cf69224f101c</testCaseGuid>
+</TestCaseEntity>

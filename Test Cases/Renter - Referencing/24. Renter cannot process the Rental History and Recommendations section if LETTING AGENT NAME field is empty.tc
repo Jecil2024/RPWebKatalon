@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>24. Renter cannot process the Rental History and Recommendations section if LETTING AGENT NAME field is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0680183b-5fce-49f8-a464-603b716c7d74</testCaseGuid>
+</TestCaseEntity>

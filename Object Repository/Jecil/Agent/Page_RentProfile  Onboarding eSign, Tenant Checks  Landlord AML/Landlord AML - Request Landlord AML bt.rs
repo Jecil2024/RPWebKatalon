@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Landlord AML - Request Landlord AML bt</name>
+   <tag></tag>
+   <elementGuidId>80484096-85f8-432a-a6da-8551446edc57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='invitecheckvalidmobilenew']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#invitecheckvalidmobilenew</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a00eefc7-5a3a-448f-b66f-c6b7da1f9511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>invitecheckvalidmobilenew</value>
+      <webElementGuid>c00f90c3-8f64-4738-96d3-a09b8d77a595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-lg</value>
+      <webElementGuid>901b0472-d1f4-4efd-a4c3-bf672c8319b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Request Landlord AML</value>
+      <webElementGuid>2ab06599-f734-44d7-875a-df61f35c6846</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;invitecheckvalidmobilenew&quot;)</value>
+      <webElementGuid>e0eb7f37-d6a7-4b18-a68c-159f11d59231</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='invitecheckvalidmobilenew']</value>
+      <webElementGuid>7713ab61-1243-4447-92ad-c93b5a0ae460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_aml']/div[11]/div/div</value>
+      <webElementGuid>6331fbcb-d510-4aff-aaa7-2b0bd0b1316a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Passport'])[1]/following::div[9]</value>
+      <webElementGuid>8d3d578e-3a36-4025-a12e-5945c7cdac08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::div[11]</value>
+      <webElementGuid>33efa999-cd12-40bd-9935-2881df7e47fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Landlord AML'])[2]/preceding::div[1]</value>
+      <webElementGuid>12e657f7-e195-4529-ad58-6073c67ca055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pending'])[1]/preceding::div[2]</value>
+      <webElementGuid>a238ce94-7ecf-4998-8549-291a40adbccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Request Landlord AML']/parent::*</value>
+      <webElementGuid>9e73ad7f-6523-41c6-9467-7dcc49e0bf3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div</value>
+      <webElementGuid>441d5a69-f419-4f3a-b60f-24f5bfe7ef8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'invitecheckvalidmobilenew' and (text() = 'Request Landlord AML' or . = 'Request Landlord AML')]</value>
+      <webElementGuid>ff3b913b-fe4a-40ae-a627-5fc215fc7bc0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

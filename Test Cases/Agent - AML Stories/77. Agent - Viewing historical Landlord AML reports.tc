@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>77. Agent - Viewing historical Landlord AML reports</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c40bc2f-50f2-4def-8cc9-75b8f7969b38</testCaseGuid>
+</TestCaseEntity>

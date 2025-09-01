@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Side Panel - Void Period bt</name>
+   <tag></tag>
+   <elementGuidId>e757c87e-95ee-47e4-800f-daa63c5a8922</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='on_start_void_select_next_flow']/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#on_start_void_select_next_flow > div.flow-active-section > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b38fa4ab-50dc-4ac1-a59a-64fea141d43d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Void Period</value>
+      <webElementGuid>25aeb83e-679c-4ec0-885e-2793640c615c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;on_start_void_select_next_flow&quot;)/div[@class=&quot;flow-active-section&quot;]/p[1]</value>
+      <webElementGuid>40199422-06f2-4c87-b83d-ab80524b2350</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='on_start_void_select_next_flow']/div/p</value>
+      <webElementGuid>595eb83f-0f3d-4cb5-9eea-8c25cce9145b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Tenancy'])[1]/following::p[5]</value>
+      <webElementGuid>cfe29120-5850-4424-9e5c-bab21636f27b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Set up void period'])[1]/following::p[5]</value>
+      <webElementGuid>f52d7762-e2b4-406e-b29c-a58f59bff12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='here'])[2]/preceding::p[18]</value>
+      <webElementGuid>a300b69f-5f26-4996-9a06-0c5993f014ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setup Void Period'])[1]/preceding::p[19]</value>
+      <webElementGuid>f5a38d76-1987-47c1-bcda-aeeb7100714e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div[2]/div/div/div/p</value>
+      <webElementGuid>224cf88e-6433-4fe7-b996-9dddcb7d133c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Void Period' or . = 'Void Period')]</value>
+      <webElementGuid>09317ce4-21a1-49fc-903e-a2241c684108</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

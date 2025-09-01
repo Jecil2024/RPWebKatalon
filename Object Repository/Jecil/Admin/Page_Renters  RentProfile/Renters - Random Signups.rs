@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Renters - Random Signups</name>
+   <tag></tag>
+   <elementGuidId>23187ae3-5ed4-434c-9cae-11457df5e35a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='collection_selection']/div/div[2]/ul/li[12]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.scope.random_signups > a.table_tools_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6f8e7ac5-97bc-423a-806a-aeb6b343265e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shelpeak/admin/renters?scope=random_signups</value>
+      <webElementGuid>898e9a46-07c7-43fe-82d1-cb131cd1925f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table_tools_button</value>
+      <webElementGuid>c425d062-834f-48f1-9c7c-17a16568cedf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Random Signups</value>
+      <webElementGuid>5fcbc253-e9cb-494d-ab27-2fe7a0a011b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collection_selection&quot;)/div[@class=&quot;table_tools&quot;]/div[@class=&quot;scopes&quot;]/ul[@class=&quot;table_tools_segmented_control scope-default-group&quot;]/li[@class=&quot;scope random_signups&quot;]/a[@class=&quot;table_tools_button&quot;]</value>
+      <webElementGuid>288a4ecc-c24a-4161-a768-9292292db263</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='collection_selection']/div/div[2]/ul/li[12]/a</value>
+      <webElementGuid>c42e4bad-ba67-4067-a78a-1ac7ea015579</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Random Signups')]</value>
+      <webElementGuid>6a11defa-ec39-49a0-b03e-f6577bf3c402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Duplicates'])[1]/following::a[1]</value>
+      <webElementGuid>3985da17-91a1-45f9-9a24-cdae83bc5fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processed'])[1]/following::a[2]</value>
+      <webElementGuid>42604b7f-9382-472b-a132-a9e022c3bb0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testing Processed'])[1]/preceding::a[1]</value>
+      <webElementGuid>62dc166e-d014-4626-bcd3-f34e2a0ac0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unresponsive Template'])[1]/preceding::a[2]</value>
+      <webElementGuid>594a152c-436c-47cb-9ee5-c02ed303527b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Random Signups']/parent::*</value>
+      <webElementGuid>36b44066-d000-45ab-878a-2dab8dea2db5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/shelpeak/admin/renters?scope=random_signups')]</value>
+      <webElementGuid>6ff5fedf-fd4f-4d2c-9576-af8f8d6dc90e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[12]/a</value>
+      <webElementGuid>a4994932-307f-451c-80a2-14d12b3b94af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shelpeak/admin/renters?scope=random_signups' and (text() = 'Random Signups' or . = 'Random Signups')]</value>
+      <webElementGuid>f612c578-b343-4c14-bbc0-041654a951c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

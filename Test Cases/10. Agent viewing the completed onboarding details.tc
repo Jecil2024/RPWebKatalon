@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10. Agent viewing the completed onboarding details</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8fe5801-634f-4f69-8adc-577c8312b5c6</testCaseGuid>
+</TestCaseEntity>

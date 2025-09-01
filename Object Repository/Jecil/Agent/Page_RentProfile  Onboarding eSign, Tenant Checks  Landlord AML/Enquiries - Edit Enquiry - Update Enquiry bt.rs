@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Enquiries - Edit Enquiry - Update Enquiry bt</name>
+   <tag></tag>
+   <elementGuidId>5ec6512d-eca9-41bf-8197-9aabc44da3af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='submitapplicantdetails']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#submitapplicantdetails</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>526a76b1-9d52-4da4-833b-8e3926147b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submitapplicantdetails</value>
+      <webElementGuid>c61c65c8-6f92-450b-bcb1-2bc84fd16c23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success btn-lg </value>
+      <webElementGuid>0739e981-4fe6-4d0b-84fc-d779c0ce4b37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update Enquiry</value>
+      <webElementGuid>122bae49-0f0a-4b08-b2be-9f6ef16bb162</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submitapplicantdetails&quot;)</value>
+      <webElementGuid>cd360103-f842-460b-9b11-43b7e6e8ccb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='submitapplicantdetails']</value>
+      <webElementGuid>34886239-a8a1-4dbf-b9dd-bcaa184d683f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='stickycreate']/div</value>
+      <webElementGuid>db1911fb-ff60-413f-94d8-fe5b5b4f4042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Annually'])[1]/following::div[9]</value>
+      <webElementGuid>4a1a7127-8941-4eec-b58b-b5cb1fc8bbdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Monthly'])[1]/following::div[10]</value>
+      <webElementGuid>3d6bbb51-339a-4f69-bd5f-8862a2ea8cab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::div[1]</value>
+      <webElementGuid>ef066485-03f7-4536-ba56-73ba344ca160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/preceding::div[1]</value>
+      <webElementGuid>8dc26259-a536-4019-97cf-a25e152ae592</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Update Enquiry']/parent::*</value>
+      <webElementGuid>ab2c83cc-21ab-4161-b08c-3b964c9b3301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div</value>
+      <webElementGuid>5d5fff26-8bd9-4da0-93c8-32f5d0bcee53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'submitapplicantdetails' and (text() = 'Update Enquiry' or . = 'Update Enquiry')]</value>
+      <webElementGuid>b7b081ed-e796-4ea8-8f4b-a4c5124a2b0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

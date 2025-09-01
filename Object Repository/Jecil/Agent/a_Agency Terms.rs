@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Agency Terms</name>
+   <tag></tag>
+   <elementGuidId>015a81b4-6d87-4510-97fd-7b0fad1eea63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#checkstabletable_tenancies > tbody > tr:nth-of-type(2) > td:nth-of-type(6) > p > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='checkstabletable_tenancies']/tbody/tr[2]/td[6]/p/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>7d9cf5d6-39df-4da2-a462-001125a1f6d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/agent/property_in_tenancy?tenancyid=aa707ac0c4349f5a411cb338b80aa2aac47bd9f4a0f7835e3c89efa22c24</value>
+      <webElementGuid>66600719-f3f6-43fe-aece-7b88d2fcaecc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>property_in_tenancy</value>
+      <webElementGuid>663f44cf-ce96-4111-b5b2-769d683276bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>07f4f296-851c-430e-bd18-178bd1f0e8d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Agency Terms</value>
+      <webElementGuid>932a1331-1da3-46e1-8434-9f656e512805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkstabletable_tenancies&quot;)/tbody[1]/tr[2]/td[6]/p[1]/a[1]</value>
+      <webElementGuid>d2694738-9859-4700-9141-8e12e4db9f6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='checkstabletable_tenancies']/tbody/tr[2]/td[6]/p/a</value>
+      <webElementGuid>ecff3ac0-bb92-4c6d-b314-f0a280d39243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Agency Terms')]</value>
+      <webElementGuid>1391dff3-526b-487c-98c2-3357bf4f4216</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ywojgojfokp'])[1]/following::a[1]</value>
+      <webElementGuid>bbefdccc-510a-4a8a-b5e0-619635f3b919</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Listing'])[2]/following::a[4]</value>
+      <webElementGuid>22a8fb94-525a-4a6e-9963-d10bb5147a88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ywojgojfokp'])[2]/preceding::a[6]</value>
+      <webElementGuid>9bdf9b16-6e5e-45c9-a464-7326ffc2bdb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agency Terms'])[3]/preceding::a[6]</value>
+      <webElementGuid>e6426989-e8cf-4b53-8915-e84c5dc63298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/agent/property_in_tenancy?tenancyid=aa707ac0c4349f5a411cb338b80aa2aac47bd9f4a0f7835e3c89efa22c24')]</value>
+      <webElementGuid>98195f2f-fdd0-4841-9c98-4e37d469a213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/table/tbody/tr[2]/td[6]/p/a</value>
+      <webElementGuid>21e5c58f-3f56-41f0-81ed-48317aff2f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/agent/property_in_tenancy?tenancyid=aa707ac0c4349f5a411cb338b80aa2aac47bd9f4a0f7835e3c89efa22c24' and (text() = 'Agency Terms' or . = 'Agency Terms')]</value>
+      <webElementGuid>534e5038-752e-4ed6-94c1-8d6db55cb0e6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

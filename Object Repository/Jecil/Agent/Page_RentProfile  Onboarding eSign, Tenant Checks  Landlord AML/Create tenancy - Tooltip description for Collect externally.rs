@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip description for Collect externally</name>
+   <tag></tag>
+   <elementGuidId>e053dd54-b2e8-4797-b885-bc61ea1dc5bf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='collect_external_tolltip_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#collect_external_tolltip_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>62a30b94-c791-4b52-b53a-e6614bc7629b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clause_example_popup_text text-center show</value>
+      <webElementGuid>d2e22c73-d12c-47bd-b5e7-727eac752b1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>collect_external_tolltip_id</value>
+      <webElementGuid>44168ff1-30e2-4f22-b007-0e33e2ec0ed6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+              Enabling means the holding deposit will not be collected by RentProfile. Tenants should pay the holding deposit directly to the agent.</value>
+      <webElementGuid>4c0f15c3-7a65-4334-84de-464501f9d140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collect_external_tolltip_id&quot;)</value>
+      <webElementGuid>eff68f57-4633-4070-bb0e-167738cc0dd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='collect_external_tolltip_id']</value>
+      <webElementGuid>0a759443-135f-4034-9809-38025de995dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='collect_external_div_id']/span</value>
+      <webElementGuid>a21a7007-bda0-4731-9acb-19f2a7f0f4ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='between applicants'])[3]/following::span[2]</value>
+      <webElementGuid>75afce05-ec96-4a56-b41b-3ea8eb52f867</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='between applicants'])[2]/following::span[4]</value>
+      <webElementGuid>aae2ec9b-9dbd-448a-9114-fbc1be703ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Agent'])[1]/preceding::span[1]</value>
+      <webElementGuid>af7fea6e-6b9d-43cd-a6a5-10fff9f0ca78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Landlord'])[1]/preceding::span[2]</value>
+      <webElementGuid>0e3da4ac-536d-4c7d-92bc-03a4c1dc6991</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enabling means the holding deposit will not be collected by RentProfile. Tenants should pay the holding deposit directly to the agent.']/parent::*</value>
+      <webElementGuid>25db7ce7-2d9f-4658-be02-3f6ff6acc985</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/table/tbody/tr[2]/td[2]/div/span</value>
+      <webElementGuid>96cd9c48-3abd-4b5d-a711-d130a1b926e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'collect_external_tolltip_id' and (text() = '
+              Enabling means the holding deposit will not be collected by RentProfile. Tenants should pay the holding deposit directly to the agent.' or . = '
+              Enabling means the holding deposit will not be collected by RentProfile. Tenants should pay the holding deposit directly to the agent.')]</value>
+      <webElementGuid>b6dbb5a0-99e5-49f6-8e7a-af622fc5f230</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

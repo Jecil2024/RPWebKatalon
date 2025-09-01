@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Renters - Show All</name>
+   <tag></tag>
+   <elementGuidId>975e806a-6ecb-434d-bfa2-4a3dac5a62df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='collection_selection']/div/div[2]/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.table_tools_button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>55d17fb7-2df7-4787-ad89-6efbddd3bd4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shelpeak/admin/renters?scope=show_all</value>
+      <webElementGuid>4f29a883-3f3e-4469-a469-29e2929828fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>table_tools_button</value>
+      <webElementGuid>7234a20e-f67c-43ed-905f-7cd579dee767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Show All</value>
+      <webElementGuid>ef4157bc-0649-4832-9e2f-68e343f14194</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;collection_selection&quot;)/div[@class=&quot;table_tools&quot;]/div[@class=&quot;scopes&quot;]/ul[@class=&quot;table_tools_segmented_control scope-default-group&quot;]/li[@class=&quot;scope show_all&quot;]/a[@class=&quot;table_tools_button&quot;]</value>
+      <webElementGuid>3d0cc0d4-e466-44f0-b5d6-e3464077d398</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='collection_selection']/div/div[2]/ul/li/a</value>
+      <webElementGuid>311f60de-61d5-474b-85c7-8dde5d83399f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Show All')]</value>
+      <webElementGuid>afd7d044-9845-42b8-b8fb-a1040fe8099f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Renter'])[1]/following::a[3]</value>
+      <webElementGuid>f06ba016-4ed2-415a-b53e-38c530786728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Renters'])[2]/following::a[4]</value>
+      <webElementGuid>822d4dad-e5ff-4c49-b950-c142e8c3887b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(0)'])[1]/preceding::a[1]</value>
+      <webElementGuid>c0bcaa28-0d9d-48ad-ac67-f41c584b641a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Show All']/parent::*</value>
+      <webElementGuid>cca4cb2a-84be-4725-9f8a-8a312139e3bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/shelpeak/admin/renters?scope=show_all')]</value>
+      <webElementGuid>bcfabf93-1d49-44cd-90c6-0386e7f5daaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li/a</value>
+      <webElementGuid>a3051d51-a19c-4b4d-8cfc-75e11df696ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shelpeak/admin/renters?scope=show_all' and (text() = 'Show All' or . = 'Show All')]</value>
+      <webElementGuid>fecafeab-b720-4098-9d9b-a7594e82381d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

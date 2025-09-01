@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Agent logging in and viewing a referencing report from onboarding page of the agent dashboard</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a2b0c68-a68b-46a7-953c-3d61b9a2d584</testCaseGuid>
+</TestCaseEntity>

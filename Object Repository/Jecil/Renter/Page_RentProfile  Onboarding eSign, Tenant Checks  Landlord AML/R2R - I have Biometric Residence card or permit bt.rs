@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - I have Biometric Residence card or permit bt</name>
+   <tag></tag>
+   <elementGuidId>750fab80-b7e0-41b9-9353-3f2ec22844f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='biometric_residence_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#biometric_residence_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d72e3ce-53fe-437e-bc69-d56ee1dc1c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>bdffd885-09f0-4768-ad37-189554f69c3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>biometric_residence_btn</value>
+      <webElementGuid>114fbc32-4809-4cea-9e9b-a9c2eb7579fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have Biometric Residence card or permit</value>
+      <webElementGuid>9364e71a-1c5a-4ad7-8bb0-542f13705d39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;biometric_residence_btn&quot;)</value>
+      <webElementGuid>4b58b01d-d713-4ec0-8a36-c9be5c5bd06d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='biometric_residence_btn']</value>
+      <webElementGuid>850f2e5e-1876-4a68-a46d-ec65a866d17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div[2]</value>
+      <webElementGuid>71c20db4-fe0d-430e-bdf1-751142f8f9ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have a UK or Irish passport'])[1]/following::div[1]</value>
+      <webElementGuid>d6e7ca56-8c4d-40a3-94e3-b4caaae8fe26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='click here'])[1]/following::div[4]</value>
+      <webElementGuid>2f3becf5-e593-45e9-b5c7-9a3140251b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Settled (or Pre-Settled) Status in the UK'])[1]/preceding::div[1]</value>
+      <webElementGuid>ce44691a-8958-464a-9fe6-edc1d9c63439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have a pending visa application with the UK government'])[1]/preceding::div[2]</value>
+      <webElementGuid>2c78f55d-870c-433c-b9a2-674ef457c5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have Biometric Residence card or permit']/parent::*</value>
+      <webElementGuid>94a39031-4a38-4ed6-85cf-0096be3bd942</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[2]</value>
+      <webElementGuid>3d7fac86-39fb-42ea-a873-f52a4e935e5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'biometric_residence_btn' and (text() = 'I have Biometric Residence card or permit' or . = 'I have Biometric Residence card or permit')]</value>
+      <webElementGuid>ce28f192-f6ff-4a6b-abe3-bcd613ee1de8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

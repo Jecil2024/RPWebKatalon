@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Validate error message for the Next of Kin field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>21ba16ee-c6fa-49a5-9409-cee877acec28</testCaseGuid>
+</TestCaseEntity>

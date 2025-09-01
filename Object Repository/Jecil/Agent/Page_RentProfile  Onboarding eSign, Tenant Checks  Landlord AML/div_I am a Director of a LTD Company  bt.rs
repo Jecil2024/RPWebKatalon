@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_I am a Director of a LTD Company  bt</name>
+   <tag></tag>
+   <elementGuidId>b75de532-416b-40a5-b24c-32481e737731</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='changeValueDirectorLTD()']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#selfemployedbtns > div.btn.btn-default.btn-lg.btn-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a5621d0c-2728-458e-ba59-dbb22d43a89f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block</value>
+      <webElementGuid>514bfc9d-5ea2-41bd-8fe6-4a6b5260609f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeValueDirectorLTD()</value>
+      <webElementGuid>da767cce-73cc-4432-a0aa-43e0f81a24b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I am a Director of a LTD Company</value>
+      <webElementGuid>7a922146-6220-4473-ac01-a295158bbed9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;selfemployedbtns&quot;)/div[@class=&quot;btn btn-default btn-lg btn-block&quot;]</value>
+      <webElementGuid>f6bd03b5-3730-481c-91ed-f1357eb13903</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='changeValueDirectorLTD()']</value>
+      <webElementGuid>9596f6c8-678f-4182-80d8-a197a6701a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selfemployedbtns']/div[2]</value>
+      <webElementGuid>75803dec-efe6-44c6-8dad-d6cb30238646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Self Employed'])[1]/following::div[1]</value>
+      <webElementGuid>0883335b-eee2-40f8-ace4-1bfc36489eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back to myRentProfile'])[1]/following::div[3]</value>
+      <webElementGuid>1427b9b9-061b-4b1e-8770-87fe112e50d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am a Sole-Trader'])[1]/preceding::div[1]</value>
+      <webElementGuid>66fd5c78-898e-43a3-bdde-92c8adaf1a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am a Partner of an LLP Company'])[1]/preceding::div[2]</value>
+      <webElementGuid>07062115-bffc-48c2-ac36-e100192762b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I am a Director of a LTD Company']/parent::*</value>
+      <webElementGuid>e7e400d1-6157-4ee7-8fae-e70f40dd425c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div[2]</value>
+      <webElementGuid>fa32e673-36b0-423f-a7d8-f80072514661</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'I am a Director of a LTD Company' or . = 'I am a Director of a LTD Company')]</value>
+      <webElementGuid>5010f7d1-6a65-42b7-8640-d4eca29ba2ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>9. Checking the consent message is visible below the form so I know how next of kind details will be used</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>46adb26d-672b-4ab0-9899-49a460ec6fd2</testCaseGuid>
+</TestCaseEntity>

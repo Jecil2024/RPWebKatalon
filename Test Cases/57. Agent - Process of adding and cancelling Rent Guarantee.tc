@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>57. Agent - Process of adding and cancelling Rent Guarantee</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d284965e-0278-4e52-addc-79b9a2703456</testCaseGuid>
+</TestCaseEntity>

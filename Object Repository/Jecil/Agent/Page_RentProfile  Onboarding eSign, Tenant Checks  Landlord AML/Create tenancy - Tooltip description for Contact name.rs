@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip description for Contact name</name>
+   <tag></tag>
+   <elementGuidId>c73dd692-fd67-4ca8-ab82-632d052e82a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='contact_popup_info_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#contact_popup_info_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1f94e54d-75d8-40b1-991e-96818ba43968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clause_example_popup_text show</value>
+      <webElementGuid>6c69d5c4-e7ed-4929-a139-959062110ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>contact_popup_info_id</value>
+      <webElementGuid>6ee72d75-a9c5-45a4-9aa8-4e7149477cbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+            The Contact is a person within the company who is authorized to approve the rental of this property. </value>
+      <webElementGuid>2161e0ce-146c-493b-890e-be753c9250a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;contact_popup_info_id&quot;)</value>
+      <webElementGuid>2b940910-7f66-48d0-9ee0-bff399e0779e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='contact_popup_info_id']</value>
+      <webElementGuid>94131ffb-62da-44c8-9f29-8dd629a22a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='company_let_div']/div[2]/div/div/span</value>
+      <webElementGuid>0990bba1-3ebb-4c88-89e7-298470cfc8aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Renters'])[2]/following::span[1]</value>
+      <webElementGuid>17e19cbf-8823-413f-838a-130a36d90b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead tenant'])[1]/preceding::span[1]</value>
+      <webElementGuid>2f855da3-6bf6-465d-ad96-b9d3ddf04833</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove this Guarantor'])[1]/preceding::span[4]</value>
+      <webElementGuid>b08673f8-f9b9-4adb-86a7-b90e81508d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The Contact is a person within the company who is authorized to approve the rental of this property.']/parent::*</value>
+      <webElementGuid>2d23c4da-fac9-42ad-8c72-d0280cdd065d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span</value>
+      <webElementGuid>e7cb4fa9-c257-4282-9d73-94b0b9e00454</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'contact_popup_info_id' and (text() = '
+            The Contact is a person within the company who is authorized to approve the rental of this property. ' or . = '
+            The Contact is a person within the company who is authorized to approve the rental of this property. ')]</value>
+      <webElementGuid>ccba834b-19ef-4f85-9fcd-2b3d4c046c4f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

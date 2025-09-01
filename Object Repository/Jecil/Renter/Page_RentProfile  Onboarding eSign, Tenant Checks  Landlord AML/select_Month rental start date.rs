@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Month rental start date</name>
+   <tag></tag>
+   <elementGuidId>8b5ee818-369b-435d-a6f4-a88c6eba82c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='renting_start_month']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#renting_start_month</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>183c4328-ae9d-4490-a748-53175fa57552</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>renting_start_month</value>
+      <webElementGuid>df42a0b8-3040-4d5e-a9ed-fe8aac814fe2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control input-md</value>
+      <webElementGuid>4a346bb4-b158-4885-a7ed-a8da5192b3e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>renter[renting_start_month]</value>
+      <webElementGuid>4b08ce46-5831-4faa-a037-c122327fc897</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Month
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December</value>
+      <webElementGuid>80794e28-26d6-48d1-bb3f-d042b3a226ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;renting_start_month&quot;)</value>
+      <webElementGuid>f118cff7-e51d-4089-a766-fc0256579526</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='renting_start_month']</value>
+      <webElementGuid>bfa77831-0ebd-4ceb-abfe-7445ff5220ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab3']/div[5]/table/tbody/tr/td[2]/select</value>
+      <webElementGuid>9cbdbe53-3397-4ad7-8347-d32afa5970cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rental history &amp; Recommendations'])[1]/following::select[1]</value>
+      <webElementGuid>2206f0d0-c6b2-466f-a4c2-9cc16a96631e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recommendation'])[1]/following::select[1]</value>
+      <webElementGuid>57dd55c2-5a8b-4863-b655-86782531df66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes'])[1]/preceding::select[2]</value>
+      <webElementGuid>e0324683-b894-4545-b4ff-dbff25a9bce6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::select[2]</value>
+      <webElementGuid>c967490e-fbc2-456b-89f4-d2819a6d52cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>dd0046af-c005-4c61-af2a-db7ba0247baf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'renting_start_month' and @name = 'renter[renting_start_month]' and (text() = 'Month
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December' or . = 'Month
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December')]</value>
+      <webElementGuid>fbca1dc5-f106-4908-b001-9a2906ee72e3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

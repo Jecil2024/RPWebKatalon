@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TA - Type signature switch bt</name>
+   <tag></tag>
+   <elementGuidId>9ec1dbcf-ef94-438f-b655-634ef18552d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.switch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ce7af85-c4f8-4ff9-ae69-2a1758604fd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>switch</value>
+      <webElementGuid>06a39b6f-cf7d-4d9b-b4fb-07d8ebff5f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cbp-spmenu-push&quot;]/div[3]/div[@class=&quot;maincontainer tpheightdesktop&quot;]/div[@class=&quot;col-md-12 profilepaper narrow top-shadow bottom-shadow&quot;]/div[@class=&quot;typesignaturesection&quot;]/label[1]/div[@class=&quot;switch&quot;]</value>
+      <webElementGuid>87821af7-f618-4250-a9a0-b9a762953dd4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/div</value>
+      <webElementGuid>0817e3e8-ce7a-405d-a628-e9f68bf82de8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

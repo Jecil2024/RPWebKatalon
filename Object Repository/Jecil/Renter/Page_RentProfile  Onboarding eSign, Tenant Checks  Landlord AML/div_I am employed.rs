@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_I am employed</name>
+   <tag></tag>
+   <elementGuidId>95c4386b-d25a-458d-b98f-579e01c1a3b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.btn.btn-default.btn-lg.btn-block.button_mobile</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@onclick='changeValueEmployed()']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>103de2db-844e-494d-9c95-1b4db7230014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>d8c30a07-10d3-46ec-819c-de841c262eb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>changeValueEmployed()</value>
+      <webElementGuid>edbfa32e-7436-4eaf-a3f6-f065cf3fd390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I am employed</value>
+      <webElementGuid>3c32c1ca-84c3-4612-8fc2-92c1617d922a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;employmentbtns&quot;)/div[@class=&quot;btn btn-default btn-lg btn-block button_mobile&quot;]</value>
+      <webElementGuid>2120cb79-266d-42de-a132-c4d1efa4ccf3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@onclick='changeValueEmployed()']</value>
+      <webElementGuid>e436a0c6-8c6b-4ae1-bf0f-17c586bc0124</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div[2]</value>
+      <webElementGuid>9a7fc6ce-c4d9-447b-b2f8-2ee2f0bc49c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work status &amp; Affordability'])[1]/following::div[1]</value>
+      <webElementGuid>0a073124-6717-4a82-b1e8-44f16d81390f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment'])[1]/following::div[4]</value>
+      <webElementGuid>887f9c49-8d62-4a25-bf0a-044d09484654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am self employed'])[1]/preceding::div[1]</value>
+      <webElementGuid>fe105cd7-3dea-45e5-8c06-fe823401284a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am a student'])[1]/preceding::div[2]</value>
+      <webElementGuid>ef35921b-ae55-467d-aa59-be6fd06fd763</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I am employed']/parent::*</value>
+      <webElementGuid>b1670738-2fa5-4e30-b808-e0e91366848c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>61c3a8a5-9f1b-4209-9d44-ed184f573726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'I am employed' or . = 'I am employed')]</value>
+      <webElementGuid>a94f1b12-0e4b-40b7-be66-d74ec0c92cdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

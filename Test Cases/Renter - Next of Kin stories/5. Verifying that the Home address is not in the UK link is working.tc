@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Verifying that the Home address is not in the UK link is working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d8a731eb-8cca-4745-a86f-adb54b099db8</testCaseGuid>
+</TestCaseEntity>

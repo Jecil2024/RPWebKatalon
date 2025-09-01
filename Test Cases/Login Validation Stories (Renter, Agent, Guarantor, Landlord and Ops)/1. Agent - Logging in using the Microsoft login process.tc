@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Agent - Logging in using the Microsoft login process</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9ba7b753-4538-47cc-9963-816347e78a8a</testCaseGuid>
+</TestCaseEntity>

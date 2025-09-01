@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LTD Annual Earnings</name>
+   <tag></tag>
+   <elementGuidId>d4f728b6-b755-4abf-8197-288fd4068f95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='directorannualsalary']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#directorannualsalary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>3e759f25-da00-475e-ad18-6a9a45641404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>directorannualsalary</value>
+      <webElementGuid>892ddde6-179c-44e3-b96c-359e9c2bddbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control input-lg</value>
+      <webElementGuid>7f57b90f-5ae2-4b6d-8912-8069210f72f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Annual earnings (£)</value>
+      <webElementGuid>52d9cd2b-60fe-4749-a03a-16080465c15f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>renter[self_employed_annual_salary]</value>
+      <webElementGuid>7ca9c9ad-25b7-4ac5-b9ba-5641ce9f7c7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select your annual earnings (£)
+£1,000
+£1,500
+£2,000
+£2,500
+£3,000
+£3,500
+£4,000
+£4,500
+£5,000
+£5,500
+£6,000
+£6,500
+£7,000
+£7,500
+£8,000
+£8,500
+£9,000
+£9,500
+£10,000
+£10,500
+£11,000
+£11,500
+£12,000
+£12,500
+£13,000
+£13,500
+£14,000
+£14,500
+£15,000
+£15,500
+£16,000
+£16,500
+£17,000
+£17,500
+£18,000
+£18,500
+£19,000
+£19,500
+£20,000
+£20,500
+£21,000
+£21,500
+£22,000
+£22,500
+£23,000
+£23,500
+£24,000
+£24,500
+£25,000
+£25,500
+£26,000
+£26,500
+£27,000
+£27,500
+£28,000
+£28,500
+£29,000
+£29,500
+£30,000
+£30,500
+£31,000
+£31,500
+£32,000
+£32,500
+£33,000
+£33,500
+£34,000
+£34,500
+£35,000
+£35,500
+£36,000
+£36,500
+£37,000
+£37,500
+£38,000
+£38,500
+£39,000
+£39,500
+£40,000
+£40,500
+£41,000
+£41,500
+£42,000
+£42,500
+£43,000
+£43,500
+£44,000
+£44,500
+£45,000
+£45,500
+£46,000
+£46,500
+£47,000
+£47,500
+£48,000
+£48,500
+£49,000
+£49,500
+£50,000
+£51,000
+£52,000
+£53,000
+£54,000
+£55,000
+£56,000
+£57,000
+£58,000
+£59,000
+£60,000
+£61,000
+£62,000
+£63,000
+£64,000
+£65,000
+£66,000
+£67,000
+£68,000
+£69,000
+£70,000
+£71,000
+£72,000
+£73,000
+£74,000
+£75,000
+£76,000
+£77,000
+£78,000
+£79,000
+£80,000
+£81,000
+£82,000
+£83,000
+£84,000
+£85,000
+£86,000
+£87,000
+£88,000
+£89,000
+£90,000
+£91,000
+£92,000
+£93,000
+£94,000
+£95,000
+£96,000
+£97,000
+£98,000
+£99,000
+£100,000
+£110,000
+£120,000
+£130,000
+£140,000
+£150,000
+£160,000
+£170,000
+£180,000
+£190,000
+£200,000
+£210,000
+£220,000
+£230,000
+£240,000
+£250,000
+£260,000
+£270,000
+£280,000
+£290,000
+£300,000+</value>
+      <webElementGuid>73a93f9c-55e0-42dc-9b33-0a9d4c29f059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;directorannualsalary&quot;)</value>
+      <webElementGuid>56bbd505-504e-4a90-807c-11127afd4330</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='directorannualsalary']</value>
+      <webElementGuid>20e17c8a-77b6-4134-85c3-8a58f7d714df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='selfemployeddirector']/select</value>
+      <webElementGuid>56b3167a-dd1e-47bf-8639-c0d9465beeb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Company Director'])[1]/following::select[1]</value>
+      <webElementGuid>bc99726c-0021-45b9-affa-56f53f65c23d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back a step'])[1]/following::select[1]</value>
+      <webElementGuid>4b376e20-1648-4b30-b4fe-8ac611b908c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Continue'])[1]/preceding::select[1]</value>
+      <webElementGuid>778ce53a-3e3d-41ff-b375-51b194459cd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back a step'])[2]/preceding::select[1]</value>
+      <webElementGuid>c84997ea-ccba-4303-bbf9-8952d18b5a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e0eea728-b946-4052-b127-1b0208ad6041</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'directorannualsalary' and @placeholder = 'Annual earnings (£)' and @name = 'renter[self_employed_annual_salary]' and (text() = 'Select your annual earnings (£)
+£1,000
+£1,500
+£2,000
+£2,500
+£3,000
+£3,500
+£4,000
+£4,500
+£5,000
+£5,500
+£6,000
+£6,500
+£7,000
+£7,500
+£8,000
+£8,500
+£9,000
+£9,500
+£10,000
+£10,500
+£11,000
+£11,500
+£12,000
+£12,500
+£13,000
+£13,500
+£14,000
+£14,500
+£15,000
+£15,500
+£16,000
+£16,500
+£17,000
+£17,500
+£18,000
+£18,500
+£19,000
+£19,500
+£20,000
+£20,500
+£21,000
+£21,500
+£22,000
+£22,500
+£23,000
+£23,500
+£24,000
+£24,500
+£25,000
+£25,500
+£26,000
+£26,500
+£27,000
+£27,500
+£28,000
+£28,500
+£29,000
+£29,500
+£30,000
+£30,500
+£31,000
+£31,500
+£32,000
+£32,500
+£33,000
+£33,500
+£34,000
+£34,500
+£35,000
+£35,500
+£36,000
+£36,500
+£37,000
+£37,500
+£38,000
+£38,500
+£39,000
+£39,500
+£40,000
+£40,500
+£41,000
+£41,500
+£42,000
+£42,500
+£43,000
+£43,500
+£44,000
+£44,500
+£45,000
+£45,500
+£46,000
+£46,500
+£47,000
+£47,500
+£48,000
+£48,500
+£49,000
+£49,500
+£50,000
+£51,000
+£52,000
+£53,000
+£54,000
+£55,000
+£56,000
+£57,000
+£58,000
+£59,000
+£60,000
+£61,000
+£62,000
+£63,000
+£64,000
+£65,000
+£66,000
+£67,000
+£68,000
+£69,000
+£70,000
+£71,000
+£72,000
+£73,000
+£74,000
+£75,000
+£76,000
+£77,000
+£78,000
+£79,000
+£80,000
+£81,000
+£82,000
+£83,000
+£84,000
+£85,000
+£86,000
+£87,000
+£88,000
+£89,000
+£90,000
+£91,000
+£92,000
+£93,000
+£94,000
+£95,000
+£96,000
+£97,000
+£98,000
+£99,000
+£100,000
+£110,000
+£120,000
+£130,000
+£140,000
+£150,000
+£160,000
+£170,000
+£180,000
+£190,000
+£200,000
+£210,000
+£220,000
+£230,000
+£240,000
+£250,000
+£260,000
+£270,000
+£280,000
+£290,000
+£300,000+' or . = 'Select your annual earnings (£)
+£1,000
+£1,500
+£2,000
+£2,500
+£3,000
+£3,500
+£4,000
+£4,500
+£5,000
+£5,500
+£6,000
+£6,500
+£7,000
+£7,500
+£8,000
+£8,500
+£9,000
+£9,500
+£10,000
+£10,500
+£11,000
+£11,500
+£12,000
+£12,500
+£13,000
+£13,500
+£14,000
+£14,500
+£15,000
+£15,500
+£16,000
+£16,500
+£17,000
+£17,500
+£18,000
+£18,500
+£19,000
+£19,500
+£20,000
+£20,500
+£21,000
+£21,500
+£22,000
+£22,500
+£23,000
+£23,500
+£24,000
+£24,500
+£25,000
+£25,500
+£26,000
+£26,500
+£27,000
+£27,500
+£28,000
+£28,500
+£29,000
+£29,500
+£30,000
+£30,500
+£31,000
+£31,500
+£32,000
+£32,500
+£33,000
+£33,500
+£34,000
+£34,500
+£35,000
+£35,500
+£36,000
+£36,500
+£37,000
+£37,500
+£38,000
+£38,500
+£39,000
+£39,500
+£40,000
+£40,500
+£41,000
+£41,500
+£42,000
+£42,500
+£43,000
+£43,500
+£44,000
+£44,500
+£45,000
+£45,500
+£46,000
+£46,500
+£47,000
+£47,500
+£48,000
+£48,500
+£49,000
+£49,500
+£50,000
+£51,000
+£52,000
+£53,000
+£54,000
+£55,000
+£56,000
+£57,000
+£58,000
+£59,000
+£60,000
+£61,000
+£62,000
+£63,000
+£64,000
+£65,000
+£66,000
+£67,000
+£68,000
+£69,000
+£70,000
+£71,000
+£72,000
+£73,000
+£74,000
+£75,000
+£76,000
+£77,000
+£78,000
+£79,000
+£80,000
+£81,000
+£82,000
+£83,000
+£84,000
+£85,000
+£86,000
+£87,000
+£88,000
+£89,000
+£90,000
+£91,000
+£92,000
+£93,000
+£94,000
+£95,000
+£96,000
+£97,000
+£98,000
+£99,000
+£100,000
+£110,000
+£120,000
+£130,000
+£140,000
+£150,000
+£160,000
+£170,000
+£180,000
+£190,000
+£200,000
+£210,000
+£220,000
+£230,000
+£240,000
+£250,000
+£260,000
+£270,000
+£280,000
+£290,000
+£300,000+')]</value>
+      <webElementGuid>6d895b49-329f-4953-a2c5-44eb6ad5d9b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

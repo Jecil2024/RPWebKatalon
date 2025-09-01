@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>83. Ops - Procees to make sure the tabs on the Invites page are clickable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7944dd8d-b6d3-479c-85a7-e4ed7b93b970</testCaseGuid>
+</TestCaseEntity>

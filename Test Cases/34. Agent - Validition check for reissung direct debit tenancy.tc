@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>34. Agent - Validition check for reissung direct debit tenancy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>badba7a2-bea6-412e-8e8e-e7c69a6b7539</testCaseGuid>
+</TestCaseEntity>

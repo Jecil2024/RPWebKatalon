@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>36. Agent -Ensuring can edit the Direct Debit Tenancy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8870942-5440-422c-b501-a451f6dc3dff</testCaseGuid>
+</TestCaseEntity>

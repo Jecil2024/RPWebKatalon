@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Referencing - Referencing tab bt</name>
+   <tag></tag>
+   <elementGuidId>a2cf3eb4-9e2d-4052-9851-e9619e60ada8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[contains(text(),'Referencing')])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.nav.nav-tabs > li:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a6eecd62-78a6-4e9e-9ea4-36e2c28e8e2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/agent/references</value>
+      <webElementGuid>93bb7851-56b8-4bbe-995b-9fbf1b4b0675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>landlordonboarding</value>
+      <webElementGuid>d5f6f7a0-d28b-4345-9594-1245e9fd3d43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>a4749151-389c-445e-8aae-49a62d20ddff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Referencing</value>
+      <webElementGuid>3bdeedd8-2d57-4174-ae66-681d175d95a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cbp-spmenu-push&quot;]/div[3]/div[@class=&quot;maincontainer&quot;]/div[@class=&quot;col-md-12 lgtopspacing rpcontentholder&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[2]/a[1]</value>
+      <webElementGuid>207af914-2520-4266-ab06-5b3f83b46f24</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Referencing')])[2]</value>
+      <webElementGuid>88690887-a058-40aa-b946-f720bef60f85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Onboarding'])[1]/following::a[1]</value>
+      <webElementGuid>bbda25db-0fac-479a-9dc0-dd2f4a809946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ongoing'])[1]/following::a[2]</value>
+      <webElementGuid>ce1f7140-6a25-472f-8f10-ff7321379e8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Landlord AML'])[1]/preceding::a[1]</value>
+      <webElementGuid>e35b240a-2ee7-4107-a5f3-6963d59bfdec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Right to Rent'])[1]/preceding::a[2]</value>
+      <webElementGuid>52234b25-9e23-43bc-83a5-03d9b0765f35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/agent/references')]</value>
+      <webElementGuid>f4e80aa8-c512-4ec8-9cce-befb293e8890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/ul/li[2]/a</value>
+      <webElementGuid>82dcbe5d-de2f-4ecd-bd08-ce006d4b4043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/agent/references' and (text() = 'Referencing' or . = 'Referencing')]</value>
+      <webElementGuid>8bdf46f3-dc0b-4879-8ca1-dc12beba0dfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Residential enquiries - Next bt pagination</name>
+   <tag></tag>
+   <elementGuidId>33f7108f-cd06-4764-ab53-72c531f1f99e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.next > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='enquiry-list']/ul/li[6]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fdf221b7-adae-43a9-b2ef-aa3985f8be1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>next</value>
+      <webElementGuid>75ea193d-f502-4f09-8a7d-725c48d0f0c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/agent/enquiries/search-enquiries?page=2</value>
+      <webElementGuid>2db1bde8-f2e2-47c7-96b9-8557aa5c1870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next →</value>
+      <webElementGuid>116a3307-e640-48d2-9fca-ee36bdb8dbbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;enquiry-list&quot;)/ul[@class=&quot;pagination pagination&quot;]/li[@class=&quot;next&quot;]/a[1]</value>
+      <webElementGuid>acec638c-1284-4b04-86a5-f97dfae78f23</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='enquiry-list']/ul/li[6]/a</value>
+      <webElementGuid>c97f306d-05d1-4dbd-9b8f-81aad079cfe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Next →')]</value>
+      <webElementGuid>1450295f-a0da-4c0a-bb75-1bbda3363dff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='← Previous'])[1]/following::a[4]</value>
+      <webElementGuid>54226493-1794-417e-b04f-e5c54a92a5b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download CSV for all enquiry information'])[1]/preceding::a[1]</value>
+      <webElementGuid>5470d0c2-b6f3-40c6-b4e0-63e671dbd4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::a[2]</value>
+      <webElementGuid>fa201ecc-885e-4252-8656-21b34d26a70a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next →']/parent::*</value>
+      <webElementGuid>a00b11f9-761f-4ef1-a278-e5f69a7f4266</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/agent/enquiries/search-enquiries?page=2')])[2]</value>
+      <webElementGuid>c7958173-5bac-4fb2-9c26-4c949d6cad60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/ul/li[6]/a</value>
+      <webElementGuid>bdf7f04c-134c-47c5-94e1-e0d50d055dbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/agent/enquiries/search-enquiries?page=2' and (text() = 'Next →' or . = 'Next →')]</value>
+      <webElementGuid>736a3b79-2c2f-4381-967d-767651480a0e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

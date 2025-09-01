@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Agent - Referencing tab - Referencing checks cant be submmited if required fields are empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>03eb3420-cf5b-4445-a50f-f282eb271769</testCaseGuid>
+</TestCaseEntity>

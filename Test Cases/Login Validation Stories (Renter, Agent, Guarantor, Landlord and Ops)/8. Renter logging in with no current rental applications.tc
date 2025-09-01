@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>8. Renter logging in with no current rental applications</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>839f8007-2d1d-45ec-8e89-d54479adf040</testCaseGuid>
+</TestCaseEntity>

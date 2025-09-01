@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>58. Agent - Viewing the tenancy from the enquiry page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54ad85b8-72d5-4c55-ae60-849485c9a189</testCaseGuid>
+</TestCaseEntity>

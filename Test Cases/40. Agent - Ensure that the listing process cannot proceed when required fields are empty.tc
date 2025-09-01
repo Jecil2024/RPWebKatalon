@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>40. Agent - Ensure that the listing process cannot proceed when required fields are empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c53f7cb-ea9e-4cc0-845f-ad7579c29215</testCaseGuid>
+</TestCaseEntity>

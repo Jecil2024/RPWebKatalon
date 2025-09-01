@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>41. Renter - R2R validation ensures it cannot be submitted when the selected R2R type is left empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e6e3ab62-1e0c-4632-8214-c9be0bb78e74</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - I have Settled (or Pre-Settled) Status in the UK bt</name>
+   <tag></tag>
+   <elementGuidId>f56ece69-942f-4802-9c08-e48f54f5fcf1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='settled_status_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#settled_status_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>21e4ddec-fe20-47ec-ac21-07e5cebb385c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>fd4ce903-28f0-42f0-83bd-152e1d6f4142</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>settled_status_btn</value>
+      <webElementGuid>afbef9b7-b54f-45bb-acb7-768b5521b0c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have Settled (or Pre-Settled) Status in the UK</value>
+      <webElementGuid>f351c941-d93a-40da-ab91-3e4b011980b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;settled_status_btn&quot;)</value>
+      <webElementGuid>bb5bb221-5058-4084-936a-94cb27565aa0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='settled_status_btn']</value>
+      <webElementGuid>0952c597-9771-4241-b657-f6e923bb7f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div[3]</value>
+      <webElementGuid>9dd74f6e-c47c-4e8c-ba56-816ec009bfd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Biometric Residence card or permit'])[1]/following::div[1]</value>
+      <webElementGuid>c635b544-580e-4285-a0d3-fb2d952fae14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have a UK or Irish passport'])[1]/following::div[2]</value>
+      <webElementGuid>298736f2-680d-4cd4-8acd-0a0a9a5c675c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have a pending visa application with the UK government'])[1]/preceding::div[1]</value>
+      <webElementGuid>da43a244-fcac-4e03-a2ea-fda35e246420</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Frontier Worker permit'])[1]/preceding::div[2]</value>
+      <webElementGuid>19143877-f26f-4e08-ba09-f6d90b01321d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have Settled (or Pre-Settled) Status in the UK']/parent::*</value>
+      <webElementGuid>35a01fdd-4eda-48a6-94ff-a5d121791e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div[3]</value>
+      <webElementGuid>a4232024-e7d6-4c00-9074-07afb932f33c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'settled_status_btn' and (text() = 'I have Settled (or Pre-Settled) Status in the UK' or . = 'I have Settled (or Pre-Settled) Status in the UK')]</value>
+      <webElementGuid>801f6e1d-1ec4-43a6-8867-c871d3fc4f77</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

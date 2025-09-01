@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_FirstRentalPaymentViewdetails</name>
+   <tag></tag>
+   <elementGuidId>1e24de2b-154d-4c4d-ad72-da3964e09cdc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@id='first_months_rent']/span/a)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6412bf46-bac2-40e9-bd62-2ae935c5acdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/renter/rent/first_rent_payment?tenancy_ref=167199cfc6d1e0ddd48faf44f72be6f7ad130ddd84392e5ac0eec23b9083&amp;bankref=RPAA7EB8</value>
+      <webElementGuid>5c067253-ae93-4b92-beec-faabfbbb8dfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View details </value>
+      <webElementGuid>b4766e3c-a2f6-47a4-8448-d30840b1e12e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileinformation&quot;)/div[@class=&quot;col-md-12 lgtopspacing&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;panel-body sbcmobile sbcweb&quot;]/ul[@class=&quot;nav_menu&quot;]/li[@id=&quot;first_months_rent&quot;]/span[1]/a[1]</value>
+      <webElementGuid>db2313f5-7a62-439e-b622-415f5e99b29d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//li[@id='first_months_rent']/span/a)[2]</value>
+      <webElementGuid>425efdda-9394-4ba1-a32c-8b8defdd82c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'View details')])[2]</value>
+      <webElementGuid>ca339e87-4941-4766-a2fb-4104bfcc77c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[2]/following::a[1]</value>
+      <webElementGuid>f58a900f-5663-47ee-8898-de7ec282a66a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[4]/preceding::a[1]</value>
+      <webElementGuid>e7513574-015f-418b-a18c-12b2546ea5ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/renter/rent/first_rent_payment?tenancy_ref=167199cfc6d1e0ddd48faf44f72be6f7ad130ddd84392e5ac0eec23b9083&amp;bankref=RPAA7EB8')]</value>
+      <webElementGuid>b0d046db-88f0-42c2-b534-44eb1fa1ecb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span/a</value>
+      <webElementGuid>b8add901-bc5d-4921-9996-c6506c86d24c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/renter/rent/first_rent_payment?tenancy_ref=167199cfc6d1e0ddd48faf44f72be6f7ad130ddd84392e5ac0eec23b9083&amp;bankref=RPAA7EB8' and (text() = 'View details ' or . = 'View details ')]</value>
+      <webElementGuid>cb470d1f-2942-4883-a17c-ec55706ab794</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

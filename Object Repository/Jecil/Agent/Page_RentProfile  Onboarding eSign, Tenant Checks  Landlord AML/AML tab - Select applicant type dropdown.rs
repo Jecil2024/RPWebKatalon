@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AML tab - Select applicant type dropdown</name>
+   <tag></tag>
+   <elementGuidId>b9fff637-a628-4b70-9350-09911ae6487b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='applicant_type']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#applicant_type</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>4431f16e-da24-4509-bb31-5ed448d6edf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>applicant_aml_check[applicant_type]</value>
+      <webElementGuid>9e3e62aa-705e-426a-97b3-a5f184e8aaa2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control input-lg</value>
+      <webElementGuid>512d7ad4-4f12-4f82-8e76-5b37f64fcc4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>applicant_type</value>
+      <webElementGuid>21bf5a87-115e-4450-971c-2fbf1a27f271</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Select applicant type</value>
+      <webElementGuid>6eb1b915-d4e0-4628-88d5-c6ff273b56db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    Select applicant type
+                                    Tenant
+                                    Guarantor
+                                    Landlord
+                                    Other
+                                </value>
+      <webElementGuid>6dc7077f-dc51-46a5-a17a-daf0f4729bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;applicant_type&quot;)</value>
+      <webElementGuid>4a722f92-66c7-4f27-99eb-22e8912007da</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='applicant_type']</value>
+      <webElementGuid>5554794c-08eb-407e-9956-cefa2155a647</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='new_applicant_aml_check']/div[2]/div/select</value>
+      <webElementGuid>78e06924-cd0a-42c1-902e-adbd99b94fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The file must be a .csv or .xlsx file. Maximum file size is 25MB'])[1]/following::select[2]</value>
+      <webElementGuid>53ac6c3d-0887-4369-9039-15553e17003e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload file'])[1]/following::select[2]</value>
+      <webElementGuid>54cd0026-c1fb-4055-9393-f0256327bc1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner is individual'])[1]/preceding::select[1]</value>
+      <webElementGuid>c0240d43-8aaf-4c5f-b742-9a47a15a5ac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner is Business'])[1]/preceding::select[1]</value>
+      <webElementGuid>5cbd7bd5-221c-4a7f-8420-66d41dc5bd39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/select</value>
+      <webElementGuid>e8d0c42b-a275-4392-b343-0ace4b0222fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'applicant_aml_check[applicant_type]' and @id = 'applicant_type' and @placeholder = 'Select applicant type' and (text() = '
+                                    Select applicant type
+                                    Tenant
+                                    Guarantor
+                                    Landlord
+                                    Other
+                                ' or . = '
+                                    Select applicant type
+                                    Tenant
+                                    Guarantor
+                                    Landlord
+                                    Other
+                                ')]</value>
+      <webElementGuid>a09ffd28-4597-4cec-bb90-8b6aefe33abd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

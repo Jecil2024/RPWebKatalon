@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dashboard - View all invites bt</name>
+   <tag></tag>
+   <elementGuidId>8abe4886-cb07-44de-888c-ba8082372527</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main_content']/div/div/div/div/strong/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4fa81ac7-3e58-4274-b259-121aba6b8094</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/shelpeak/admin/invites</value>
+      <webElementGuid>416be888-9888-4dc5-93a6-40baf4e2da1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View all invites</value>
+      <webElementGuid>f121af32-1629-41bb-8ff4-faa2f59abf53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main_content&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;panel_contents&quot;]/strong[1]/a[1]</value>
+      <webElementGuid>5d44ea73-f3d1-406f-9507-a33ee62b77d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main_content']/div/div/div/div/strong/a</value>
+      <webElementGuid>2bbd0cd3-f417-4d71-bf52-a92ff08c634b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View all invites')]</value>
+      <webElementGuid>69492824-251d-42a2-b743-d35840cba1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Invites'])[2]/following::a[1]</value>
+      <webElementGuid>2ba2bfd2-a56c-4394-848e-661d9beadf1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Signed in successfully.'])[1]/following::a[1]</value>
+      <webElementGuid>139d11f4-a24e-4c0d-b6e9-f0abd22ab92b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Renter name'])[1]/preceding::a[1]</value>
+      <webElementGuid>8f9fe472-7a0b-468a-874d-da9bcc289f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Landlord/Agent'])[1]/preceding::a[1]</value>
+      <webElementGuid>e13e3d20-6fce-4f5f-a25e-8b13f0bb28bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View all invites']/parent::*</value>
+      <webElementGuid>14522d9c-edfa-46ec-8ed3-06f2f6f45627</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/shelpeak/admin/invites')])[2]</value>
+      <webElementGuid>2a3f7b38-21e8-4099-948b-778cc9702376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong/a</value>
+      <webElementGuid>48da6ed2-9308-4186-9bf4-c7257f9e6000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/shelpeak/admin/invites' and (text() = 'View all invites' or . = 'View all invites')]</value>
+      <webElementGuid>731a2cad-ff11-46ae-9a07-198557cf90f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

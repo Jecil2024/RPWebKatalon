@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Create tenancy - Tooltip description for Lead Tenant</name>
+   <tag></tag>
+   <elementGuidId>fb5e2096-f690-4504-9e7d-8a66ff3794d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='leadtenant_example_popup_id']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#leadtenant_example_popup_id</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a08acba-5ee4-456a-a70d-9b746d68e42e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>clause_example_popup_text show</value>
+      <webElementGuid>9f3360d7-d8e8-4e0f-8f33-d31f8360a22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>leadtenant_example_popup_id</value>
+      <webElementGuid>8e86374e-3ecd-4c27-9605-045f72ec838a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The lead tenant is responsible for paying holding deposit payment (if applicable), deposit and initial rent.</value>
+      <webElementGuid>4a39f271-b73d-4492-8abd-0f1830e0ec41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;leadtenant_example_popup_id&quot;)</value>
+      <webElementGuid>c62cbe9c-6ae0-4dd0-9493-5dfa0454477d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='leadtenant_example_popup_id']</value>
+      <webElementGuid>3a4b11d0-b207-4841-9182-04cf97221a1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='renter123container']/div/div/div/span</value>
+      <webElementGuid>acffc3db-6035-4969-9a2f-99ca13e7cfba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lead tenant'])[1]/following::span[1]</value>
+      <webElementGuid>3cc00236-7500-4cc0-be73-c6a7b8ef0d72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove this Guarantor'])[1]/preceding::span[1]</value>
+      <webElementGuid>8dfb35c3-c311-44b1-ae73-69338034b741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add another Guarantor for this renter'])[1]/preceding::span[1]</value>
+      <webElementGuid>73473a6e-0180-40a4-906f-0747ebe05f53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='The lead tenant is responsible for paying holding deposit payment (if applicable), deposit and initial rent.']/parent::*</value>
+      <webElementGuid>8ced47bd-e8c8-4740-8a88-6ec6c91ba375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/span</value>
+      <webElementGuid>a5e476bf-36a3-47f7-88aa-a5522a21de83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = 'leadtenant_example_popup_id' and (text() = 'The lead tenant is responsible for paying holding deposit payment (if applicable), deposit and initial rent.' or . = 'The lead tenant is responsible for paying holding deposit payment (if applicable), deposit and initial rent.')]</value>
+      <webElementGuid>c1ea2bea-3f6c-45ba-bad6-21726ae1fee5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

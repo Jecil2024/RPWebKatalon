@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>27. Renter cannot process Work Status and Affordability selecting I AM A DIRECTOR OF A LTD COMPANY if ALL the required fields are empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>db6897b0-3789-4820-abfa-de73a975908d</testCaseGuid>
+</TestCaseEntity>

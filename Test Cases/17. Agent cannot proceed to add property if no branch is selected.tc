@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>17. Agent cannot proceed to add property if no branch is selected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>414e3b67-7f8b-4a37-870c-f8eb4c01c3f3</testCaseGuid>
+</TestCaseEntity>

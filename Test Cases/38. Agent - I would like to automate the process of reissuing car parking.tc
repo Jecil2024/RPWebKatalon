@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>38. Agent - I would like to automate the process of reissuing car parking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f0a22a0-17da-4652-a83f-f0da71850c1a</testCaseGuid>
+</TestCaseEntity>

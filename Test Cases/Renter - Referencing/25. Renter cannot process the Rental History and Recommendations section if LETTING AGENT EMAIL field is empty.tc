@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>25. Renter cannot process the Rental History and Recommendations section if LETTING AGENT EMAIL field is empty</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>182e7a80-8a4d-4d95-ab8d-e0f820406362</testCaseGuid>
+</TestCaseEntity>

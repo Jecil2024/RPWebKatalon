@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Landlord AML - Status - Pending</name>
+   <tag></tag>
+   <elementGuidId>b4078a4d-2be2-436f-a7a3-c760f18182d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Pending')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>db992342-0570-4e61-a44a-eae89c0a5db0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>10565be3-2172-4363-8c62-433c1fe42182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/agent/landlord_onboarding/cea5ac51aaf211993887</value>
+      <webElementGuid>032f316c-f4d5-447d-8827-3b4ef0f6b875</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pending</value>
+      <webElementGuid>73773e93-9132-4de6-9cf8-666cca00e04f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cbp-spmenu-push&quot;]/div[3]/div[@class=&quot;maincontainer&quot;]/div[@class=&quot;col-md-12 lgtopspacing rpcontentholder&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;tab-content&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-lg-12 col-md-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 hidden-sm hidden-xs yourcheckssection&quot;]/table[1]/tbody[1]/tr[2]/td[5]/p[1]/a[1]</value>
+      <webElementGuid>69bcd525-352b-4634-b5c8-5c205cd4f0a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Pending')]</value>
+      <webElementGuid>07fae504-4fcc-4597-be57-c9e71e89ebe7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Landlord AML'])[2]/following::a[1]</value>
+      <webElementGuid>bde18949-26f2-4346-bd5d-fc340cc33d09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Landlord AML'])[1]/following::a[1]</value>
+      <webElementGuid>f452196c-fb92-4126-8342-a0eb52454260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::a[1]</value>
+      <webElementGuid>7a733d1c-c7e6-4ccf-a8f4-3154a654e4c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/preceding::a[1]</value>
+      <webElementGuid>dca7f293-512d-48e9-b4ad-36101b1dd5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pending']/parent::*</value>
+      <webElementGuid>75917907-1555-42d5-9911-19353b4c89e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/agent/landlord_onboarding/cea5ac51aaf211993887')]</value>
+      <webElementGuid>38f20cdb-c683-473c-b2ad-38a71c9e334a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>aa40dc60-267d-4c4b-8378-488155b1410d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/agent/landlord_onboarding/cea5ac51aaf211993887' and (text() = 'Pending' or . = 'Pending')]</value>
+      <webElementGuid>c6ed8c5a-5c45-469f-a533-ef4ff19279f8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

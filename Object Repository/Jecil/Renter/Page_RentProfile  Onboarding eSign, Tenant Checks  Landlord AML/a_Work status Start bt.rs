@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Work status Start bt</name>
+   <tag></tag>
+   <elementGuidId>ed70ccb1-1da3-4934-92f0-fe7a844c8975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='profileinformation']/div/div[2]/div/ul[2]/div/li[3]/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6273e9f3-2e5a-4603-a73a-e5bbf954b0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-green btn-lg</value>
+      <webElementGuid>039529bf-31b6-46ba-b127-3ae9e118c09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/renter/work_status_and_affordability</value>
+      <webElementGuid>3c4d1ce2-8432-4840-8429-e24b067bf9e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Start</value>
+      <webElementGuid>aa288c2b-01b0-427c-b850-06cf02fededa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileinformation&quot;)/div[@class=&quot;col-md-12 lgtopspacing&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;panel-body sbcmobile sbcweb&quot;]/ul[@class=&quot;nav_menu&quot;]/div[1]/li[@class=&quot;sbc_nav_sub_menu_others sbc_no_hover&quot;]/span[1]/a[@class=&quot;btn btn-green btn-lg&quot;]</value>
+      <webElementGuid>5094b351-f839-43fa-9326-0f1d6a9469fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='profileinformation']/div/div[2]/div/ul[2]/div/li[3]/span/a</value>
+      <webElementGuid>ab844ca8-f1dd-4cb4-84f5-e8bb2b280c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work status &amp;'])[1]/following::a[1]</value>
+      <webElementGuid>a6a565f0-1dc0-4424-a10b-2ec4b7bf5bbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Right to Rent'])[1]/preceding::a[1]</value>
+      <webElementGuid>55028e0a-ec58-433c-9795-a97f1f3bed94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/renter/work_status_and_affordability')]</value>
+      <webElementGuid>0dc38ef5-5e33-48f5-90a8-b3874ccdbc18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/li[3]/span/a</value>
+      <webElementGuid>5ef7fd5e-297e-4aa7-8dfe-6c1c7ba068d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/renter/work_status_and_affordability' and (text() = 'Start' or . = 'Start')]</value>
+      <webElementGuid>4f66edf9-de67-469d-8dd0-9096e08722fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

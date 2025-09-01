@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>71. Agent - Process of adding a tenant check through the AML tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c915c800-5d05-4767-b252-c4e94d9bed86</testCaseGuid>
+</TestCaseEntity>

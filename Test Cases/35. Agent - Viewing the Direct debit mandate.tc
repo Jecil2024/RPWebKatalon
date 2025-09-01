@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>35. Agent - Viewing the Direct debit mandate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7dedee9b-79a5-44bf-a913-adb095eada61</testCaseGuid>
+</TestCaseEntity>

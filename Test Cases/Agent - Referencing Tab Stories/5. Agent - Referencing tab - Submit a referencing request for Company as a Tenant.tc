@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>5. Agent - Referencing tab - Submit a referencing request for Company as a Tenant</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ee1e010-2f92-4032-bc28-e96c39a48f20</testCaseGuid>
+</TestCaseEntity>

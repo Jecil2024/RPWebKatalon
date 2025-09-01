@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>62. Agent - Ensuring residential enquiries page search should works correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>fbbf208b-2217-43d0-ac91-dd0b063f3c6b</testCaseGuid>
+</TestCaseEntity>

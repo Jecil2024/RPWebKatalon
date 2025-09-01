@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>48. Agent - Right to Rent - ensuring the search bar functions correctly when searching for a name, rental address or ref</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24ac53c3-ab9e-4e53-8825-97f9a194ae3a</testCaseGuid>
+</TestCaseEntity>

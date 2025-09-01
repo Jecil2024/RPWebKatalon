@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>TA - Please sign the agreement below bt</name>
+   <tag></tag>
+   <elementGuidId>6bba5b6c-749c-4ddf-befd-9ce6a9fee5ea</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='scroll_to_sign_agreement']/font</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>font</value>
+      <webElementGuid>3c260c3d-fd7d-4680-a570-302b699a2c88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Please sign the agreement below</value>
+      <webElementGuid>52011981-6705-47db-8e4d-7f0e940601f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scroll_to_sign_agreement&quot;)/font[1]</value>
+      <webElementGuid>31b3d8cc-5a42-4fd1-8d09-7e315dc7d118</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='scroll_to_sign_agreement']/font</value>
+      <webElementGuid>0dd8e0e2-6b75-4fe7-b28b-78ce1fb9f409</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture3'])[1]/following::font[1]</value>
+      <webElementGuid>0463b5a9-dc15-4e48-be84-b4507373e76e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thank you for signing the agreement'])[1]/following::font[1]</value>
+      <webElementGuid>06a7280b-d89c-4e93-8156-4437c709f08e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INTERPRETATION'])[1]/preceding::font[1]</value>
+      <webElementGuid>649ac317-9bba-486f-9c93-b165eb384e5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LICENCE TO PARK'])[1]/preceding::font[1]</value>
+      <webElementGuid>b61ac5d6-0d2e-4c93-a22d-c11bc05cde39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Please sign the agreement below']/parent::*</value>
+      <webElementGuid>9758118d-a0ae-4690-a53a-3b427c190198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//font</value>
+      <webElementGuid>cfd87159-3fa9-45fc-8575-74359fe4c612</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//font[(text() = ' Please sign the agreement below' or . = ' Please sign the agreement below')]</value>
+      <webElementGuid>fa38e28e-ef89-4c72-aafc-f117667fa599</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

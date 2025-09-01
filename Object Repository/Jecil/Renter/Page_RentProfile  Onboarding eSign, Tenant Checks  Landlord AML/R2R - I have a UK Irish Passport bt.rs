@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - I have a UK Irish Passport bt</name>
+   <tag></tag>
+   <elementGuidId>aa21b206-c14a-4009-9add-d3105fad21c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='passport_btn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#passport_btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3308104b-34b0-4543-aae0-4beaad7677ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-default btn-lg btn-block button_mobile</value>
+      <webElementGuid>f9ca18d1-c63f-4d94-bc8b-0b01346424c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>passport_btn</value>
+      <webElementGuid>62756e1a-27a7-4249-8b9a-c170f2e51738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>I have a UK or Irish passport</value>
+      <webElementGuid>1fba344f-1413-44f9-9d57-138f8a884ec2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;passport_btn&quot;)</value>
+      <webElementGuid>0bd89cb1-6d8d-4e99-b6d5-eb7e5276b08d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='passport_btn']</value>
+      <webElementGuid>a5d96bf8-7e9a-4f21-848a-b726b55ce9ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employmentbtns']/div</value>
+      <webElementGuid>354845e2-1dee-4eab-9fde-0adbb021bc3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='click here'])[1]/following::div[3]</value>
+      <webElementGuid>52221718-b177-4c1f-8bc9-0d53b07efe1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Right to Rent'])[1]/following::div[3]</value>
+      <webElementGuid>f0f7c04e-f07c-41b4-804b-4d4d08803bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Biometric Residence card or permit'])[1]/preceding::div[1]</value>
+      <webElementGuid>2027aa0e-115c-4b64-8153-fc0f727700f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I have Settled (or Pre-Settled) Status in the UK'])[1]/preceding::div[2]</value>
+      <webElementGuid>cd400a22-363c-4536-9ad4-dc798737d0b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='I have a UK or Irish passport']/parent::*</value>
+      <webElementGuid>95bb6c38-1b7f-4a72-b7dd-d6a96e39e379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div</value>
+      <webElementGuid>d554fc0b-9be5-49b8-bae5-1bab009f3828</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'passport_btn' and (text() = 'I have a UK or Irish passport' or . = 'I have a UK or Irish passport')]</value>
+      <webElementGuid>0011c400-3f78-460c-a45a-051a3886671f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

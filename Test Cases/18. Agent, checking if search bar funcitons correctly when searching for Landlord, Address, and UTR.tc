@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>18. Agent, checking if search bar funcitons correctly when searching for Landlord, Address, and UTR</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cdd32ec8-c100-4c5e-872a-42c01424e7b8</testCaseGuid>
+</TestCaseEntity>

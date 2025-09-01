@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Referencing tab - Company as a Tenant bt</name>
+   <tag></tag>
+   <elementGuidId>fac36a81-8c7b-45d1-b8e1-b2aa6c01586e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tab-content > ul.nav.nav-tabs > li:nth-of-type(2) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='referencing_div']/div/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>59ce1ce8-1bbe-44d3-937c-b0470466ba6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-target</name>
+      <type>Main</type>
+      <value>#companyasatenanttab</value>
+      <webElementGuid>e908478a-d826-401b-b389-9ee4dbcbc9c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>companyasatenanttab</value>
+      <webElementGuid>452882d4-eaf5-4d27-b409-663e96d573d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>f580acfc-422b-46c2-a98a-65f155dbbd0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>79963e5a-69df-4ffd-944f-e04203b0388c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>36a6c913-991a-4268-9927-71578a42c451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Company
+                            as a Tenant</value>
+      <webElementGuid>ecd73c54-e02e-43ff-9c5f-8951d95e7fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;referencing_div&quot;)/div[@class=&quot;tab-content&quot;]/ul[@class=&quot;nav nav-tabs&quot;]/li[2]/a[1]</value>
+      <webElementGuid>74c00d4c-b207-4dcf-8118-a092e94a5f14</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='referencing_div']/div/ul/li[2]/a</value>
+      <webElementGuid>1f99a842-da06-4bf8-a27d-0c0392906e16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Company
+                            as a Tenant')]</value>
+      <webElementGuid>9591b5d0-7a37-49d1-8f7c-6859a36feab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Individual(s)'])[1]/following::a[1]</value>
+      <webElementGuid>1cae5f9a-a510-4e3f-ba76-55abccf99b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='between applicants'])[3]/following::a[2]</value>
+      <webElementGuid>ecdbc737-62fc-40f1-815a-fb5c86b1fa23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Renters'])[2]/preceding::a[1]</value>
+      <webElementGuid>3629399a-bac1-4412-a2aa-cbe98d63c00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/ul/li[2]/a</value>
+      <webElementGuid>4940975f-c3e9-45db-9944-6e6790369014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Company
+                            as a Tenant' or . = 'Company
+                            as a Tenant')]</value>
+      <webElementGuid>58c10d5a-53e3-43c6-b46c-29424377cd66</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>AML Reporting - Pass status bt</name>
+   <tag></tag>
+   <elementGuidId>793c5d9a-bf17-404e-80bc-40cad176bcf9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.aml_details.clickable > p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='summary']/div[2]/div/div/table/tbody/tr[2]/td[6]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>1ea7578a-2920-41fe-87e9-220468734202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pass</value>
+      <webElementGuid>1b85b5c9-c870-46ee-97bd-524111141b3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;summary&quot;)/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;col-lg-12 col-md-12&quot;]/div[@class=&quot;col-lg-12 col-md-12 hidden-sm hidden-xs yourcheckssection&quot;]/table[1]/tbody[1]/tr[2]/td[6]/div[@class=&quot;aml_details clickable&quot;]/p[1]</value>
+      <webElementGuid>465911a3-0073-498b-a6b8-09ac26650641</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='summary']/div[2]/div/div/table/tbody/tr[2]/td[6]/div/p</value>
+      <webElementGuid>7b952753-9878-486b-85a4-bc70c1f83d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Relist Proerty London Orthodontics, 40 ...'])[1]/following::p[4]</value>
+      <webElementGuid>8036959a-69e2-45fd-a13e-c26eec3e45c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Katalon Relist'])[1]/following::p[5]</value>
+      <webElementGuid>004febc3-6791-4e50-b6e5-67ad0fa85923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Partners'])[1]/preceding::p[1]</value>
+      <webElementGuid>28f5a9cd-0590-4b37-962e-c0ca95990284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='API'])[1]/preceding::p[1]</value>
+      <webElementGuid>9d6a983b-67d2-4b1b-88f1-ffb5fa3c1e08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pass']/parent::*</value>
+      <webElementGuid>0344aa91-5d15-414a-afad-5ac9183f13ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/div/p</value>
+      <webElementGuid>94f148e1-e437-4f62-96b9-29ddc32d58fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Pass' or . = 'Pass')]</value>
+      <webElementGuid>1bd2b9cc-2c0c-483a-b01d-6b1fd2338943</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

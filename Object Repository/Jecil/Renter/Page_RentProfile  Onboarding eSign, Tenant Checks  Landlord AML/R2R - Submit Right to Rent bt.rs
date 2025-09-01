@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>R2R - Submit Right to Rent bt</name>
+   <tag></tag>
+   <elementGuidId>e79f3970-8f14-4b2c-8b03-eb925664d657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='submit_btn_html']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#submit_btn_html</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1fbc24d1-f12e-4271-8518-a86dc2bf7c98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>submit_btn_html</value>
+      <webElementGuid>f43f8e75-e9d0-4f8d-8101-302eb353cbd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-green btn-lg</value>
+      <webElementGuid>8263c345-1393-4723-919b-4da59b0efe38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit Right to Rent</value>
+      <webElementGuid>4d8ae39f-09f7-411e-8743-3d0ee66fc7de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;submit_btn_html&quot;)</value>
+      <webElementGuid>00b4589e-3624-49b4-a3af-153445c4d79b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='submit_btn_html']</value>
+      <webElementGuid>8297357b-9f61-4562-9943-179c05fb49d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_right_to_rent_alert_10014']/div/div[10]</value>
+      <webElementGuid>71aba6d6-5b73-4c15-a3f5-9a75e405d272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I do not have one of these documents'])[1]/following::div[1]</value>
+      <webElementGuid>43508f62-fc11-436b-9f09-e1dbd91697fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Back Document'])[1]/following::div[5]</value>
+      <webElementGuid>5c0f3c16-959a-4ce1-b873-5a83fb517bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go back to myRentProfile'])[1]/preceding::div[1]</value>
+      <webElementGuid>000d0546-db50-48f5-b94c-05369238ba32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Update Right to rent alert'])[1]/preceding::div[1]</value>
+      <webElementGuid>fe9b54fd-20b0-4f67-8182-68a90405263e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit Right to Rent']/parent::*</value>
+      <webElementGuid>8eb45870-f84e-4f85-bcfe-b986a3a53e77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]</value>
+      <webElementGuid>76254c5d-c1aa-486b-b503-9c72323a4ae5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'submit_btn_html' and (text() = 'Submit Right to Rent' or . = 'Submit Right to Rent')]</value>
+      <webElementGuid>aab2e15a-2423-47a5-b31e-c03c07a17d98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

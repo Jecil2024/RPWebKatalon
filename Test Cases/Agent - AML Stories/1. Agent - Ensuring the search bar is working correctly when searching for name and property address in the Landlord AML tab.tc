@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>1. Agent - Ensuring the search bar is working correctly when searching for name and property address in the Landlord AML tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d72c4da5-d205-4112-ac3b-30f89681c9eb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>55. Agent - Ensuring the search bar functions correctly when searching address or tenant name in Utilities tab</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d37111f-6e4a-41f3-bdfa-419afae1e689</testCaseGuid>
+</TestCaseEntity>

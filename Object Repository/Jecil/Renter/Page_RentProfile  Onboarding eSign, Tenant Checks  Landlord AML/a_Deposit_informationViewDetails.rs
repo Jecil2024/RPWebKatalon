@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Deposit_informationViewDetails</name>
+   <tag></tag>
+   <elementGuidId>bc1de7b4-662a-4693-84c9-93face03be20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#first_months_rent > span > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='first_months_rent']/span/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c08c4b8b-14fc-43c3-ba5d-d50d1ee1ce5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/renter/deposit/bank_transfer_payment?tenancy_ref=167199cfc6d1e0ddd48faf44f72be6f7ad130ddd84392e5ac0eec23b9083</value>
+      <webElementGuid>5f95ef44-2d6c-4fd0-9513-fc683e73f484</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View details </value>
+      <webElementGuid>3dcea7ef-7877-4d47-9a80-967d54c19614</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;profileinformation&quot;)/div[@class=&quot;col-md-12 lgtopspacing&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;panel-body sbcmobile sbcweb&quot;]/ul[@class=&quot;nav_menu&quot;]/li[@id=&quot;first_months_rent&quot;]/span[1]/a[1]</value>
+      <webElementGuid>5471ca52-b483-46cb-8274-1e119029b9ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='first_months_rent']/span/a</value>
+      <webElementGuid>a6e73f07-796c-4df5-8481-132f21622be0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'View details')]</value>
+      <webElementGuid>ca887281-b651-48f5-94d8-54b5ea935d8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[1]/following::a[1]</value>
+      <webElementGuid>c621053b-eab2-4bec-b30f-cb45653ee478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View details'])[3]/preceding::a[1]</value>
+      <webElementGuid>e7200e21-51f0-46fc-9525-f7c5049c61b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/renter/deposit/bank_transfer_payment?tenancy_ref=167199cfc6d1e0ddd48faf44f72be6f7ad130ddd84392e5ac0eec23b9083')]</value>
+      <webElementGuid>aee9c0f3-88a4-458b-a051-03dde56df977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/span/a</value>
+      <webElementGuid>de5aabee-0b2f-4e29-9fd4-7c913c72eb3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/renter/deposit/bank_transfer_payment?tenancy_ref=167199cfc6d1e0ddd48faf44f72be6f7ad130ddd84392e5ac0eec23b9083' and (text() = 'View details ' or . = 'View details ')]</value>
+      <webElementGuid>239a4248-6f37-4b2f-b9ff-e56fbe8d1e93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
