@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring that Rental Amount is editable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>009d91b3-9b1d-4691-a614-595c969ed353</testCaseGuid>
+</TestCaseEntity>

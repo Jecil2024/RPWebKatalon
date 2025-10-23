@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As Dandara - Flatfair switch should be displayed when landlord is not Baltic or Botanica on the create page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10d2e472-a0c1-45a4-addb-11f7eb1e2c6f</testCaseGuid>
+</TestCaseEntity>

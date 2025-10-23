@@ -23,8 +23,7 @@ import java.util.Arrays as Arrays
 
 WebUI.openBrowser('')
 
-'Navigate homepage'
-WebUI.navigateToUrl('https://covered-hill-4728.herokuapp.com/')
+WebUI.navigateToUrl(GlobalVariable.baseURL)
 
 WebUI.maximizeWindow()
 
@@ -63,42 +62,49 @@ WebUI.delay(2)
 int pageCount = 1
 
 while (true) {
-	println("Currently on page: $pageCount")
+    println("Currently on page: $pageCount")
 
-	// Locate rows in the table (update if needed)
-	TestObject tableRows = new TestObject('rows')
-	tableRows.addProperty('xpath', ConditionType.EQUALS, '//*[@id="checkstabletable_tenancies"]/tbody/tr')
+    // Locate rows in the table (update if needed)
+    TestObject tableRows = new TestObject('rows')
 
-	List<WebElement> rows = WebUI.findWebElements(tableRows, 10)
+    tableRows.addProperty('xpath', ConditionType.EQUALS, '//*[@id="checkstabletable_tenancies"]/tbody/tr')
 
-	if (rows.size() > 0) {
-		println("Rows found on page $pageCount: ${rows.size()}")
-	} else {
-		println("No rows found on page $pageCount.")
-	}
+    List<WebElement> rows = WebUI.findWebElements(tableRows, 10)
 
-	// Define the Next button
-	TestObject nextButton = new TestObject('nextBtn')
-	nextButton.addProperty('xpath', ConditionType.EQUALS, '/html/body/div[3]/div[2]/div/div/div[1]/div[2]/div[3]/div/ul/li[6]/a')
+    if (rows.size() > 0) {
+        println("Rows found on page $pageCount: $rows.size()")
+    } else {
+        println("No rows found on page $pageCount.")
+    }
+    
+    // Define the Next button
+    TestObject nextButton = new TestObject('nextBtn')
 
-	// Verify if Next button is present
-	if (WebUI.verifyElementPresent(nextButton, 5, FailureHandling.OPTIONAL)) {
-		// Safety check for disabled class (if applicable)
-		String nextClass = WebUI.getAttribute(nextButton, 'class')
-		if (nextClass != null && nextClass.contains('disabled')) {
-			println("Next button is disabled. Reached the last page.")
-			break
-		}
+    nextButton.addProperty('xpath', ConditionType.EQUALS, '/html/body/div[3]/div[2]/div/div/div[1]/div[2]/div[3]/div/ul/li[6]/a')
 
-		WebUI.scrollToElement(nextButton, 2)
-		WebUI.click(nextButton)
+    // Verify if Next button is present
+    if (WebUI.verifyElementPresent(nextButton, 5, FailureHandling.OPTIONAL)) {
+        // Safety check for disabled class (if applicable)
+        String nextClass = WebUI.getAttribute(nextButton, 'class')
 
-		WebUI.delay(3)
-		pageCount++
-	} else {
-		println("Next button not found. Possibly last page.")
-		break
-	}
+        if ((nextClass != null) && nextClass.contains('disabled')) {
+            println('Next button is disabled. Reached the last page.')
+
+            break
+        }
+        
+        WebUI.scrollToElement(nextButton, 2)
+
+        WebUI.click(nextButton)
+
+        WebUI.delay(3)
+
+        pageCount++
+    } else {
+        println('Next button not found. Possibly last page.')
+
+        break
+    }
 }
 
 WebUI.delay(2)

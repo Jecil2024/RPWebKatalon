@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Can upload PAT Certificate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0d289aff-c368-4b85-8f12-f4d7bfde945f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - can upload the Electrical Certificate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>293f9277-8178-46d4-9715-f47433583d2d</testCaseGuid>
+</TestCaseEntity>

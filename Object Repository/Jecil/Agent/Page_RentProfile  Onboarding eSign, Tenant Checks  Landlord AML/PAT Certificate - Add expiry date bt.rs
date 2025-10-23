@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PAT Certificate - Add expiry date bt</name>
+   <tag></tag>
+   <elementGuidId>04c0933b-112d-4e8d-a157-83b8c4263287</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='add_pat_expiry_date']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add_pat_expiry_date</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>da28b579-6fd6-4496-901e-0187bc39df46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add_pat_expiry_date</value>
+      <webElementGuid>916c3d22-f67b-40fc-91cc-5addda3d1380</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add expiry date</value>
+      <webElementGuid>a8ef2491-1ba8-4359-8eba-51445eae0fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_pat_expiry_date&quot;)</value>
+      <webElementGuid>742b7fbc-8c77-44fe-9b8b-4ed34dd2e8be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='add_pat_expiry_date']</value>
+      <webElementGuid>463d1a3f-857f-4133-9f64-13fa0cb524ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pat_details_div']/a</value>
+      <webElementGuid>5b827b16-545d-4adf-b154-5da74476497e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Add expiry date')])[4]</value>
+      <webElementGuid>7cc65288-6b98-4ea2-85ff-5f35dfd105df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[8]/following::a[1]</value>
+      <webElementGuid>9d22a5c7-6575-4d2b-90fb-2af2b82971d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[7]/following::a[2]</value>
+      <webElementGuid>cd3c8eef-7eef-4d0e-a508-2988f7d052e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send invite'])[1]/preceding::a[1]</value>
+      <webElementGuid>110bdbf1-8aa0-47fa-ad68-78636e19ad29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ELECTRIC'])[1]/preceding::a[1]</value>
+      <webElementGuid>c512e127-8f52-4941-943c-c40e892ee289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[59]</value>
+      <webElementGuid>1b9ec251-9f8c-4d29-a331-d5fe0690e321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/div[2]/a</value>
+      <webElementGuid>3473711a-841d-4c4b-be06-9e774bb6d3f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'add_pat_expiry_date' and (text() = 'Add expiry date' or . = 'Add expiry date')]</value>
+      <webElementGuid>36f3ef46-3b8d-4ffc-ada0-2b8f64cbf382</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

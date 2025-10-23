@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Checking that the Energy Certificate Remove button works</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>83057f34-760b-412d-84bb-305fb1e07075</testCaseGuid>
+</TestCaseEntity>

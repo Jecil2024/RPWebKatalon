@@ -19,8 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-'Navigate homepage'
-WebUI.navigateToUrl('https://covered-hill-4728.herokuapp.com/')
+WebUI.navigateToUrl(GlobalVariable.baseURL)
 
 WebUI.maximizeWindow()
 
@@ -90,3 +89,4 @@ WebUI.verifyTextPresent('Complete new tenancies in as little as 20 minutes', fal
 WebUI.delay(2)
 
 WebUI.closeBrowser()
+

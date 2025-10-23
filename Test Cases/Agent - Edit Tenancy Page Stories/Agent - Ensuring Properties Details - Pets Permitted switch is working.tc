@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring Properties Details - Pets Permitted switch is working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>468bb734-3b11-4828-ba1d-95ec68d8113e</testCaseGuid>
+</TestCaseEntity>

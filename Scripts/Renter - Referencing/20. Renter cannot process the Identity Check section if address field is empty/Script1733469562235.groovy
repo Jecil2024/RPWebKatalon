@@ -24,8 +24,7 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
 WebUI.openBrowser('')
 
-'Navigate homepage'
-WebUI.navigateToUrl('https://covered-hill-4728.herokuapp.com/')
+WebUI.navigateToUrl(GlobalVariable.baseURL)
 
 WebUI.maximizeWindow()
 

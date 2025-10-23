@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As Dandara - Flatfair switch should be hidden when landlord is Baltic or Botanica on the create page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31b9a4ea-a700-44c7-bdd6-2b22ced84219</testCaseGuid>
+</TestCaseEntity>

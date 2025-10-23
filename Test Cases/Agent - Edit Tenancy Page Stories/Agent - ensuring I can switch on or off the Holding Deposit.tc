@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - ensuring I can switch on or off the Holding Deposit</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f0e99cd5-3b26-431c-a7d8-2aacf6a60992</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring Property Details - Garden swithc is working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ef411fb-5b4a-4a5d-acb7-6e1f295a22a3</testCaseGuid>
+</TestCaseEntity>

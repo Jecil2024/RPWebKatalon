@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring Custom Clause switch is working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>13fa7ce9-4030-434d-808e-ff38cafeee9d</testCaseGuid>
+</TestCaseEntity>

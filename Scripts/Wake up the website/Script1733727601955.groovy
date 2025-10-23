@@ -3,6 +3,7 @@ import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+
 import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
 import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
 import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
@@ -23,29 +24,26 @@ import org.openqa.selenium.interactions.Actions as Actions
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import com.kms.katalon.core.configuration.RunConfiguration as RunConfiguration
 
-String slackToken = GlobalVariable.SlackToken
+// Load Slack webhook URL from GlobalVariable
 
+// Open browser and navigate to base URL
 WebUI.openBrowser('')
-
-'Navigate homepage'
 WebUI.navigateToUrl(GlobalVariable.baseURL)
-
 WebUI.maximizeWindow()
 
-// Loop to refresh the webpage 5 times
+// Refresh the webpage 5 times with a 1-second delay
 for (int i = 1; i <= 5; i++) {
-    WebUI.refresh( // Refreshes the web page
-        )
-
-    WebUI.delay(1 // Adds a small delay to avoid refreshing too quickly (optional)
-        )
+    WebUI.refresh()
+    WebUI.delay(1)
 }
 
+// Verify that expected text is present
 WebUI.verifyTextPresent('Complete new tenancies in as little as 20 minutes', false)
 
-println('Slack token in use: ' + System.getenv('SLACK_TOKEN'))
+// Print environment Slack token (if any)
+println("Slack token in use: ${System.getenv('SLACK_TOKEN')}")
 
 WebUI.delay(2)
 
+// Close browser
 WebUI.closeBrowser()
-

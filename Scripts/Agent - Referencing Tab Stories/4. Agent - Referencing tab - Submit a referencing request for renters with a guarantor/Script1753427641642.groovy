@@ -20,7 +20,7 @@ import myKeywords.RandomEmail as RandomEmail
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://covered-hill-4728.herokuapp.com/')
+WebUI.navigateToUrl(GlobalVariable.baseURL)
 
 WebUI.maximizeWindow()
 

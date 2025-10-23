@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>As Dandara - Checking the correct landlords are listed on the create page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b68ffa6-1822-44d0-81c9-000c4f3fa085</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring Properties Details - Storage space switch is working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97ed953a-d0d3-4605-923d-0d20e9c8c597</testCaseGuid>
+</TestCaseEntity>

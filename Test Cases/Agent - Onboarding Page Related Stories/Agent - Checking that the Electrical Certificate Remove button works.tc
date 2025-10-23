@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Checking that the Electrical Certificate Remove button works</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>66b22690-0b8b-495e-9969-1a0c3b9f21e9</testCaseGuid>
+</TestCaseEntity>

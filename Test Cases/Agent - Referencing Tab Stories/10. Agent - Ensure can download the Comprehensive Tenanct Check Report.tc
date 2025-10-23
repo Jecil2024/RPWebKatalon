@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>10. Agent - Ensure can download the Comprehensive Tenanct Check Report</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7c2c9b3-0fee-42ac-9c75-29281a94d9f8</testCaseGuid>
+</TestCaseEntity>

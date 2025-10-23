@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Gas Safety Certificate - Add expiry date bt</name>
+   <tag></tag>
+   <elementGuidId>570a5703-3cb9-4808-973c-698ea92f9589</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='add_gas_expiry_date']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add_gas_expiry_date</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d7b8ce34-df37-40cb-94f5-f9a2d416debb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add_gas_expiry_date</value>
+      <webElementGuid>f1eb4a6d-9067-4d5d-bf6c-eba8e9c36d44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add expiry date</value>
+      <webElementGuid>643eb1fe-38e6-4d73-9ca9-88c923d62ee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_gas_expiry_date&quot;)</value>
+      <webElementGuid>9b9dd11a-7e07-4e05-8f9e-9e1f8c882da8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='add_gas_expiry_date']</value>
+      <webElementGuid>c72a9bea-46b3-4b2e-b0b3-81a831d84725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='gas_safety_details_div']/a</value>
+      <webElementGuid>235934de-6e66-4d64-827c-973c69e88ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Add expiry date')])[2]</value>
+      <webElementGuid>7481e0bb-ce0e-46b1-a464-a539ca52603c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[4]/following::a[1]</value>
+      <webElementGuid>4f4809a9-00a2-4598-ac03-7ef8caa9befa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[5]/following::a[2]</value>
+      <webElementGuid>130576d6-e5b3-4e29-ab13-c9c0cb1b9749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[3]/preceding::a[1]</value>
+      <webElementGuid>eda63d04-d4ed-4267-baa0-b616ee07946b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[5]/preceding::a[1]</value>
+      <webElementGuid>77ad118e-19e2-4f66-8c44-59e1ed4b24c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[53]</value>
+      <webElementGuid>e5e724e1-8523-4a0d-9501-1d897650d2c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div[2]/a</value>
+      <webElementGuid>7bb3b904-6207-4f0e-ae62-878ccbffd1b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'add_gas_expiry_date' and (text() = 'Add expiry date' or . = 'Add expiry date')]</value>
+      <webElementGuid>ba4a3d46-0af4-43b3-acd5-e2301c3d3c8a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

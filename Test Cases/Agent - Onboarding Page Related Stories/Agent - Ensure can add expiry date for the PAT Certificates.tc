@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensure can add expiry date for the PAT Certificates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31709413-1ac6-474b-bf0e-b693c7f6e4a8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Gas Safety Certificate - Close (x) bt</name>
+   <tag></tag>
+   <elementGuidId>ea165320-31c8-4611-8f46-5450bb73cd31</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='close_gas_safety_expiry_date_div']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#close_gas_safety_expiry_date_div > i.fa.fa-times</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8a368b4c-8027-4ca3-8bad-b11a4677d57f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>c8de6373-4f9f-4a9f-8e89-0c6034084c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>77af2a0d-ab20-49f5-b7f5-e14aeddecb77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close_gas_safety_expiry_date_div&quot;)/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>a3114fd7-d0f6-40de-af6c-843737f6b33d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='close_gas_safety_expiry_date_div']/i</value>
+      <webElementGuid>6461adaf-626f-4190-bb31-97bd2084c566</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/div/form/span/i</value>
+      <webElementGuid>2848c312-aadc-4a5b-8f9a-67cc22f9c872</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tenant Check Report - Download PDF Report bt</name>
+   <tag></tag>
+   <elementGuidId>0b24de58-8351-473b-8ca2-45cfcfc15a41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-lightgrey.btn-lg.btn-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9f97ba47-b462-498a-bccb-bf86ffa3f54e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>75ced688-95fe-4f13-a4ec-135b377e0a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-lightgrey btn-lg btn-block</value>
+      <webElementGuid>66f89d66-e6fc-4a2b-be49-b992ca6fc305</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Download PDF Report</value>
+      <webElementGuid>9d4ca45d-1de4-4419-ab1d-728594710992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cbp-spmenu-push&quot;]/div[3]/div[@class=&quot;maincontainer tpheightdesktop&quot;]/div[@class=&quot;col-md-12 profilepaper narrow top-shadow bottom-shadow&quot;]/div[@class=&quot;col-md-12 lgtopspacingprofile&quot;]/div[@class=&quot;toplandlordsection&quot;]/div[@class=&quot;hidden-xs&quot;]/div[1]/form[1]/button[@class=&quot;btn btn-lightgrey btn-lg btn-block&quot;]</value>
+      <webElementGuid>e6480482-165c-401f-b899-f173de67b7ab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>2709efb0-74e9-43fb-bd07-73cd6c16fc2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tenant ref: 5ac6ba'])[1]/following::button[1]</value>
+      <webElementGuid>9f69d8f8-7350-463b-9a35-df2dd241e3b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[2]/following::button[1]</value>
+      <webElementGuid>3135a611-d0bf-43de-a183-8102640d191f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download PDF Report'])[2]/preceding::button[1]</value>
+      <webElementGuid>ec462a35-0826-46cd-8956-cfa7762a32e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Download PDF Report']/parent::*</value>
+      <webElementGuid>3f11f185-015d-4666-a3e5-5e1bcf9fb9cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>72660f7e-38aa-4d63-9fdc-4b53bd685796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Download PDF Report' or . = ' Download PDF Report')]</value>
+      <webElementGuid>94961ba3-9fbb-47e6-9da8-608f106ffd6c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring Landlord Break Clause switch is working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e95573f4-a7bb-46b9-b2c2-23bcde20cb89</testCaseGuid>
+</TestCaseEntity>

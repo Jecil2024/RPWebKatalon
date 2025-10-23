@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensure can addd expiry date for the Electrical Certificate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>910e26b7-3913-4e51-af0a-1a6d695c217e</testCaseGuid>
+</TestCaseEntity>

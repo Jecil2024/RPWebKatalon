@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PAT Certificate - Close (x) bt</name>
+   <tag></tag>
+   <elementGuidId>36afdfd8-3c1f-4290-8769-798191cb61c1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='close_pat_expiry_date_div']/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#close_pat_expiry_date_div > i.fa.fa-times</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2607b5b0-cc0b-4628-b3ca-9530f55f1af3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-times</value>
+      <webElementGuid>ecd4b828-e476-4aa4-a280-a165eaddaf42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b2676c3f-5374-471d-a597-7805cec52599</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;close_pat_expiry_date_div&quot;)/i[@class=&quot;fa fa-times&quot;]</value>
+      <webElementGuid>746fea54-3d2d-4c5a-a751-d4d05ea576ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='close_pat_expiry_date_div']/i</value>
+      <webElementGuid>cce56e34-6043-4c19-8981-1a9c82ea346c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[4]/div/form/span/i</value>
+      <webElementGuid>052d812e-5514-4693-a9bd-8e8e4fd52e08</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -18,8 +18,7 @@ import internal.GlobalVariable as GlobalVariable
 
 WebUI.openBrowser('')
 
-'Navigate homepage'
-WebUI.navigateToUrl('https://covered-hill-4728.herokuapp.com/')
+WebUI.navigateToUrl(GlobalVariable.baseURL)
 
 WebUI.maximizeWindow()
 

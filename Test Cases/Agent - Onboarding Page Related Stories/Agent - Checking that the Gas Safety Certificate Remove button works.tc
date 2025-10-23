@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Checking that the Gas Safety Certificate Remove button works</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9381a96-c061-443f-9025-4f63f69ef54c</testCaseGuid>
+</TestCaseEntity>

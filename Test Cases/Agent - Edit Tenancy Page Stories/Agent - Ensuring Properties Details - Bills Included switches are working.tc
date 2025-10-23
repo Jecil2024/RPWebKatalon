@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring Properties Details - Bills Included switches are working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>eaac2721-b54f-4137-9f7c-e1337f9c5313</testCaseGuid>
+</TestCaseEntity>

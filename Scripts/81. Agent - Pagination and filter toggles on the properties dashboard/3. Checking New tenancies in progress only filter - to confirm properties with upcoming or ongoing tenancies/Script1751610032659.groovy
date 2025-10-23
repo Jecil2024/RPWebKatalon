@@ -133,18 +133,18 @@ for (int i = 0; i < allTenancyValues.size(); i++) {
             Date date = sdf.parse(val.replace('Ends ', ''))
 
             if (date.before(today)) {
-                WebUI.comment("❌ Row $(i + 1): Ends date in the past - '$val'")
+                WebUI.comment("❌ Row ${i + 1}: Ends date in the past - '${val}'")
 
                 hasInvalid = true
             }
         }
         catch (Exception e) {
-            WebUI.comment("⚠️ Row $(i + 1): Unable to parse date - '$val'")
+            WebUI.comment("⚠️ Row ${i + 1}: Unable to parse date - '${val}'")
 
             hasInvalid = true
         } 
     } else {
-        WebUI.comment("❌ Row $(i + 1): Unexpected value - '$val'")
+        WebUI.comment("❌ Row ${i + 1}: Unexpected value - '${val}'")
 
         hasInvalid = true
     }

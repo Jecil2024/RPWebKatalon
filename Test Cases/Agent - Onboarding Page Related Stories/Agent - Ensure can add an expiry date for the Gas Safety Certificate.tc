@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensure can add an expiry date for the Gas Safety Certificate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d8280fc-8c6a-4b5e-9ee1-ab711bac6938</testCaseGuid>
+</TestCaseEntity>

@@ -22,7 +22,7 @@ import com.kms.katalon.core.testobject.ConditionType as ConditionType
 // Open browser and go to site
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://covered-hill-4728.herokuapp.com/')
+WebUI.navigateToUrl(GlobalVariable.baseURL)
 
 WebUI.maximizeWindow()
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensruing Properties Details - Balcony_Patio_Terrace switch is working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ac03840e-d41a-42ff-bd4d-dbecdfe771bf</testCaseGuid>
+</TestCaseEntity>

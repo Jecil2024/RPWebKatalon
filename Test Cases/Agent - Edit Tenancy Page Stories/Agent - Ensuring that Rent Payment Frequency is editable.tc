@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring that Rent Payment Frequency is editable</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6f015b3c-3238-41bf-b57f-998f5bfec1ba</testCaseGuid>
+</TestCaseEntity>

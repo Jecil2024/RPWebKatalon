@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Checking that the PAT Certificate Remove button works</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>915c25e0-3acc-41d3-a4bf-ee5a8ec9ce02</testCaseGuid>
+</TestCaseEntity>

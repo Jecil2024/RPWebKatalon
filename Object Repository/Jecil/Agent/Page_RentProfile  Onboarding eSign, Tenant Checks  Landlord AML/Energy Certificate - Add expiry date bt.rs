@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Energy Certificate - Add expiry date bt</name>
+   <tag></tag>
+   <elementGuidId>7b4393fc-64e5-4a22-a432-1ed7f8ccea28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='add_energy_expiry_date']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#add_energy_expiry_date</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2dbbf7d4-7e3a-48e0-9ea1-c3c4c20205c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>add_energy_expiry_date</value>
+      <webElementGuid>38609935-d74a-441a-a66c-4b6054bbccae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add expiry date</value>
+      <webElementGuid>4324bc70-2a3b-4181-92b9-7480da585e2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;add_energy_expiry_date&quot;)</value>
+      <webElementGuid>10b4c3f9-aaf4-4347-b81d-d50f1201db2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='add_energy_expiry_date']</value>
+      <webElementGuid>506fab5b-c9a3-47de-a959-8655206cd25f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='energy_certificate_details_div']/a</value>
+      <webElementGuid>d316dd4c-bc08-4f60-899c-f017d37b5f76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Add expiry date')]</value>
+      <webElementGuid>178dcc0a-1616-4456-b537-0f59e05192f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[2]/following::a[1]</value>
+      <webElementGuid>df609c35-845b-4fa1-92f8-d2df79bb439a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[4]/following::a[2]</value>
+      <webElementGuid>6d8a16dc-536b-43f9-9509-bfc2c0d92480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[2]/preceding::a[1]</value>
+      <webElementGuid>d2c43d5a-d8be-4b82-84c0-61edc7ebaeb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='submit'])[3]/preceding::a[1]</value>
+      <webElementGuid>a05eae95-31b4-4deb-aebd-4dc4f69e5057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add expiry date']/parent::*</value>
+      <webElementGuid>3b0811cc-99bb-419b-9d96-bd90616ad414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[50]</value>
+      <webElementGuid>d547b10d-82a4-453a-a76a-09e505707cd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div[2]/a</value>
+      <webElementGuid>ea82ebbf-456d-4ab4-8592-3ab25bd60288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'add_energy_expiry_date' and (text() = 'Add expiry date' or . = 'Add expiry date')]</value>
+      <webElementGuid>60b64021-8ef2-495c-8410-45a4e94fbaa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent can upload the Energy Performance Certificate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f9faa7c2-c23e-4028-ab17-d44f5bf35573</testCaseGuid>
+</TestCaseEntity>

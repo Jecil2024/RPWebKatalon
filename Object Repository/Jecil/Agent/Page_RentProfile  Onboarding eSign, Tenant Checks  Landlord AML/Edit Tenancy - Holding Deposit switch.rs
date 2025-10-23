@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit Tenancy - Holding Deposit switch</name>
+   <tag></tag>
+   <elementGuidId>3848b977-f896-4ac4-a3e6-e21188dd94a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.switch.switchOn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;depositstuff&quot;]/table/tbody/tr[1]/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8e25ea10-acdc-41af-ad72-2ee5ff67eba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a4b7c8cc-4393-454b-b220-7fa24aeb1fd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>switch switchOn</value>
+      <webElementGuid>510da275-c97f-4aa3-b6a8-71488793c3cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;depositstuff&quot;)/table[@class=&quot;addtenancyblockcontainer&quot;]/tbody[1]/tr[1]/td[2]/label[1]/div[@class=&quot;switch switchOn&quot;]</value>
+      <webElementGuid>90da6d10-341c-4dad-89d4-fd305e950de5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@value='true']</value>
+      <webElementGuid>e5a617d2-122f-43a3-8092-fe8a96641a1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='depositstuff']/table/tbody/tr/td[2]/label/div</value>
+      <webElementGuid>f4d62d25-3fe7-400c-a11f-19a2d0344e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/table/tbody/tr/td[2]/label/div</value>
+      <webElementGuid>790b7758-63b1-4a85-b5db-59a8ecacc8f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

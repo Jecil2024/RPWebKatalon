@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensure can add expiry date for the Energy Certificates</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cd51e33e-842f-48b7-8a63-c91aab96574a</testCaseGuid>
+</TestCaseEntity>

@@ -130,7 +130,7 @@ WebUI.comment('============ DEBUG START ============')
 WebUI.comment("Total entries: $allTenancyValues.size()")
 
 allTenancyValues.eachWithIndex({ def val, def idx ->
-        WebUI.comment("$(idx + 1). $val")
+        WebUI.comment("${idx + 1}. $val")
     })
 
 WebUI.comment("Vacants count: $rawVacants.size()")
@@ -149,7 +149,7 @@ for (int i = 0; i < allTenancyValues.size(); i++) {
     if ((val == 'N/A') && seenEnded) {
         violatedVacantOrder = true
 
-        WebUI.comment("❌ Vacant found after an Ended entry at row $(i + 1): '$val'")
+        WebUI.comment("❌ Vacant found after an Ended entry at row ${i + 1}: '${val}'")
     }
     
     if (val.startsWith('Ended')) {

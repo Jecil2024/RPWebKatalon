@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Agent - Ensuring Properties Details - Smoking Permitted switch is working</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f704bbbb-bde5-40dd-a0c4-9564ab818991</testCaseGuid>
+</TestCaseEntity>

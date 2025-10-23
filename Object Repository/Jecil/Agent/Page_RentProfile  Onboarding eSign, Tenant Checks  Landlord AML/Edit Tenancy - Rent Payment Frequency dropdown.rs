@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Edit Tenancy - Rent Payment Frequency dropdown</name>
+   <tag></tag>
+   <elementGuidId>dacf94fe-f167-450e-add0-9ea9582dfb4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#rent_payment_schedule</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='rent_payment_schedule']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e19c887b-723f-4d88-98af-bf4e3757193c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>selected</name>
+      <type>Main</type>
+      <value>selected</value>
+      <webElementGuid>b04da901-e0f4-4659-8651-959bb44549ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>rent_payment_schedule</value>
+      <webElementGuid>5bdb750c-8ca6-4725-9579-c61b31a656f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select optional form-control input-lg</value>
+      <webElementGuid>74a2d3aa-ad7e-41bd-b9a4-e82925c89e4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tenancy[rent_payment_schedule]</value>
+      <webElementGuid>9d6c6a71-a492-43ba-bf30-79777ac6b91f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Weekly
+Monthly
+Quarterly
+Half Year
+Annually</value>
+      <webElementGuid>3b37ff16-76f9-4d48-9351-45878563d7f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rent_payment_schedule&quot;)</value>
+      <webElementGuid>a60dd560-f9e3-4e2c-b4ad-573812f252c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='rent_payment_schedule']</value>
+      <webElementGuid>2a2cf647-7a0a-4075-9650-1611cce1b425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='edit_tenancy_31963']/table/tbody/tr[5]/td[2]/select</value>
+      <webElementGuid>c541d851-5dee-45f7-af6e-1a65794427f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom date'])[1]/following::select[1]</value>
+      <webElementGuid>cd36c775-1772-44f1-8496-31cbd5a45864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proposed move in date'])[1]/following::select[2]</value>
+      <webElementGuid>0b23ae4a-1056-4579-8a6f-ca9c734f1ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom rent due date'])[1]/preceding::select[1]</value>
+      <webElementGuid>3462578e-436d-4c83-a882-7066ff22eda1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The increase applies to the sooner of annual rent increase or start of rolling tenancy.'])[1]/preceding::select[2]</value>
+      <webElementGuid>208f4ba5-7914-4183-8c65-dcd32a7f348b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[5]/td[2]/select</value>
+      <webElementGuid>7f3dc243-88a8-4f65-9999-925cfdb31d56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@selected = 'selected' and @id = 'rent_payment_schedule' and @name = 'tenancy[rent_payment_schedule]' and (text() = 'Weekly
+Monthly
+Quarterly
+Half Year
+Annually' or . = 'Weekly
+Monthly
+Quarterly
+Half Year
+Annually')]</value>
+      <webElementGuid>72a1a171-ff9e-49bc-9972-ddaf74a53662</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
